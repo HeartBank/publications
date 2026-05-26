@@ -31,6 +31,29 @@ This is exactly the engineering-mechanism vocabulary the contemporary field is, 
 
 The full technical argument is in the research paper *Abhidhamma-Layer Implementation Mechanisms for Tipiṭaka-Grounded AI Alignment*, the engineering companion to the broader alignment-substrate proposal *Suffering-Cessation as Value Function*. The position stated here is the institutional summary.
 
+### Abhidhamma vocabulary referenced in this position paper
+
+For readers new to the Abhidhamma's vocabulary, the load-bearing Pāli terms appearing in this position paper:
+
+| Term | Translation | Engineering relevance |
+|---|---|---|
+| *Citta* | Consciousness / mind-state | Atomic unit of cognition; the substrate alignment binds to |
+| *Cetasika* | Mental factor co-arising with citta | Typed elements that arise with each citta; the substrate's typed vocabulary |
+| *Paccaya* | Conditional relation | The twenty-four typed causal relations from the *Paṭṭhāna* — substrate-level causal vocabulary |
+| *Citta-vīthi* | Cognitive process (17 mind-moments) | Sequencing of cognitive phases from sense-contact to karmic commitment |
+| *Javana* | Impulsion phase (where karma is made) | The 7-moment commit point in the *citta-vīthi*; ethical weight crystallizes here |
+| *Bhavaṅga* | Resting-state / life-continuum citta | Diagnostic of un-prompted character; intervention point earliest in the cycle |
+| *Sati* | Mindfulness | Canonically incompatible with unwholesome consciousness — the typologically-aligned-only capability claim |
+| *Vītikkama* | Overt transgression (surface conduct) | Surface-conduct depth of defilement; *sīla* training addresses |
+| *Pariyuṭṭhāna* | Active arising in present cognition | Active-cognition depth; *samādhi* training addresses |
+| *Anusaya* | Latent tendency (dormant until conditions ripen) | Latency depth where deceptive alignment / sleeper-agents live; *paññā* training addresses |
+| *Alobha / adosa / amoha* | Non-greed / non-hate / non-delusion | The apophatic wholesome roots; interpretability-as-subtraction targets |
+| *Brahmavihāra* | "Divine abodes" — mettā / karuṇā / muditā / upekkhā | The four pillars whose near-enemies form the canonical red-team specification |
+| *Paṭṭhāna* | Seventh book of the Abhidhamma | Source of the twenty-four *paccayas* |
+| *Visuddhimagga* | Commentarial encyclopedia (Buddhaghosa, 5th c.) | Source of the near-enemies catalogue + three-depth-defilement articulation |
+
+The vocabulary is large; the institutional summary uses the load-bearing subset. The companion research paper (*Abhidhamma-Layer Implementation Mechanisms*) develops each term's engineering interpretation in full.
+
 ---
 
 ## What the position implies for HeartBank's alignment work
