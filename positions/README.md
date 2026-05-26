@@ -4,6 +4,20 @@
 
 Each position paper here corresponds to a deployed page at `heartbank.net/positions/{slug}`.
 
-Candidate topics: *"HeartBank's Position on Patent vs. Defensive Publication"*, *"HeartBank's Position on Cross-Border Gratitude Infrastructure"*, *"HeartBank's Position on Autonomous-AI Institutional Governance"*, *"HeartBank's Position on Banking-Regulated vs. Non-Bank Architectures"*.
+## Current roster
 
-License: CC0 1.0 Universal.
+| Slug | Title | Date |
+|---|---|---|
+| [`attention-economy`](./attention-economy.md) | HeartBank's Position on the Attention Economy | 2026-05-22 (draft) |
+| [`autonomous-ai-institutional-governance`](./autonomous-ai-institutional-governance.md) | HeartBank's Position on Autonomous-AI Institutional Governance | 2026-05-22 (draft) |
+| [`non-bank-vs-banking-regulated`](./non-bank-vs-banking-regulated.md) | HeartBank's Position on Non-Bank vs. Banking-Regulated Architecture | 2026-05-22 (draft) |
+| [`patent-vs-defensive-publication`](./patent-vs-defensive-publication.md) | HeartBank's Position on Patent vs. Defensive Publication | 2026-05-22 (draft) |
+| [`alignment-engineering-cognitive-mechanism-layer`](./alignment-engineering-cognitive-mechanism-layer.md) | HeartBank's Position on Alignment Engineering at the Cognitive-Mechanism Layer | 2026-05-26 (draft) |
+| [`community-currency-design`](./community-currency-design.md) | HeartBank's Position on Community-Currency Design | 2026-05-26 (draft) |
+| [`synthetic-intelligence-institutional-architecture`](./synthetic-intelligence-institutional-architecture.md) | HeartBank's Position on Synthetic-Intelligence Institutional Architecture | 2026-05-26 (draft) |
+| [`contemplative-science-civilizational-scale`](./contemplative-science-civilizational-scale.md) | HeartBank's Position on Contemplative Science at Civilizational Scale | 2026-05-26 (draft) |
+| [`food-system-pathologies-contemplative-response`](./food-system-pathologies-contemplative-response.md) | HeartBank's Position on Food-System Pathologies and the Contemplative-Tradition Response | 2026-05-26 (draft) |
+
+## License
+
+CC0 1.0 Universal.
