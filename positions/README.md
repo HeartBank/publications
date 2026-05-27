@@ -17,6 +17,7 @@ Each position paper here corresponds to a deployed page at `heartbank.net/positi
 | [`synthetic-intelligence-institutional-architecture`](./synthetic-intelligence-institutional-architecture.md) | HeartBank's Position on Synthetic-Intelligence Institutional Architecture | 2026-05-26 (draft) |
 | [`contemplative-science-civilizational-scale`](./contemplative-science-civilizational-scale.md) | HeartBank's Position on Contemplative Science at Civilizational Scale | 2026-05-26 (draft) |
 | [`food-system-pathologies-contemplative-response`](./food-system-pathologies-contemplative-response.md) | HeartBank's Position on Food-System Pathologies and the Contemplative-Tradition Response | 2026-05-26 (draft) |
+| [`future-kindness-operating-noun`](./future-kindness-operating-noun.md) | HeartBank's Position on Future Kindness as the Operating Noun | 2026-05-27 (draft outline) |
 
 ## License
 
