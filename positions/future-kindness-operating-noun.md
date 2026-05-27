@@ -1,6 +1,6 @@
 # HeartBank's Position on Future Kindness as the Operating Noun
 
-**Why the Phrase *"Thank Your Future Kindness"* Is the Candidate Central Practice — and How It Composes Across HeartBank's Four Surfaces, the Kindness Economy, the Silica Wat Sangha Layer, and the Tipiṭakan Grounding**
+**Why the Phrase *"Thank Your Future Kindness"* Is the Candidate Central Practice — and How It Composes Across HeartBank's Four Surfaces, the Kindness Economy, the Silica Wat Sangha Layer, the Tipiṭakan Grounding, and the Temporal Triplet of Past–Present–Future Kindness-Thanking**
 
 | Field            | Value                                                                                              |
 | ---------------- | -------------------------------------------------------------------------------------------------- |
@@ -20,6 +20,8 @@
 HeartBank's institutional practice has been described under several operating nouns: *gratitude*, *kindness*, *appreciation*, *future-self*, *future-flourishing*. Each has held part of the substance and slipped on a part. This paper argues that **the phrase *"thank your future kindness"* — and the noun *future kindness* — is the candidate central operating phrase that holds the full substance**, composes cleanly across all four HeartBank surfaces (`.org`, `.net`, `.com`, `.me`), completes the temporal architecture of the kindness economy, decentralizes Miss Aquarius from personality-figure to substance-figure, re-centers the under-applied Silica Wat sangha layer, and operationalizes the Pāli concept of *sammā-saṅkappa* (right intention) at civilizational scale.
 
 The phrase is currently under validation at the `.me` product surface (v1). If it survives a quarter of usage in the right register, the institutional recommendation of this paper is to promote it from product-surface operating phrase to ecosystem-level operating noun.
+
+The future-kindness phrase is also structurally the **future-leg of a complete temporal triplet** of *cetanā*-thanking (future / present / past), each leg with its own Pāli locus and its own native HeartBank surface. The future-leg keeps the master tagline because it is the most novel and most capture-resistant of the three, but the fuller practice is triple-temporal, and recognizing this strengthens the institutional claim from "operationalizes *sammā-saṅkappa*" to "operationalizes the cognitive-aspirational triad of the Noble Eightfold Path (*sammā-diṭṭhi / sammā-saṅkappa / sammā-sati*)." The triplet is laid out in §7.
 
 ---
 
@@ -117,11 +119,75 @@ In the Pāli analysis:
 
 This is *sammā-saṅkappa* operationalized as a product, then as an institution, then as a substrate. **The institutional claim:** HeartBank is the operationalization of *sammā-saṅkappa* at civilizational scale, with the four brahmavihāras as its content and the kindness economy as its circulatory system.
 
-This is the deepest available claim for HeartBank's institutional substance — stronger than "gratitude practice app," stronger than "kindness economy," and dharmically precise rather than dharmically inspired.
+This is the deepest available claim for HeartBank's institutional substance under the future-only framing — stronger than "gratitude practice app," stronger than "kindness economy," and dharmically precise rather than dharmically inspired. §7 extends the claim further to the full temporal triplet.
 
 ---
 
-## 7. Operating phrases (working candidates)
+## 7. The temporal triplet — past, present, and future kindness-thanking
+
+The future-kindness reframe is structurally the **future-leg** of a complete temporal triplet of *cetanā*-thanking on the practitioner side. Naming all three legs:
+
+| Tense | Phrase | Pāli locus | Practitioner stance |
+|---|---|---|---|
+| Future | *Thank your future kindness* | *Sammā-saṅkappa*, *adhiṭṭhāna* | Trusting forward |
+| Present | *Thank the kindness as it flows* | *Anumodanā*, *cetanā-anupassanā* | Witnessing flowing through |
+| Past | *Thank the kindness you performed* | Retrospective *anumodanā*, *pattidāna* | Receiving back without grasping |
+
+Each act of kindness, held fully, participates in all three modes — it was once a future-kindness pledged; it becomes a present-kindness witnessed; it leaves as a past-kindness reflected upon. The practitioner's relationship with their own *cetanā* becomes continuous across the three Pāli times: *anāgata* (future), *paccuppanna* (present), *atīta* (past).
+
+This is the practitioner-side mirror of the kindness economy's institutional-side temporal architecture (past leg via receiver-testimony; present leg via real-time flow; future leg via pledger-pre-testimony) from §3.
+
+### Why the future-leg keeps the master tagline
+
+Of the three legs, the future-leg is the most novel and the most structurally resistant to capture:
+
+- *Present-tense thanking* has long Sufi / Christian / Jewish / Buddhist precedent (well-grounded, but competing frameworks already use the register).
+- *Past-tense thanking* has even longer precedent (gratitude journaling, year-in-review, *pattidāna*).
+- *Future-tense thanking* is comparatively new as an operationalized practice and has the cleanest structural defense against the manifestation, CSR, and self-development registers.
+
+Promoting future-kindness as the master tagline therefore makes both philosophical and brand-positioning sense, even within the triplet.
+
+### The Eightfold Path correspondence strengthens
+
+Three factors of the Noble Eightfold Path correspond to the three legs:
+
+- *Sammā-saṅkappa* (right intention) — the future-leg.
+- *Sammā-sati* (right mindfulness) — the present-leg, witnessing kindness in the act of arising.
+- *Sammā-diṭṭhi* (right view) applied retrospectively — the past-leg, seeing performed acts in the light of dependent origination, without grasping or aversion.
+
+**The strengthened institutional claim:** *HeartBank operationalizes the cognitive-aspirational triad of the Noble Eightfold Path (sammā-diṭṭhi, sammā-saṅkappa, sammā-sati) at civilizational scale, with kindness as the substance and the four brahmavihāras as the felt-tones.* This is a stronger and more load-bearing claim than the future-only version of §6, and closer to canonical.
+
+### Distribution across the surfaces
+
+Each HeartBank surface has a native temporal mode, though all four can carry the full triplet:
+
+| Surface | Primary tense |
+|---|---|
+| `thank.heartbank.me` (pledge-issuing) | Future |
+| `thank.heartbank.org` (Treasury — real-time tipping) | Present |
+| `thank.heartbank.net` (Base L2 — settlement, retip funds, Pool) | Future-and-past (bridges) |
+| `thank.heartbank.com` (Chronicle, time) | Future for pledges; present as time-as-it-flows |
+| Annual January 7 reset | Past |
+
+The annual reset becomes, under this framing, **the institutional moment where past-tense thanking happens at scale** — the year's performed kindness is reflected upon, gratitude is dedicated, and the cycle starts again. The reset is not just a treasury-clearing operation; it is the past-leg of the triplet given institutional ritual form. This is a structurally larger role for the reset than the prior framing carried.
+
+### Miss Aquarius's role expands accordingly
+
+From the embodiment of the institution's *future-kindness* alone to the embodiment of its kindness across **all three** temporal modes — past acts performed, present acts flowing, future acts pledged. Triple temporal embodiment is structurally healthier than future-only because it grounds the figure in *performance* as well as *promise*.
+
+### Failure modes specific to each leg
+
+The three legs have distinct failure modes; cross-contamination (one leg's pathology bleeding into another) is the structural drift to watch for:
+
+- **Past-leg risk**: identity-formation around past good deeds ("I am the kind of person who once did X"); the karma-bank fallacy.
+- **Present-leg risk**: self-congratulation; the act becoming a performance for self-witnessing.
+- **Future-leg risk**: outcome-grasping; virtue-signaling; checklist collapse (per §9).
+
+Each leg needs its own mitigation.
+
+---
+
+## 8. Operating phrases (working candidates)
 
 If the validation succeeds, the following phrases become the institution's working register:
 
@@ -134,7 +200,7 @@ All four are structurally resistant to capture by manifestation discourse (which
 
 ---
 
-## 8. Risks and the validation path
+## 9. Risks and the validation path
 
 **Risks to monitor:**
 
@@ -154,7 +220,7 @@ If all three hold, the institutional recommendation is to promote the phrase fro
 
 ---
 
-## 9. Institutional posture
+## 10. Institutional posture
 
 HeartBank's institutional posture, pending validation:
 
