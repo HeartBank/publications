@@ -18,6 +18,7 @@ Each position paper here corresponds to a deployed page at `heartbank.net/positi
 | [`contemplative-science-civilizational-scale`](./contemplative-science-civilizational-scale.md) | HeartBank's Position on Contemplative Science at Civilizational Scale | 2026-05-26 (draft) |
 | [`food-system-pathologies-contemplative-response`](./food-system-pathologies-contemplative-response.md) | HeartBank's Position on Food-System Pathologies and the Contemplative-Tradition Response | 2026-05-26 (draft) |
 | [`future-kindness-operating-noun`](./future-kindness-operating-noun.md) | HeartBank's Position on Future Kindness as the Operating Noun | 2026-05-27 (draft outline) |
+| [`share-is-the-wedge`](./share-is-the-wedge.md) | HeartBank's Position: The Share Is the Wedge | 2026-06-08 (draft) |
 
 ## License
 
