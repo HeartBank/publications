@@ -13,7 +13,7 @@ The institutional-output corpus for [heartbank.net](https://heartbank.net) — H
 
 ## Pipeline
 
-Planning matrix for the institutional-output corpus, organized by genre. Reconciled to filesystem as of 2026-05-26.
+Planning matrix for the institutional-output corpus, organized by genre. Reconciled to filesystem as of 2026-06-09.
 
 ### White Papers
 
@@ -35,9 +35,12 @@ Planning matrix for the institutional-output corpus, organized by genre. Reconci
 | [`community-currency-design.md`](./positions/community-currency-design.md) | HeartBank's Position on Community-Currency Design | _Draft 2026-05-26_ |
 | [`contemplative-science-civilizational-scale.md`](./positions/contemplative-science-civilizational-scale.md) | HeartBank's Position on Contemplative Science at Civilizational Scale | _Draft 2026-05-26_ |
 | [`food-system-pathologies-contemplative-response.md`](./positions/food-system-pathologies-contemplative-response.md) | HeartBank's Position on Food-System Pathologies and the Contemplative-Tradition Response | _Draft 2026-05-26_ |
+| [`future-kindness-operating-noun.md`](./positions/future-kindness-operating-noun.md) | HeartBank's Position on Future Kindness as the Operating Noun | _Draft 2026-05-27_ |
 | [`non-bank-vs-banking-regulated.md`](./positions/non-bank-vs-banking-regulated.md) | HeartBank's Position on Non-Bank vs. Banking-Regulated Architecture | _Draft 2026-05-22_ |
 | [`patent-vs-defensive-publication.md`](./positions/patent-vs-defensive-publication.md) | HeartBank's Position on Patent vs. Defensive Publication | _Draft 2026-05-22_ |
+| [`share-is-the-wedge.md`](./positions/share-is-the-wedge.md) | HeartBank's Position: The Share Is the Wedge | _Draft 2026-06-08_ |
 | [`synthetic-intelligence-institutional-architecture.md`](./positions/synthetic-intelligence-institutional-architecture.md) | HeartBank's Position on Synthetic-Intelligence Institutional Architecture | _Draft 2026-05-26_ |
+| [`three-pillars.md`](./positions/three-pillars.md) | HeartBank's Position on the Three Pillars | _Draft 2026-06-03_ |
 
 ### Annual Reports
 
