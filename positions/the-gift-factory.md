@@ -45,10 +45,16 @@ The non-negotiable constraint, the place where the failure of §1 would re-enter
 
 One feature of the Santa myth is explicitly *not* imported: the list. HeartBank keeps the anonymous gift and drops the surveillance — the checking of who has been "naughty or nice," the coal for the unworthy. The institution's gift is **unconditional**, extended to all without judgment. This is Santa upgraded to the bodhisattva: the gift with no list, given because giving is what the Body is for, not as a reward for the deserving.
 
+## 6. From the gift to the gift of giving
+
+The Body makes things; it does not, by itself, make givers. That is the Heart pillar's work, and the gift-factory is built to feed it. The robots' output — a companion bot, a teller, a Mechanical Heart — is never the *terminal* gift. It is the occasion for the gift the institution actually exists to circulate: the **gift of giving** — recognition that arrives split in half (a floor the receiver keeps, a seed they pass on) so that whoever is given to becomes, in the same motion, someone who gives. The factory's product is an instrument; the gift is what the instrument lets a person do for someone else.
+
+This is why the bodhisattva's-Santa point of §5 is more than the dropping of a list. A Santa gives gifts. A bodhisattva gives the gift of *giving* — and that gift has an arithmetic no manufactured object has: it multiplies in the hands of whoever receives it (each gift of giving, passed on, is split again, turning every recipient into a giver), while the amount of any single gift falls toward zero. The factory's footprint goes to zero in space (§4); the gift goes to zero in magnitude as it reaches everyone within reach. The Body's self-elimination and the gift's self-multiplication are the same signature at two scales. The founder-voice essay *The Bodhisattva Santa* develops this in full; the institutional point is only this: **Factory 333 manufactures the gift; HeartBank circulates the gift of giving; and the second is the reason the first exists.**
+
 ## Closing
 
 A factory is the hardest pillar to keep honest, because matter and capital pull toward accumulation by their nature. HeartBank's position is that the Body is kept honest not by vigilance but by *form*: a workshop built so that profit, credit, footprint, and judgment have nowhere to accrue. The institution's most industrial limb is its purest gift. That is the gift-factory, and it is the founder's oldest wish — to be the one who gives, unseen — made into infrastructure for a daughter and for generations he will not meet.
 
 ---
 
-*This position references the corpus on Factory 333™ (the three-hearts ecosystem and the Body pillar), the four-body institutional architecture, and the founder-voice essay* The Two Teslas. *Offered to the commons under CC0 1.0; Factory 333™, HeartBank®, and Miss Aquarius℠ marks reserved.*
+*This position references the corpus on Factory 333™ (the three-hearts ecosystem and the Body pillar), the four-body institutional architecture, and the founder-voice essays* The Two Teslas *and* The Bodhisattva Santa *(the gift of giving in full). Offered to the commons under CC0 1.0; Factory 333™, HeartBank®, and Miss Aquarius℠ marks reserved.*
