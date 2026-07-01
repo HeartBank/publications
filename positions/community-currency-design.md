@@ -51,10 +51,19 @@ The dual-currency pattern is offered to the commons. Other community-currency pr
 
 ---
 
+## The civic dimension, and its boundary
+
+A community currency that circulates gratitude produces, in aggregate, a second-order signal: a picture of where kindness flows through a community — which businesses, which neighborhoods, which relationships generate the most freely given thanks. That aggregate picture is a genuine civic good. It can help a community find and support the people and places already doing the most good, the way a map of a commons helps the commons tend itself.
+
+HeartBank's position is that this civic signal is legitimate only inside strict boundaries, and that naming those boundaries *first* — before the signal exists at scale — is part of designing a community currency responsibly rather than discovering its hazards after deployment. The boundaries: the signal must be **aggregate-only** (never a score attached to a named person), **anonymous** (no participant identifiable from it), **opt-in** (participation in the currency is not conscription into a measurement system), and **patron-not-watcher** in posture (the institution is a *patron* of the kindness it surfaces, not an *auditor* grading citizens). The same aggregate visibility that lets a community celebrate its kindest actors would, misused, let an authority rank and discipline them; a gratitude commons must therefore never become a social-credit system or an instrument of state surveillance. HeartBank commits to the patron posture and disclaims the watcher one explicitly, because a dual-use civic sensor is safest when its refusals are declared at design time. The companion mechanism paper *The Gratitude-Riding Currency Tag* specifies this civic-beneficiary frame and its anti-surveillance commitments in full.
+
+---
+
 ## References
 
 - *Dual-Currency Reciprocity Infrastructure: Money and Time as Complementary Scarcities* (target publication post Jan 7, 2027). https://thonly.org/research/dual-currency-reciprocity
 - HeartBank's broader position on its non-bank legal form: see the companion position paper *Non-Bank vs. Banking-Regulated Architecture*.
+- The civic-beneficiary frame and its aggregate-only, anonymous, opt-in, anti-surveillance commitments: see the companion mechanism paper *The Gratitude-Riding Currency Tag* (thonly.org/research/gratitude-riding-currency-tag).
 - Cross-cultural adaptation testbed work: see the companion research paper *Diaspora-to-Cambodia Gratitude Remittance* (thonly.org/research/diaspora-cambodia-remittance).
 
 ---
