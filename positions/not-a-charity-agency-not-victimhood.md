@@ -32,7 +32,17 @@ The optical consequence is the reversal that matters. Where charity makes a spec
 
 This is not a cosmetic reframing of the same transaction. A person presented as a victim is diminished even when money follows; a person presented as a giver is dignified even when the same money follows. HeartBank's participants may be materially poor — many of the kindest people are — but they arrive in the economy holding something the world is short of and rarely pays for, and the institution's posture is to treat them accordingly: as the ones who *have* kindness to give, not the ones who *lack* money to receive.
 
-## 4. Why this is structurally — not rhetorically — not charity
+## 4. The patronage mesh: everyone is a patron
+
+The picture drawn so far still has a direction — those with disposable income funding those with proven kindness — and the direction invites the old charity reading back in through the side door. HeartBank's position is that the real shape is not a one-way corridor but a **mesh**: patronage flows in every direction at once. In the first pilot the dominant current did run from higher income to lower, but a genuine countercurrent ran the other way — materially poorer participants *electing to become patrons*, funding the kindness of others, some of them better off than themselves, alongside flows that stayed within each group. (The numbers are small and held lightly — one founder-funded household, self-reported, n = 1 — but their *shape* is the point: giving went every way, not only down.)
+
+The countercurrent is small in money and decisive in meaning. Its value is **dignity, not dollars.** It shows that the poor are not merely *displayed* as givers (§3) but *act* as patrons — and the donor-recipient hierarchy that charity fixes in place dissolves the moment the supposed recipient turns and funds someone else. This is the pilot's plainest finding, *giving is a gift too*, made structural: the dignity at stake is not being given to but being *able to give*. So the institution's lead posture is not "we fund the kind" but **everyone is a patron** — a claim charity cannot make about the people it serves, and the sharpest form of *agency, not victimhood*.
+
+Under the dominant flow there is a practical engine worth naming plainly: **purchasing-power arbitrage.** A sum the high-income patron would not miss — a few cents — buys a real, felt treat where the cost of living is low, so giving becomes not a sacrifice but a *joy*, light and repeatable. That engine is powerful, and it carries a precise risk: framed carelessly, *your cents go far* curdles into *buying cheap kindness from the poor*, which would re-impose the very hierarchy the model dissolves. The antidote is structural rather than cosmetic — the mesh's own bidirectionality. A platform on which the poor are *also patrons* cannot coherently be described as a market of cheap impact-suppliers, because the "suppliers" are also the buyers. The dignity-symmetry is what keeps the arbitrage clean.
+
+One word the institution refuses for this mesh is **brokerage.** A broker sits between two parties and takes a spread — importing both a middleman's cut, which HeartBank's pass-through, no-take-rate structure forbids, and a money-transmitter's regulatory shadow. HeartBank takes no spread and holds no float. It is a **connector** — a matchmaker for kindness — not a broker: what moves between patron and actor is passed through, not intermediated for profit, and the institution's only office is to make the match legible and the kindness witnessed.
+
+## 5. Why this is structurally — not rhetorically — not charity
 
 The distinction is load-bearing in the mechanism, not only in the framing.
 
@@ -40,7 +50,7 @@ The distinction is load-bearing in the mechanism, not only in the framing.
 - **The money rewards proven kindness, not asserted hardship.** The re-thank is a response to an act that happened, verifiable and witnessed, rather than to a claim of deficit. The funding follows demonstrated giving.
 - **Field evidence points the right way.** In the first pilot, the participants who sent the small thanks reported sending them not out of pity but because they **wanted to perpetuate the kindness they saw** — to see more of it, to be part of why there was more of it. That is a patron's motive (fund more of a valued thing), not a donor's (relieve a pitied lack). The evidence is one household, self-reported, founder-funded, n = 1 — held lightly — but it is the right shape, and the right shape is the institution's claim.
 
-## 5. The competitive frame, and what HeartBank claims
+## 6. The competitive frame, and what HeartBank claims
 
 Because HeartBank is patronage rather than charity, its true peers are not payment apps (Venmo, Cash App) and not relief organizations. Its peers are the **patronage and mutual-flourishing institutions** — Patreon, religious giving communities — that fund *producers of value* on a recurring, relational basis. HeartBank is, in this frame, patronage for the producers of *kindness*: it funds people for doing good in the world, the way Patreon funds people for making things.
 
