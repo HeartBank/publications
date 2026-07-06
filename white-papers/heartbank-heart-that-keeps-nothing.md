@@ -129,8 +129,18 @@ The institution here does what it believes documents of this kind should do — 
 > **P1.** Within eighteen months of Chronicle's general availability, among Chronicle-active dyads, the *other-thank* rate will overtake the *self-thank* rate.
 >
 > **P2.** Third-person kindness content (captured by beneficiaries) will out-perform self-POV kindness content on re-thank rate in the curated public surfaces.
+>
+> **P3.** Across launch cohorts, the children-to-adults ratio of per-user self-thank rates will vary with national income: in high-income cohorts, children's self-thank rate will exceed adults'; in low-income cohorts, adults' will exceed children's. *(Registered with its confound named: in the launch geography, income level and Theravāda culture are correlated — until cohorts exist that break the correlation, this prediction tests the pair, not the part.)* This converts the first pilot's recorded contradiction of the kids-as-triggers hypothesis into a moderator claim rather than a casualty.
+>
+> **P4.** Direct other-thanks will run higher in Chronicle than in Treasury (per active user, matched observation windows, among users active in both): giving another person a small amount of *time* is more comfortable than giving them a small amount of *money* — the equal currency lowers the direct-giving barrier the unequal one raises (§2).
+>
+> **P5.** Re-thanks will run higher in Treasury than in Chronicle (same normalization): the response-gesture favors money — instant, asynchronous, anonymous-capable, and, per §6, the cross-currency move that avoids barter — where the founder's stated prior is that small anonymous re-tips are "both fun and deeply rewarding." *(P4 and P5 jointly test the circuit's directionality: if both hold, initiations naturally flow in time and responses in money — §6's chain confirmed as the economy's own grain rather than an imposed design.)*
+>
+> **P6.** The operator-set self-reward value will function as the economy's amount-anchor: re-tip amounts will cluster around it (modal mass near the ceremonial unit) rather than spreading with giver income.
+>
+> **P7.** Children and the elderly will receive more re-tips than working-age adults, in both count and amount, per capita — a U-curve of received gratitude across the lifespan. *(If this holds, the economy channels support toward the dependent life-stages organically — age-shaped redistribution with no means test and no bureaucracy.)*
 
-If both hold, the loneliest node in the thanking graph — the solitary kind act — will have been systematically converted into witnessed connection. If either fails, the failure will be reported in this volume's revision with the same prominence as this registration.
+If P1 and P2 hold, the loneliest node in the thanking graph — the solitary kind act — will have been systematically converted into witnessed connection. If P4 and P5 hold, the two currencies have a natural division of gesture. If any of the seven fails, the failure will be reported in this volume's revision with the same prominence as this registration. All demographic predictions (P3, P7) are measured only under the institution's standing cohort disciplines: differential privacy, pre-registration, opt-in.
 
 ## 9 · The doctrine layer
 
