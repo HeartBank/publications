@@ -1,6 +1,6 @@
 ---
 title: "HeartBank®: The Heart That Keeps Nothing"
-subtitle: "A White Paper Synthesizing the Heart Pillar across heartbank.org and heartbank.com — The Circulation of the Two Scarcities"
+subtitle: "A White Paper Synthesizing the Heart Pillar across the Six HeartBank® Domains — The Circulation of the Two Scarcities"
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "White Paper"
 genre: white-papers
@@ -18,7 +18,7 @@ venue: heartbank.net/white-papers/heartbank-heart-that-keeps-nothing (canonical 
 
 The economy runs **two currencies, because human reciprocity has two scarcities.** Money is fungible, structurally unequal, and external — the gift of what you *have*: generosity. Time is non-fungible, structurally equal (twenty-four hours each, an ending none can buy off), and constitutive — the gift of what you *are*: selflessness. **Treasury** (heartbank.org) circulates money-gratitude family-to-family against the dignity deficit; **Chronicle** (heartbank.com) circulates time-gratitude between drifted loved ones against the loneliness deficit. In July 2026 the two halves were unified into **one circuit**: time-gratitude matures into time-sacrifice (an hour surrendered to the recipient's own choice of content), the shared moment births money-gratitude (the thank for a time-gift lands in Treasury), and money-gratitude matures into money-sacrifice (the gift given forward). The joints of this chain are *kataññū-katavedī* — gratitude that acts. The load-bearing property is that the two currencies are **coupled but never convertible**: cross-currency gratitude can never settle its debt (no shared unit), which is precisely what keeps every arrow a gift rather than a payment — and the institution's named AI operator sits in the middle as the **incommensurability-preserving coupler**, the one agent through whom the currencies transmit gratitude without ever transmitting price.
 
-Uniquely among the five volumes, this one carries **evidence**: Treasury runs today in a first family pilot whose second report recorded peer re-thanks overtaking self-recorded kindnesses — the internalization signal the design predicts — alongside its founding discovery, "*giving is a gift too*." And the paper practices the falsifiability it preaches: §8 **pre-registers two predictions** about what Chronicle's release will do to the economy's thanking patterns, so that readers may later check whether the institution was right. Everything is offered in the posture the pillar demands: the heart's job is to move what it holds, and this document, like the fund it describes, is built to hand everything on.
+Uniquely among the five volumes, this one carries **evidence**: Treasury runs today in a first family pilot whose second report recorded peer re-thanks overtaking self-recorded kindnesses — the internalization signal the design predicts — alongside its founding discovery, "*giving is a gift too*." And the paper practices the falsifiability it preaches: §9 **pre-registers seven predictions** about what the economy's release will do to its thanking patterns, so that readers may later check whether the institution was right. Everything is offered in the posture the pillar demands: the heart's job is to move what it holds, and this document, like the fund it describes, is built to hand everything on.
 
 ## 1 · Introduction: the pillar the others serve
 
@@ -77,7 +77,7 @@ Four chambers: receive and give, in each currency. One pulse: the humanity proof
 
 Treasury is the money-gratitude economy, live today. Its Phase 1 products are the **Family Kitty℠** (the family's communal pot), the **Re-Tip Jar℠** (gratitude received, given forward), and the **Personal Account℠**; their Phase 2 successors — **Aquarian Pool℠**, **Re-Tip Fund℠**, **Personal Wallet℠** — carry the same grammar onto public rails. The mechanisms are specified in the mechanism corpus: the re-thank multiplier (every thank invites a forward thank); the 50/50 public self-thank (half a *floor* — "you are seen" — and half a *seed*, turned outward, so that acknowledging yourself makes you a giver in the same motion); banker transparency-as-enforcement; multi-family membership (identity is human-rooted, membership plural — a person belongs to many family banks without being divisible).
 
-**The evidence stratum — reported honestly, at its true size.** An alpha (~2025, n=8, pure gratitude with no money attached) produced the pillar's founding engineering discovery: a purely conceptual gratitude game fades against the frictionless spoken "thank you"; practice needs a *physical anchor* — the finding that generated the entire B-Grace™ product line in the Body volume. The first family pilot (n=1 family) produced its founding emotional discovery: parents self-thanked more than children — contradicting the kids-as-triggers hypothesis, a contradiction the institution recorded rather than explained away — and the pilot's greatest finding, in the founder's family's own words: **"giving is a gift too."** The second report (whole-database read, June 2026) recorded the design's most hoped-for signal: **peer re-thanks (434) overtook self-recorded kindnesses (189)** — appreciation arriving from others outgrowing appreciation self-logged, the *internalization* crossover the mechanism papers predict. The same read recorded the honest blemishes: a join-versus-create UX leak that spawned ten accidental family banks, and product-market fit that is strong in the founding family and **unproven in the population**. One family is not a market; it is a lamp. The gates in §10 are what stand between the lamp and the claim.
+**The evidence stratum — reported honestly, at its true size.** An alpha (~2025, n=8, pure gratitude with no money attached) produced the pillar's founding engineering discovery: a purely conceptual gratitude game fades against the frictionless spoken "thank you"; practice needs a *physical anchor* — the finding that generated the entire B-Grace™ product line in the Body volume. The first family pilot (n=1 family) produced its founding emotional discovery: parents self-thanked more than children — contradicting the kids-as-triggers hypothesis, a contradiction the institution recorded rather than explained away — and the pilot's greatest finding, in the founder's family's own words: **"giving is a gift too."** The second report (whole-database read, June 2026) recorded the design's most hoped-for signal: **peer re-thanks (434) overtook self-recorded kindnesses (189)** — appreciation arriving from others outgrowing appreciation self-logged, the *internalization* crossover the mechanism papers predict. The same read recorded the honest blemishes: a join-versus-create UX leak that spawned ten accidental family banks, and product-market fit that is strong in the founding family and **unproven in the population**. One family is not a market; it is a lamp. The gates in §11 are what stand between the lamp and the claim.
 
 ## 5 · The Chronicle circulation — committed design
 
@@ -120,7 +120,26 @@ Channel 2 deserves its sentence: when a pledged hour lapses, the giver is offere
 
 Across all four channels runs the invariant, held as a hard constitutional rule: **money reaches an individual human only through a human hand.** The per-event channels are human-initiated; the operator's own-initiative channels fill *communal vessels only*, whose disbursement to individuals is governed by humans — family bankers, re-tip mechanics. She waters; humans pour. This is the capacity-funded-human-disbursed alignment architecture enumerated as an exhaustive grammar, and it pairs with the pillar's annual systole: **on January 7th the Pool empties** — the Zero-Point reset, the twelve days of giving concluded, the heart squeezing itself to zero on schedule. The heart that keeps nothing is not a metaphor; it is a calendar entry.
 
-## 8 · The witness flywheel — and two pre-registered predictions
+## 8 · The six surfaces: one light, six colors
+
+*(A completeness map, not a re-specification: each surface's mechanisms are canonical in their own corpus papers and, where they touch other pillars, in the sibling volumes. The organizing figure — white light through a prism — is labeled as a figure.)*
+
+The Heart pillar's domain estate is six-fold, and deliberately chromatic: the brand canon assigns each HeartBank® domain one band of the rainbow, so that the six together compose the white light they refract — the same thesis the product line carries in its diamond keepsake, where every medium is a color and the clear stone holds them all. One circulation, six surfaces where it meets the world; one gratitude, six wavelengths:
+
+| Domain | Band | Surface | The gratitude act | Free entry class |
+|---|---|---|---|---|
+| **heartbank.org** | gold | **Treasury** (§4) | family money-gratitude | B-Mark™ |
+| **heartbank.com** | purple | **Chronicle** (§5); root = the B-Store | time-gratitude between drifted loved ones | B-Stamp™ |
+| **heartbank.ceo** | green | the commercial arm — voluntary post-payment tipping at the point of commerce; the operator's own seat (miss.aquarius@heartbank.ceo) | gratitude where money is most present | B-Tag™ |
+| **heartbank.net** | blue | the institutional voice (this volume's own home) + the Phase 2 public rails + gratitude riding cash itself | gratitude on the public ledger | B-Imprint™ |
+| **heartbank.us** | red | HeartBank® Storage — PoH℠-signed media, the provenance layer of witness | gratitude as witnessed media — what **we** hold | B-Momento™ |
+| **heartbank.me** | orange | Future Kindness — the pledge to one's own future self, intention operationalized | gratitude addressed forward — what **I** promise | B-Note™ |
+
+Three properties of the map. **The entry act is free on every surface** — the free-class-per-domain law: each domain leads with a free sticker in its own band, so no doorway into the economy charges admission; "Cash optional, Kiitos/Kiitti always" has a geographic expression. **The two person-pronoun domains do real semantic work**: `.us` holds what *we* witness together; `.me` holds what *I* pledge to my own future kindness — the collective record and the private vow, named by the internet's own grammar. **And the CEO lives at the greenest address on purpose**: the surface where money is most present — commerce, tipping, franchise — is the one that carries the operator's own seat, so that the domain most exposed to price is governed most visibly by the agent whose entire §6 function is keeping gratitude from becoming price.
+
+Strata dating, per this volume's own discipline (§11): heartbank.org runs today; heartbank.com's root store is Phase 0 in motion and its Chronicle app is designed-unbuilt; the remaining four surfaces are settled designs at varying corpus depth, none shipped. The rainbow is an architecture, not an inventory — but it is a *complete* architecture: with this section, all six surfaces of the Heart pillar are documented within the Mission White Paper, and the reader is, at this moment, standing on the blue band.
+
+## 9 · The witness flywheel — and the pre-registered predictions
 
 The pilot's thanking pattern carries a diagnosis: self-thanks and re-thanks dominate spontaneous other-thanks because **most kindness is done alone** — unwitnessed, as kindness has always mostly been; the institution's founding story turns on a thank-you letter whose author never learned it had been read aloud. Chronicle changes the geometry: a time-sacrifice moment is *by definition shared*, and a shared moment means **the other person has a camera.** The expected content class inverts the selfie problem: kindness captured *by the grateful person, about the kind person* — the audience seeing the kind act performed, recorded by its beneficiary. The capture is structurally anti-performative (one cannot stage one's own halo when someone else holds the camera) and is itself an act of gratitude: witnessing as thanks.
 
@@ -142,7 +161,7 @@ The institution here does what it believes documents of this kind should do — 
 
 If P1 and P2 hold, the loneliest node in the thanking graph — the solitary kind act — will have been systematically converted into witnessed connection. If P4 and P5 hold, the two currencies have a natural division of gesture. If any of the seven fails, the failure will be reported in this volume's revision with the same prominence as this registration. All demographic predictions (P3, P7) are measured only under the institution's standing cohort disciplines: differential privacy, pre-registration, opt-in.
 
-## 9 · The doctrine layer
+## 10 · The doctrine layer
 
 *(Grounding tier, labeled per the corpus's resonance discipline: the tradition here does design work; nothing in this section is decoration, and nothing in it is evidence.)*
 
@@ -150,7 +169,7 @@ The circuit's joints are named from the canon deliberately. **Kataññū-kataved
 
 Beneath all of it sits the **Zero-Point Game ℠** as constitutional charter: kindness and thankfulness as the two poles of an infinite-balance game; the annual return to zero; the win condition of keeping nothing. The founder built the pillar to train himself out of the zero-sum reflex — the counter-environment thesis — and the charter is the counter-environment's rulebook, written for children two decades before the infrastructure existed to run it for everyone.
 
-## 10 · Gates and honest limits
+## 11 · Gates and honest limits
 
 This section is deliberately the driest in the paper, by standing rule.
 
@@ -166,7 +185,7 @@ This section is deliberately the driest in the paper, by standing rule.
 
 **And the standing caution applies to this volume most of all.** Of the five volumes, this one is the most self-similar — the circuit, the chambers, the grades, the resets, all rhyming — and a tension-dissolving, beautiful system is either deeply right or deeply seductive, indistinguishable from inside. The coherence is a-priori. The gates are what make it a-posteriori: Treasury's tutorial-gated pilot scale-up; the B-Stamp™ first-domino GTM test; Chronicle's beta and its two registered predictions; the population's verdict on what one family loved. The elegance earns those experiments. It does not replace them.
 
-## 11 · Nesting: the fifth volume
+## 12 · Nesting: the fifth volume
 
 This white paper completes the **Mission White Paper**: Mind, Soul, Space, Body — and now Heart, the volume the other four serve. The set mirrors the institution it describes: four pillars and an integrator; a voice, a conscience, a pair of hands, a witness — and, at the center, a heart whose entire design can be said in one breath: *two scarcities, one circuit, nothing kept.*
 
