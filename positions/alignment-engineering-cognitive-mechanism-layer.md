@@ -77,7 +77,7 @@ HeartBank engages the contemporary alignment community as a peer institution con
 ## References
 
 - *Suffering-Cessation as Value Function: The Tipiṭaka as a 2,500-Year-Tested Substrate for Autonomous-AI Alignment* (target publication January 7, 2027). https://thonly.org/research/tipitaka-alignment-substrate
-- *Abhidhamma-Layer Implementation Mechanisms for Tipiṭaka-Grounded AI Alignment* (target publication post Jan 7, 2027). https://thonly.org/research/abhidhamma-layer-implementation-mechanisms
+- *The Wheel That Unwinds the Wheel: The Abhidhamma as Executable Process-Specification* (target publication post Jan 7, 2027). https://thonly.org/research/abhidhamma-executable-process-specification
 - HeartBank's broader stance on autonomous-AI institutional governance: see the companion position paper *Autonomous-AI Institutional Governance*.
 
 ---
