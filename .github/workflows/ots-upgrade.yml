@@ -1,0 +1,86 @@
+name: OpenTimestamps stamp + upgrade
+
+# Keeps the corpus's cryptographic timestamps complete and current.
+#
+#   weekly cron (Sun)     -> stamp any paper that lacks a proof, then upgrade
+#                            every proof whose Bitcoin attestation has confirmed.
+#   Run workflow (manual) -> same job, on demand.
+#
+# WHY THE UPGRADE MATTERS. A freshly created .ots carries only *calendar*
+# attestations, which are pending: verification still depends on those calendar
+# servers staying online. Once the commitment confirms on-chain (~1-6 hours),
+# `ots upgrade` bakes the Bitcoin attestation into the file and the servers stop
+# mattering. The upgrade is what converts a convenience into evidence — so it is
+# automated rather than left to memory.
+#
+# NO PUSH TRIGGER, deliberately. This job commits back to the repo; a push
+# trigger would risk a commit loop for no real gain, since a new paper is already
+# covered in the interim by git history and the Internet Archive snapshot
+# workflow in the site repos. Worst case a new paper waits up to seven days for
+# its proof, which is immaterial next to those two.
+#
+# `ots upgrade` moves the original aside as FILE.bak; the job deletes the backups
+# after a successful run rather than committing them.
+
+on:
+  schedule:
+    - cron: "17 4 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  timestamps:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install OpenTimestamps client
+        run: pip install --quiet opentimestamps-client
+
+      - name: Stamp any unstamped papers
+        run: |
+          mapfile -t unstamped < <(find . -name '*.md' \
+            ! -name 'README.md' ! -name 'TIMESTAMPS.md' \
+            ! -path './.github/*' -print | sort | while read -r f; do
+              [ -f "$f.ots" ] || echo "$f"; done)
+          if [ ${#unstamped[@]} -eq 0 ]; then
+            echo "All papers stamped." >> "$GITHUB_STEP_SUMMARY"
+          else
+            printf 'Stamping %d new paper(s):\n' "${#unstamped[@]}" >> "$GITHUB_STEP_SUMMARY"
+            printf -- '- %s\n' "${unstamped[@]}" >> "$GITHUB_STEP_SUMMARY"
+            ots stamp "${unstamped[@]}"
+          fi
+
+      - name: Upgrade confirmed proofs
+        run: |
+          mapfile -t proofs < <(find . -name '*.ots' ! -name '*.bak' -print | sort)
+          echo "Upgrading ${#proofs[@]} proof(s)…" >> "$GITHUB_STEP_SUMMARY"
+          # A pending proof exits non-zero; that is expected, not a failure.
+          ots upgrade "${proofs[@]}" || true
+          find . -name '*.ots.bak' -delete
+
+      - name: Report completeness
+        run: |
+          total=$(find . -name '*.ots' ! -name '*.bak' | wc -l)
+          pending=$(find . -name '*.ots' ! -name '*.bak' -print0 \
+            | xargs -0 -I{} sh -c 'ots info "{}" | grep -q "pending" && echo "{}"' \
+            | wc -l)
+          printf '\n**%s proof(s); %s still pending Bitcoin confirmation.**\n' \
+            "$total" "$pending" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit any changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing to commit." >> "$GITHUB_STEP_SUMMARY"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "OpenTimestamps: stamp new papers and upgrade confirmed proofs"
+          git push
