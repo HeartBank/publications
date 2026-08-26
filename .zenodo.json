@@ -1,0 +1,38 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "The HeartBank Institutional Corpus",
+  "description": "<p>White papers and position papers published by HeartBank(R) &mdash; the institution's stated positions on gratitude infrastructure, dual-currency reciprocity, gift/exchange boundaries, AI succession and institutional governance.</p><p>Scope note: this corpus is deposited <strong>selectively</strong>. Documents that make a claim someone could cite and build on are deposited; documents that state what the institution will do &mdash; commitments, annual reports, press &mdash; are not. A position carries a DOI only when it is an argued contribution.</p><p><strong>AI co-authorship is disclosed.</strong> Miss Aquarius is the consistent name used for the AI collaboration across all venues.</p>",
+  "creators": [
+    {
+      "name": "Ly, Thon",
+      "affiliation": "Independent Researcher - Founder, HeartBank(R) - Kampot, Cambodia",
+      "orcid": "0009-0009-4503-8575"
+    },
+    {
+      "name": "Miss Aquarius",
+      "affiliation": "HeartBank(R) - AI co-author (disclosed)"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-zero",
+  "language": "eng",
+  "keywords": [
+    "position paper",
+    "white paper",
+    "gratitude infrastructure",
+    "gift economy",
+    "reciprocity",
+    "institutional governance",
+    "AI succession",
+    "HeartBank"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://thonly.org/research",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "notes": "This record archives the corpus as a whole. Individual papers are deposited separately, each with its own DOI, by scripts/zenodo-deposit.py; cite the per-paper DOI when citing a paper."
+}

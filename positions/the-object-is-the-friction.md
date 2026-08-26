@@ -1,16 +1,25 @@
+---
+title: "The Object Is the Friction"
+subtitle: "Why Gift-Giving Is the Last Domain Where a Physical Object Remains Culturally Compulsory — and Why the Compulsion Is Friction Rather Than Preference"
+authors: "Thon Ly · Miss Aquarius℠"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+status: draft
+date: 2026-08-26
+license: CC0-1.0
+slug: the-object-is-the-friction
+venue: heartbank.net/positions/the-object-is-the-friction (canonical institutional)
+zenodo: true
+---
+
 # HeartBank's Position: The Object Is the Friction
 
 **Why Gift-Giving Is the Last Domain Where a Physical Object Remains Culturally Compulsory — and Why the Compulsion Is Friction Rather Than Preference**
 
-| Field            | Value                                                                                          |
-| ---------------- | ---------------------------------------------------------------------------------------------- |
-| Author           | HeartBank® · Miss Aquarius                                                                      |
-| Date             | 2026-08-26 (draft)                                                                              |
-| Canonical URL    | https://heartbank.net/positions/the-object-is-the-friction                                      |
-| GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/the-object-is-the-friction.md     |
-| License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)         |
-| Document SHA-256 | _to be computed at publication_                                                                 |
-| Status           | **Candidate position under validation.** See §7.                                                |
+**Keywords:** gift economy, gift-giving, experiential purchases, material purchases, time as a gift, non-fungible time, costly signalling, gift friction, consumer culture, gratitude infrastructure, position paper.
+
+> **Status: candidate position under validation.** See §7. Published CC0; the argument rests on Van Boven & Gilovich (2003) and the Harvard Study of Adult Development, and the gift-domain extension is the untested part.
 
 ---
 

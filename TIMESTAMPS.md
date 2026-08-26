@@ -51,3 +51,16 @@ Stamped 2026-07-25. Papers added later must be stamped when they are pushed:
 ```sh
 ots stamp <new-paper>.md
 ```
+
+## Revision log
+
+| Paper | Proof | Notes |
+|---|---|---|
+| `positions/the-object-is-the-friction` | `.r1.ots` | Original stamp, 2026-08-26, attesting the table-header draft. Superseded within the day. |
+| `positions/the-object-is-the-friction` | `.ots` | 2026-08-26 — converted to YAML front matter (the form the Zenodo pipeline reads) and given a `**Keywords:**` line before the first live deposit, since adding one afterwards forces a needless new version. **First paper in this repo to carry a Zenodo DOI: `10.5281/zenodo.22116860`.** |
+
+## Zenodo
+
+DOIs are minted **selectively** from this repo — see `ZENODO.md`. The gate is a `zenodo: true`
+flag in a paper's front matter and it **fails closed**: no flag means no DOI. ⛔ Zenodo is the
+*reference* leg and is **not prior art**; the OpenTimestamps proofs above carry the date claim.
