@@ -248,7 +248,10 @@ def build_metadata(path, text, fm, sha):
     slug = fm.get("slug") or path.stem
     title = fm.get("title") or slug
     subtitle = fm.get("subtitle")
-    canonical = f"https://thonly.org/research/{slug}"
+    # Canonical is heartbank.net, under the paper's own genre — NOT thonly.org.
+    # ⚠️ The first port of this script inherited thonly.org/research/ and shipped it
+    # onto a live record; the corpus name in the provenance blurb was wrong with it.
+    canonical = f"https://heartbank.net/{path.parent.name}/{slug}"
     raw = ("https://raw.githubusercontent.com/HeartBank/publications/main/"
            f"{path.parent.name}/{path.name}")
 
@@ -256,8 +259,8 @@ def build_metadata(path, text, fm, sha):
     if subtitle:
         desc = f"<p><em>{inline_md(subtitle)}</em></p>" + desc
     desc += (
-        "<p><strong>Provenance.</strong> This paper is part of the THonly research "
-        "corpus, dedicated to the public domain under CC0 1.0. The canonical "
+        "<p><strong>Provenance.</strong> This paper is part of the HeartBank "
+        "institutional corpus, dedicated to the public domain under CC0 1.0. The canonical "
         f'version is at <a href="{canonical}">{canonical}</a>. Its SHA-256 is '
         f"<code>{sha}</code>, independently timestamped to the Bitcoin blockchain "
         "via OpenTimestamps and signed under RFC 3161 by three trust authorities, "
@@ -296,10 +299,12 @@ def build_metadata(path, text, fm, sha):
         # The defensive-publication note is a claim about intent and must not be
         # attached to an essay, which makes no such claim.
         "notes": (
-            ("Defensive publication. Published to establish prior art and to place "
-             "the mechanism in the public domain; no patent is or will be sought. "
-             if path.parent.name == "defensive-publications" else
-             "Essay in the author's own voice, part of the THonly corpus. ")
+            ("White paper published by HeartBank(R) as part of its institutional "
+             "corpus. "
+             if path.parent.name == "white-papers" else
+             "Position paper: the institution's stated position on the question it "
+             "names. Deposited because it makes an argued claim, not merely a "
+             "commitment; this corpus is deposited selectively. ")
             + f"Document SHA-256: {sha}"
         ),
     }
