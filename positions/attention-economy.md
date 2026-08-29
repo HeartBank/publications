@@ -61,7 +61,40 @@ HeartBank will not adopt an advertising-funded revenue model, and will not adopt
 
 Permanence is the substance of the position. A platform that competes on wellbeing while keeping the advertising option open has not removed the conflict of interest; it has only deferred it, and deferred conflicts return under financial pressure. By binding itself now, HeartBank makes "competes on delivered wellbeing" a structural fact about the institution rather than a phase of its strategy.
 
-## 6 · An invitation
+## 6 · What the commitment excludes
+
+A commitment is only as good as the list of things it rules out, so the institution states that list rather than leaving it to interpretation.
+
+HeartBank will not take revenue from advertising in any form, and the phrase is meant to cover the forms that do not use the word: sponsored placements, paid prominence in any discovery or recommendation surface, affiliate arrangements that pay the institution for directing a person toward a seller, and the sale or disclosure of any per-person or per-recipient attention metric. It will not adopt an engagement-maximising objective for any ranked or ordered surface it operates. It will not compute or report a count of how many people were shown a given business, because such a count is inventory whether or not anyone is currently selling it.
+
+What the commitment does **not** exclude is worth stating with equal precision, because an over-broad reading would make the institution unable to operate. It does not exclude charging money. It does not exclude subscriptions, or charging for genuinely rivalrous goods such as compute and storage, or a business paying for tools it uses itself. The line is not between free and paid. **It is between being paid by the person receiving the service and being paid by a third party for access to that person's attention.**
+
+## 7 · What replaces ranked discovery
+
+A position against ranked, purchasable discovery is incomplete until the institution says how a person is supposed to find a business they do not yet know about. Until recently HeartBank did not have that answer, and the honest description of the position in the interval was that it named a refusal and owed a mechanism.
+
+The mechanism is now specified, in *Whose Turn, Not Who's Best: rotational discovery over a non-accumulating liveness signal* (2026), published to the commons under CC0. Its structure is summarised here so that this position can be read on its own:
+
+- **Admission is a predicate, not a score.** A participant enters the pool of candidates if their own giving is still circulating — a rate, measured by how often what they have received has been given forward, with magnitude deliberately excluded. The smallest circulating operator is admitted exactly as much as the largest. Because the criterion is a rate rather than a stock, it cannot be accumulated toward, and a criterion that cannot be accumulated toward has no ratchet available to it.
+- **Order is a published rotation.** The algorithm is public, the seed is surfaced, and a recomputation tool ships, so any participant can check by arithmetic the order they were given.
+- **The turn belongs to the giver.** The discovery moment arises when a person is about to direct gratitude, not when they are being sold to — from which follows the property the institution regards as load-bearing: **there is no business-facing discovery surface at all**, and therefore no discovery product to sell, to lobby for, or to convert into an advertising system under financial pressure.
+- **No aggregate, and no impression count.** Witness is retained as events attached to the giver and never summed onto the recipient, so ranking recipients by received gratitude is *unavailable* rather than prohibited. A prohibition needs an enforcer present when it is tested; an absent quantity does not.
+
+The institution notes what this deliberately does not achieve. It does not flatten outcomes: people still choose, and choice concentrates. **What it removes is the compounding** — the return edge by which having been chosen makes one more likely to be chosen again. That is a smaller claim than the elegance of the design invites, and it is the one HeartBank is willing to defend.
+
+## 8 · What the position costs, and what would reopen it
+
+**The prior attempts.** HeartBank is not the first to try this and should not be read as if it were. Consumer review platforms are witness layers for small local businesses, and they were captured twice over — by a market in fabricated reviews and by monetisation adjacent to placement — because reviews are fungible and are aggregated into a per-business total that both the fraud and the upsell can attach to. Craigslist is the more uncomfortable precedent: unranked, chronological, essentially unmonetised local discovery, at very large scale, for over a decade, that worked and then lost most of its categories to ranked, better-capitalised competitors offering curated and sorted inventory. The lesson HeartBank takes is not that unranked discovery fails. It is that **unranked discovery does not defend itself against a ranked competitor with capital**, and any institution adopting this position should expect to be out-converted on whatever metric such a competitor chooses.
+
+**And the positive precedents, which are real but narrower than they look.** Wikipedia has refused advertising for two decades at enormous scale and is funded by donations; Signal runs a communications service used by hundreds of millions on the same basis. Both demonstrate that refusing the model is survivable rather than merely admirable. HeartBank does not claim their example straightforwardly, because both are non-commercial services funded by people who value their existence rather than businesses seeking customers, and neither has to solve the discovery problem this position creates — nobody needs Wikipedia to route them to a nearby restaurant. **The encouraging half of the precedent is that the revenue model can be refused. The unresolved half is that neither of them had to replace discovery, and HeartBank does.**
+
+**The costs, stated plainly.** Refusing advertising revenue means the institution cannot offer what advertising subsidises: a service that is free at the point of use to a person who never pays. That is a real transfer of value to ordinary people, at large scale, and HeartBank's model does not reproduce it. Refusing ranked discovery means the institution cannot answer *which of these is best*, and answers only *which of these is near you* — an ordering by a property of the seeker rather than a judgement about the candidates. Refusing an impression count means businesses cannot be told how many people saw them, which is a feedback signal they reasonably want. These are not oversights being managed. They are the price of the position, and the institution would rather name them than be found to have understated them.
+
+**What would reopen the commitment: nothing on this list.** Falling revenue would not. Competitive pressure would not. An acquirer's preference would not — and the institution's governance is arranged so that no acquirer acquires this decision. A commitment that could be revisited under financial pressure is not a commitment; it is a current preference with better wording, and the whole value of stating this one publicly is to remove the option from the institution's own future management.
+
+The institution will say what *would* change its behaviour, because a position that no evidence could touch is a belief rather than a claim. If the gratitude-receipt thesis fails — if delivering directly-addressed gratitude turns out not to produce the wellbeing effect the research corpus argues for, measured honestly against the pre-registered predictions the institution has published — then HeartBank's product thesis is wrong and the product should change. **What does not follow, in that case, is a move to advertising revenue.** Being wrong about the feed would not make the attention economy's business model acceptable; it would mean the institution had built the wrong thing and should build something else, still without selling anyone's attention.
+
+## 9 · An invitation
 
 HeartBank does not regard the gratitude-receipt platform as proprietary territory.
 
