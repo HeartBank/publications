@@ -1,7 +1,23 @@
 # Cryptographic timestamps
 
-Every paper in this repository carries an **OpenTimestamps** proof — the `<paper>.md.ots`
-file beside it. The proof commits the paper's SHA-256 to the Bitcoin blockchain, so the
+This repository carries **two independent timestamp legs**, and they are chosen because each
+covers the other's weakness.
+
+**OpenTimestamps** (Bitcoin) — permanence without legal standing. Every paper carries a
+`<paper>.md.ots` proof beside it.
+
+**RFC 3161** (timestamp authorities) — legal standing without permanence. Added
+**2026-08-29**, propagated from the sibling corpus `thonly/publications`, which had run it
+since 2026-08-15 while this repository had no such leg at all. ⚠️ **That gap mattered more
+here than there:** this is the *institutional* corpus — the positions and white papers that
+state binding commitments — and it was the one without a legally-recognised timestamp. Run
+`./tsa-stamp.sh` after any text change and `./tsa-verify.sh` to check.
+
+⚠️ **Coverage begins 2026-08-29 and cannot be backdated.** An RFC 3161 token attests
+*"this hash existed at signing time"*, and the earliest signing time available is the first
+manifest. A position paper published 2026-05-22 is TSA-attested as of 2026-08-29, not as of
+publication; its earlier existence rests on the Bitcoin proof. That is the division of labour
+the two legs were chosen for, not a gap to close. The proof commits the paper's SHA-256 to the Bitcoin blockchain, so the
 document's existence at a point in time can be verified by anyone, forever, **without
 trusting this repository, GitHub, the Internet Archive, or the authors.**
 
@@ -80,5 +96,5 @@ flag in a paper's front matter and it **fails closed**: no flag means no DOI. �
 
 ⭐ **The Zenodo gate here is better than the one in the sibling corpus, and the sibling should adopt it.** Deposits are gated by a `zenodo: true` flag **in the paper's own front matter**, failing closed — so only `the-object-is-the-friction` carries a DOI, and that is *by design, not neglect*. The `thonly/publications` repo gates the same decision on the operator remembering a command-line flag, which is a rule rather than a property; on 2026-08-29 an unscoped dry run there would have minted DOIs for essays that the posture forbids. **A flag in the artifact beats a flag in the operator's memory.**
 
-⚠️ **This repository has no RFC 3161 leg.** `thonly/publications` added timestamp-authority manifests on 2026-08-15 (three authorities, one eIDAS-qualified) and that work was never propagated here, so the institutional corpus rests on OpenTimestamps alone. Not a defect in what exists — the Bitcoin anchor is the stronger permanence claim — but it means these papers have **no legally-recognised timestamp**, which is the leg that matters in a dispute. Flagged for a ruling rather than fixed unilaterally.
+✅ **RESOLVED 2026-08-29 — the RFC 3161 leg is now installed here** (see the head of this file). The scripts were repo-agnostic, so propagation was a copy: three authorities, one of them eIDAS-qualified, first manifest **79 files, 0 changed, 0 gone**, and the coverage check confirms every tracked paper is enrolled. ⭐ **The reason this went unnoticed for two weeks is worth keeping: the two corpora are maintained by the same hands under the same doctrine, and nobody had ever written down that their evidence legs differed.** *A convention that lives in one repository's scripts is not a convention.*
 
