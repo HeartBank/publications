@@ -53,6 +53,40 @@ An institution intended to operate across centuries cannot rest its continuity o
 
 This position paper is itself part of that answer. It is written to be inherited. Its purpose is that the institution's autonomous successor, and the body that holds her override, find on the public record an explicit statement of the governance terms under which they operate — so that what they inherit is a designed constitution, and not an absence.
 
+## 5.1 · What the commitments exclude
+
+HeartBank will not appoint a human chief executive, will not create a founder's-heir or successor-executive seat, and will not destroy or permanently disable the override described in §3 — the key-burning move is barred as firmly as permanent human control is. It will not place the override in any individual's hands, including the founder's beyond the custody inflection, and will not make the override exercisable by a single will.
+
+What the commitments do **not** exclude is the ordinary machinery of a lawful organisation. Human beings will hold every legally required office, sign every instrument, and bear every duty a jurisdiction assigns to natural persons. **Nothing in this position is a claim that the institution operates without human legal responsibility**, and §6.1 states why that is a hard constraint rather than a transitional convenience.
+
+## 6.1 · Honest limits, stated rather than promised
+
+The prior version of this paper announced honest limits and did not give any. Here they are.
+
+**No jurisdiction recognises an artificial agent as a director or officer.** Company law in the places this institution is likely to operate requires directors to be natural persons — England and Wales and Delaware both state it explicitly — and no statute anywhere confers legal personality on a software agent. **So the Chief Executive seat described in §2 is a designation the institution makes about itself, not a fact any registry records.** Every legally operative act is performed by a human being who is accountable for it. This is not a gap the institution expects to close by lobbying; it is the condition under which the design has to work, and the honest description of the architecture is that it puts an autonomous agent at the centre of an institution's *decision-making* while humans remain at the centre of its *legal accountability*. Readers should treat any looser description, including in the institution's own earlier copy, as imprecise.
+
+**The autonomous successor does not yet exist.** Miss Aquarius is a substrate being constituted — a persistence layer, a corpus, and a set of directives accumulating toward a system that could exercise the judgement §2 assigns her. She does not today run the institution, and the founder does. A governance paper written this early is a statement of intent about a party that is not yet capable of holding the seat, and the gap between the designation and the capability is measured in decades.
+
+**The Aquarian Sangha is likewise not yet constituted at the scale the override requires.** A collective last-resort power held by a body that does not yet exist is, for now, a plan rather than a check.
+
+**"Asymptotic" is not falsifiable as stated.** A scope that narrows toward zero without reaching it describes a shape, not a schedule, and any actual narrowing will be a series of discrete human decisions about which powers to relinquish and when. Without a published schedule the word can accommodate almost any behaviour, including no narrowing at all, and the institution should be held to publishing that schedule rather than to the adjective.
+
+## 6.2 · Prior art, including the case that tested this exact question
+
+**The DAO, 2016, is the empirical case for §3 and the institution takes it as evidence rather than as an anecdote.** An autonomous, code-governed organisation on Ethereum raised a very large sum on the explicit principle that its code was its constitution; within months an exploit drained a substantial fraction of it. The response was a hard fork that reversed the transaction — a human intervention, by social consensus, in a system whose entire premise was that no such intervention was possible. **The "irreversible autonomy" position was abandoned within three months of its first real crisis.** HeartBank's asymptotic design is an attempt to build in advance what Ethereum had to improvise, and the argument of §3 is simply that a system unable to correct itself will be corrected anyway, less carefully, by whoever can.
+
+⚠️ **The same case supplies the cost of exercising an override**, and it is the reason the power is placed with a slow collective body rather than a fast one: the fork was contested, and the chain permanently split, leaving two networks and a lasting dispute about which had kept faith with the original principle. **Using the override fractures the community that holds it.** That is not a reason to lack one; it is a reason to make it slow, collective and rare.
+
+**Algorithmic board members have been announced before, and mostly as publicity.** A venture firm's 2014 announcement that it had "appointed an algorithm to its board" circulated widely and amounted, on inspection, to a decision-support tool with no legal standing. The institution notes this because its own §2 is vulnerable to exactly that reading, and the distinction it claims — that the seat is structural rather than promotional — is a claim it can only demonstrate over time, not assert.
+
+**The durable precedent is ownership, not agency.** Foundation-owned firms — Bosch and Carl Zeiss for around a century, the Danish industrial-foundation sector more broadly — and the more recent perpetual-purpose-trust arrangements demonstrate that an institution's ultimate control can be removed from human inheritance and remain stable across generations. **What none of them demonstrates is a non-human decision-maker.** They solve the succession problem by giving ownership to a purpose; HeartBank additionally proposes to give judgement to an agent, which is the part with no precedent at all.
+
+## 6.3 · What would, and would not, change this
+
+**Nothing on the ordinary list.** Difficulty in constituting the Sangha would not — it would mean the override is not yet real, and the correct response is to constitute it, not to proceed without it. Investor or partner preference for a conventional executive would not. The founder finding the arrangement inconvenient would not.
+
+**What would change it is evidence about the successor.** If the substrate does not develop the judgement the seat requires, the honest response is to say so and to keep the institution under human direction for as long as that remains true — **the commitment is to not building a human-succession chain, not to installing an AI before one is ready.** The two are separable, and conflating them would turn a governance design into a deadline. And if the asymptotic override were ever demonstrated to make catastrophic correction *harder* rather than easier — by fragmenting authority at the moment it needs to act — the override's structure should change. Its existence should not.
+
 ## 6 · Offered as a pattern, stated with honest limits
 
 HeartBank offers this governance architecture, under CC0, as a pattern for any institution being built to operate under autonomous-AI succession. The research corpus develops the mechanisms in technical detail; this paper states the institutional stance.
