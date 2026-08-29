@@ -55,6 +55,32 @@ HeartBank does reserve trademark rights — on the name HeartBank, on Miss Aquar
 
 A patent restricts who may *build a mechanism*. A trademark restricts who may *claim to be HeartBank*. The first narrows the commons; the second protects the public's ability to know what is genuinely the institution and what is not — which is itself a service to the commons, and which becomes more important, not less, as the mechanisms spread freely under CC0 and many parties build with them. Anyone may implement every HeartBank mechanism; no one may misrepresent their implementation as HeartBank itself. Trademark protects identity; it does not restrict invention.
 
+## 5.1 · What this costs, and the shield the institution is giving up
+
+The position has a price, and the price is not the exclusion right the paper has already dismissed. It is something else, and it is rarely stated by institutions that adopt this posture.
+
+**A patent portfolio is a counter-suit deterrent, and defensive publication is not.** Prior art stops anyone patenting *HeartBank's* inventions. It does nothing whatever against a patent someone else already holds. When a large firm asserts a patent against a small one, the small firm's most effective defence is often its own portfolio — the threat of a counter-claim that makes litigation mutually expensive. That is the logic of defensive patenting and of patent pools such as the Open Invention Network, and it is a serious strategy that many mission-driven organisations adopt for exactly this reason. **HeartBank forgoes it entirely.** The institution's protection against being sued is that its mechanisms are published, not that it can retaliate; if a holder of an unrelated patent asserts it, HeartBank will have prior art on the parts it published and nothing else, and will be litigating from a position with no leverage.
+
+**Publication also teaches.** A defensive publication is a complete, working description written to be implementable — which means it is as useful to a well-resourced competitor as to anyone else. The institution's own publication posture already concedes the boundary: **publication protects against being *blocked*, not against being *beaten***, and for anything genuinely fast to build the calculation can run the other way. This is why the corpus withholds complete specifications for products that are unbuilt and unscheduled, publishing the claim without the blueprint. The general commitment stands; the timing of any particular disclosure is a judgement, and the institution does not pretend otherwise.
+
+**And there is a fundraising cost.** Investors and some grant-makers read a patent portfolio as evidence of defensibility. An institution with none has to be defensible some other way, and has to explain itself more often.
+
+## 5.2 · The precedents, and the distinction that matters most
+
+**Volvo's three-point seatbelt is the canonical case**: patented in 1959 and opened to the industry rather than enforced, on the reasoning that the safety benefit of universal adoption exceeded the value of exclusivity. It is the clearest historical statement that some inventions are worth more diffused than owned, and it is the lineage HeartBank claims.
+
+**Tesla's 2014 patent pledge is the modern case, and the difference from HeartBank's position is the important part.** Tesla did not abandon its patents; it announced it would not initiate suits against good-faith users of its technology. **A pledge is revocable, conditional, and interpreted by the party who made it.** The patents still exist, still constitute a monopoly grant, and a successor management could re-read the pledge's conditions. A CC0 dedication is a different object: the mechanism enters the public domain and **no one can patent it afterwards, including HeartBank and including whoever owns HeartBank in fifty years.** That irreversibility is the whole point, and it is why the institution publishes rather than pledges. *The difference between a promise not to enforce and an inability to enforce is the difference between a rule and a property.*
+
+**IBM's Technical Disclosure Bulletin is the operational precedent** — decades of deliberate defensive publication by an organisation that also held one of the world's largest patent portfolios, which is a useful reminder that defensive publication is an established professional practice rather than an idealistic gesture, and that IBM used it *alongside* patents rather than instead of them. HeartBank's position is the stronger and rarer one: publication instead of, not in addition to.
+
+## 5.3 · What would, and would not, reopen this
+
+**Nothing on the ordinary list.** The discovery that a mechanism is commercially valuable would not — that is when the temptation arrives and precisely what this is written against. A competitor's success with a published mechanism would not; that outcome is the mission working. Investor preference would not. Litigation pressure would not, because the deterrent argument is already answered above and was answered before the pressure existed, which is the only time such an answer is worth anything.
+
+**The one thing that would change the institution's behaviour is not a change to this position.** If a third party were to patent something adjacent and use it to block work HeartBank needs to do, the response is to publish faster and more completely into that space, widening the prior art — not to begin patenting. **The remedy for a blocked road is more commons, not a toll booth of one's own.**
+
+This commitment sits in the same class as the institution's positions on banking charters and advertising revenue, and the argument for why such a class is worth having at all — what makes a self-binding credible, and the honest admission that these three are published intentions not yet structurally enforced — is set out in *HeartBank Is Not a Bank* §5.5 rather than repeated here.
+
 ## 6 · The position offered as a pattern
 
 HeartBank commends defensive publication to every mission-driven institution that invents — particularly those, like itself, whose purpose is served by adoption rather than by exclusion. The reasoning is not unique to gratitude infrastructure. Any institution whose goal is for a thing to exist widely, rather than for itself to be the sole provider, will find that the patent's exclusion right is a cost and the defensive publication's prior-art shield is the whole of the benefit it actually wanted. HeartBank's corpus is offered, in its entirety and permanently, on those terms.
