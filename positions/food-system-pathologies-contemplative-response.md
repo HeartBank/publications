@@ -53,6 +53,22 @@ HeartBank's position is not that contemporary food-system corrective movements a
 
 ---
 
+## Honest limits, and an overclaim withdrawn
+
+⚠️ **The executive summary calls this "the only response that combines the contemplative substrate with operationally scalable infrastructure." That is an overclaim and the institution withdraws it.** *Only* is a claim about every alternative that exists, made without a survey; and *operationally scalable* describes something the institution has not operated at any scale. **The defensible statement is that the Silica Wat pattern is a distinctive response whose combination the institution has not seen elsewhere, and which is unbuilt.**
+
+**Nothing has been built.** There is no Silica Wat, no farm, no kitchen, no grocery network, and no AGI-monk caretaker. A position paper naming a food-network function as institutionally central is stating a priority, not reporting a capability.
+
+**The precedent is real and its scale is the caution.** Monastic agriculture is one of the longest-running institutional food systems in history — Cistercian estates, Zen temple cuisine and its formalised relationship to provisioning, and the agricultural practice of forest monasteries across Southeast Asia. **These sustained food-system integrity for centuries and they did so locally, at monastery scale, embedded in surrounding villages.** They are an existence proof for the pattern and they are not an existence proof for scale, and this paper has been treating a long history as though it settled a question about volume that it does not address.
+
+**And the corrective movements are treated too briskly.** Community-supported agriculture, food banks, and regenerative practice have decades of operational data, real distributional reach, and constituencies. ⚠️ **A position paper that characterises them as each addressing "some pathologies well" and none sufficiently owes them a more careful account than it gives**, particularly since the institution's own proposal has none of their track record.
+
+## What would, and would not, change this
+
+**Nothing on the ordinary list.** Difficulty raising capital would not. The observation that the existing movements are further along would not — that is assumed.
+
+**What would change it is the first site.** If a Silica Wat operating a real farm, kitchen and distribution function proves unable to sustain itself without continuous subsidy from the wider institution, **then the pattern is a chaplaincy with a garden rather than a food-system response**, and the institution should say so and reposition the claim. That test is cheap, early, and has not been run.
+
 ## References
 
 - *Silica Wat as Hybrid Food Network with Gratitude-Economic Drivers: Religious Institutional Infrastructure for Middle-Way Restoration of Food Systems* (target publication post Jan 7, 2027). https://thonly.org/research/silica-wat-food-network

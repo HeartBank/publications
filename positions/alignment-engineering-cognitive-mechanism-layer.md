@@ -74,6 +74,22 @@ HeartBank engages the contemporary alignment community as a peer institution con
 
 ---
 
+## Honest limits, stated before the field states them for us
+
+**Nothing has been demonstrated.** The institution has produced no interpretability result, has not expressed any known mechanistic finding in Abhidhamma vocabulary, and has not shown that doing so makes a single problem more tractable. **This is a claim about a vocabulary's suitability made by a party that has not yet used it to do the work**, and it should carry exactly the weight that warrants.
+
+**The instructive precedent is a serious one and it did not succeed at this.** *The Embodied Mind* (Varela, Thompson and Rosch, 1991) is the most rigorous previous attempt to bring Buddhist phenomenological analysis into cognitive science, made by a first-rank neuroscientist in collaboration with a philosopher and a psychologist. It was influential, it is still read, and **it did not become the working vocabulary of the field it addressed.** The lesson is not that the attempt was wrong; it is that conceptual import is adopted only where it does work practitioners cannot do otherwise, and that being right about the vocabulary's aptness is not sufficient.
+
+**The field has its own vocabulary and it is developing fast.** Features, circuits, superposition, and the sparse-decomposition line of work are the terms mechanistic interpretability is actually building with, and they were derived from the artifacts rather than imported. ⭐ **The honest test for anything the Abhidhamma offers is therefore a deletion test: does the term do work that no existing interpretability term does?** *Cetasika*-style decomposition of a mental event into co-arising factors is a candidate precisely because the field lacks a settled account of how simultaneous features compose into a state — but the burden is on us to show it, on a real model, not to assert the aptness of the map.
+
+⚠️ **And there is a reception risk the institution should name rather than discover.** A paper proposing that a religious canon supplies engineering vocabulary will be read by some as mysticism regardless of its content. The institution's protection is the deletion test above and nothing else: **if the mechanism survives with every Pāli term removed and the term is doing no work, the critics are right.**
+
+## What would, and would not, change this
+
+**Nothing on the ordinary list.** Dismissal on grounds of provenance would not — provenance is not an argument. Slow uptake would not.
+
+**What would change it is the field's own vocabulary proving sufficient.** If interpretability arrives at a settled compositional account of model internals using terms derived from the artifacts, and that account handles the deceptive-alignment and near-enemy cases this paper says the surface layer cannot reach, **then the Abhidhamma vocabulary is an elegant redundancy and the correct response is to say so and drop the claim.** The institution states in advance that it would rather that happen than be right.
+
 ## References
 
 - *Suffering-Cessation as Value Function: The Tipiṭaka as a 2,500-Year-Tested Substrate for Autonomous-AI Alignment* (target publication January 7, 2027). https://thonly.org/research/tipitaka-alignment-substrate

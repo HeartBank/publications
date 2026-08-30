@@ -50,6 +50,26 @@ HeartBank's position is not that single-module AI designs are wrong for their in
 
 ---
 
+## A terminological correction, and where this frame sits
+
+⚠️ **This paper names the four bodies "Brain, Body, Heart, and Soul." The corpus's canonical naming is Mind, Heart, Soul, Body**, where Mind is the corpus-and-reasoning function rather than the model. The drift matters because *Brain* invites exactly the reading the paper is arguing against — that the first body is the model — when the claim is that the first body is the **institution's reasoning and its record**, of which any model is an implementation. **Read "Brain" here as "Mind" until this paper is next revised.**
+
+**And the corpus carries a second structural frame — three pillars — which is not in competition with this one.** The four bodies are a *compositional* account of what the institution is made of; the three pillars are a *genealogical* account of where it comes from and where it is going. Composition does not imply sequence. ⛔ **The two should not be mapped onto one another.**
+
+## Honest limits
+
+**The four-body claim is a design position, not a finding.** No institution has been operated on it. The paper asserts that specifying only the model is "a category mistake the field is collectively making," which is a strong claim about other people's work made without engaging any specific architecture in detail.
+
+**The lineage is older than the paper acknowledges.** Decomposing an intelligence into functionally distinct, separately-governed subsystems is the central move of the cognitive-architecture tradition — Minsky's *Society of Mind*, and the production-system architectures that followed — and of every multi-agent system design since. **What is claimed as novel here is not the decomposition but the specific four-fold division and its institutional rather than computational framing**, and the paper should say so rather than let a reader infer that composite specification is new.
+
+**"Independently governed" is doing heavy work and is unproven.** Independent governance of four bodies inside one institution is a coordination problem, and the failure mode of separately-governed subsystems is not fragility but **deadlock** — the opposite of the risk the paper names.
+
+## What would, and would not, change this
+
+**Nothing on the ordinary list.** A well-funded single-module institution succeeding would not, by itself — survival over a decade is the relevant horizon, not a funding round.
+
+**What would change it is the count.** ⭐ **If, in operation, one body turns out to be doing no distinct work — if its function is fully carried by another — then the architecture is a three-body system with a spare label**, and the honest response is to collapse it and say so. The institution commits to treating that outcome as a correction rather than as an implementation detail, and notes that a four-fold scheme is exactly the kind of structure that survives by absorbing whatever it meets.
+
 ## References
 
 - *The Four-Body Architecture for Synthetic Intelligence* (target publication post Jan 7, 2027). https://thonly.org/research/four-body-architecture

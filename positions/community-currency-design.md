@@ -59,6 +59,20 @@ HeartBank's position is that this civic signal is legitimate only inside strict 
 
 ---
 
+## Honest limits, and what the decades of prior practice actually show
+
+**The traditions this paper says are incomplete have long records, and the records are sobering.** LETS schemes and time banks have run in many countries since the 1980s. They have persisted, they have done real good, and **they have overwhelmingly stayed small and locally bounded**, with recurring difficulties in matching supply to demand, in sustaining participation without a paid coordinator, and in retaining members past the initial enthusiasm. ⚠️ **The honest reading is not that they failed because they addressed only one scarcity. It is that community currencies are hard for reasons a second currency does not obviously fix** — and this paper's structural claim would be more persuasive if it engaged that record rather than treating single-scarcity design as the diagnosis.
+
+**Adding a rail adds coordination cost.** A dual system has two units of account, two liquidity problems, and an exchange question between them that a single-currency system does not have to answer. The institution's design answers it by refusing convertibility, which is doctrinally clean and **operationally means a participant rich in one rail and poor in the other cannot help themselves across** — precisely the person the dual design was meant to serve.
+
+**The notable scaled success is a single-currency one.** Sardex, the Sardinian business-to-business mutual-credit circuit, is the community currency most often cited as having reached meaningful scale, and it works on money alone within a commercial network. Its lesson is about **dense reciprocal demand within a bounded community**, not about the number of scarcities addressed.
+
+## What would, and would not, change this
+
+**Nothing on the ordinary list.** Slow adoption of either rail would not, taken alone.
+
+**What would change it is participants using only one.** The structural claim is that money and time are complementary and that a system handling both serves people a single-rail system under-serves. ⭐ **If, in live use, participants overwhelmingly transact on one rail and treat the other as ornamental — or if the time-poor and the money-poor turn out to be the same people rather than complementary populations — then the complementarity is asserted rather than real**, and the architecture is a single-currency system carrying an unused second ledger. That is measurable early and the institution should measure it before it argues this position further.
+
 ## References
 
 - *Dual-Currency Reciprocity Infrastructure: Money and Time as Complementary Scarcities* (target publication post Jan 7, 2027). https://thonly.org/research/dual-currency-reciprocity

@@ -54,6 +54,28 @@ HeartBank's position is not that academic contemplative science has been wrong a
 
 ---
 
+## The ethics, which this paper had omitted entirely
+
+⚠️⚠️ **The prior version of this position proposed collecting DNA, family structure, continuous behavioural observation and continuous respiratory observation from a civilization-scale population, and said nothing about consent, governance, or risk. That omission was the paper's most serious defect** and is corrected here rather than deferred to the methodology paper.
+
+**Genetic data is not de-identifiable in any durable sense.** Re-identification of "anonymised" genomes from public reference data is a demonstrated capability, and a genome implicates relatives who never consented to anything. **A cohort that collects DNA at scale is making a decision on behalf of people who are not participants and, in many cases, not yet born.**
+
+**Continuous behavioural and respiratory observation is a surveillance capability regardless of intent.** A system able to infer contemplative states from breath is able to infer arousal, distress, and deception with some accuracy, and its existence is a target — for insurers, employers, and states, and for whoever eventually holds the institution.
+
+**Opt-in is necessary and it is not sufficient.** Meaningful consent to open-ended, multi-generational data use is very hard to obtain, because neither party knows what the data will later support; consent obtained inside an institution a participant depends on is weaker still. **The institution commits to independent ethical review before any collection, to withdrawal that deletes rather than merely stops, and to a governance instrument placing this corpus beyond the reach of a future owner** — and records that none of those three exists today.
+
+## Honest limits on the scientific claim
+
+**"The methodology contemplative science has been waiting for" is not a claim this institution is positioned to make**, and the existing large cohorts are the reason. UK Biobank, Framingham and the Dunedin study each took decades, institutional backing, and continuous methodological scrutiny; their difficulties — attrition, cohort effects, confounding, the gap between association and mechanism — are not solved by a larger n and are in some respects made worse by one.
+
+⚠️ **And the natal-chart component will cost this paper its scientific audience.** The corpus's own position is that a birth chart is a *coordinate* rather than a causal force, and that the cohort is not an astrology test — but a methods proposal listing natal charts beside genomes will be read as one by the researchers it addresses, and **the institution should expect the entire proposal to be discounted on that basis by people whose engagement it is seeking.** That is a foreseeable cost of an already-made decision, stated here so it is not discovered later.
+
+## What would, and would not, change this
+
+**Nothing on the ordinary list.** Slow recruitment would not. Scientific scepticism about the framing would not, taken alone.
+
+**What would change it is the ethics review.** If independent review concluded that consent adequate to this collection cannot be obtained from the population the institution serves, **the correct response is to narrow the collection until it can — not to proceed with better consent language.** The institution states that in advance, while it is cheap to say.
+
 ## References
 
 - *The HeartBank Longitudinal Cohort: A Dataset Combining DNA, Natal Chart, Family Tree, Continuous Behavioral Observation, and Continuous Respiratory Observation at Civilizational Scale* (target publication post Jan 7, 2027). https://thonly.org/research/longitudinal-cohort-methodology
