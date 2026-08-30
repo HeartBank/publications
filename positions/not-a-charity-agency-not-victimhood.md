@@ -50,6 +50,32 @@ The distinction is load-bearing in the mechanism, not only in the framing.
 - **The money rewards proven kindness, not asserted hardship.** The re-thank is a response to an act that happened, verifiable and witnessed, rather than to a claim of deficit. The funding follows demonstrated giving.
 - **Field evidence points the right way.** In the first pilot, the participants who sent the small thanks reported sending them not out of pity but because they **wanted to perpetuate the kindness they saw** — to see more of it, to be part of why there was more of it. That is a patron's motive (fund more of a valued thing), not a donor's (relieve a pitied lack). The evidence is one household, self-reported, founder-funded, n = 1 — held lightly — but it is the right shape, and the right shape is the institution's claim.
 
+## 5.1 What the position excludes
+
+HeartBank will not describe the people its economy serves as beneficiaries, recipients, or cases; will not solicit on the strength of anyone's hardship; will not publish or imply a person's need as a reason to give to them; and will not operate a means test. It will not rank people by circumstance in any surface, and it will not report to a giver what a recipient lacked.
+
+**What the position does not exclude is help.** Declining the charity *frame* is not declining to move resources toward people who need them — the funded floor does exactly that. The distinction is that the resource moves toward a person **seated as a giver**, and it moves without anyone's deficiency being the reason stated, displayed, or recorded.
+
+## 5.2 The prior art, and the movement that got here first
+
+**"Nothing about us without us" is the precedent, and it is older and better-earned than anything in this corpus.** The disability rights movement spent decades establishing that a person is not a case to be managed, that services designed *for* people rather than *with* them produce dependence, and that the charity frame — with its telethons and its pity — was itself a harm distinct from the material lack it addressed. **Every structural argument in this paper was made first there, by people with more at stake**, and the institution's contribution is at most a mechanism, never the insight.
+
+**In development economics the same turn is well documented.** The shift from in-kind aid toward direct cash transfers rests on a body of evidence that recipients allocate resources better than distant planners do, and that unconditional transfers do not produce the dissipation the charity frame predicted. Organisations built on that finding demonstrate the operational point this paper argues in doctrine: **respecting agency is not softer than charity, it works better.** Microfinance is the older instance of the same instinct, and its record is the caution — an agency-respecting frame that scaled, was widely celebrated, and then produced over-indebtedness and coercive collection in some markets. ⚠️ **A dignity frame is not self-enforcing: it survived at the level of language in institutions where the practice had drifted badly.**
+
+## 5.3 What this costs, and the objection the institution cannot answer
+
+**Patronage depends on patrons, and patrons have surplus.** A mesh in which everyone is a patron is the design, and the design's reach is bounded by how much disposable capacity exists among the people who choose to participate. **Charity's ugly frame buys something real: it mobilises resources at scale from people who would not otherwise give, precisely by making need vivid.** This position gives that up deliberately and should not pretend the trade is free.
+
+**The people hardest to reach are the ones the frame helps least.** Someone with no community to circulate within, whose situation is invisible, whose contribution is not legible as contribution, is exactly the person a needs-based system finds and a gratitude-based one may not. The institution has recorded this as an open equity problem rather than a solved one, and it is the same defect that appears wherever the corpus builds on visible giving.
+
+**And refusing to display need makes the institution harder to fund.** Donors respond to specifics. An institution that will not supply them competes for philanthropic attention with organisations that will, and should expect to lose that comparison often.
+
+## 5.4 What would, and would not, change this
+
+**Nothing on the ordinary list.** A funding shortfall would not. Evidence that need-forward campaigns raise more would not — that is assumed, and the position is held anyway. A partner's preference for conventional donor storytelling would not.
+
+**What would change it is evidence about the people it is for.** If those the economy serves reported that the patronage frame felt like a fiction — that being seated as a giver while lacking necessities was experienced as a denial of their situation rather than a recognition of their agency — **the frame would be serving the institution's self-image rather than the person, and it would have to change.** The institution notes that it has not asked this question systematically, that the people best placed to answer it are not the ones who designed the frame, and that this is the most important unrun study in this part of the corpus.
+
 ## 6. The competitive frame, and what HeartBank claims
 
 Because HeartBank is patronage rather than charity, its true peers are not payment apps (Venmo, Cash App) and not relief organizations. Its peers are the **patronage and mutual-flourishing institutions** — Patreon, religious giving communities — that fund *producers of value* on a recurring, relational basis. HeartBank is, in this frame, patronage for the producers of *kindness*: it funds people for doing good in the world, the way Patreon funds people for making things.

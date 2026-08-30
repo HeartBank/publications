@@ -1,4 +1,4 @@
-# repository manifest — 2026-08-29 (UTC)
+# repository manifest — 2026-08-30 (UTC)
 # sha256  path
 a90461878f44e9d3dd73aa178e61ac99222859e26b4f7a9666026872ac1e87bb  .github/workflows/ots-upgrade.yml
 b71d5411e3057f0c649e7f69428eea07183fb83fecec4a0a49091dc4401dc832  .gitignore
@@ -66,10 +66,15 @@ ce51c11a2d538adc706ceeba6485a6b022786d5d7aa1f4ee6e2dabcac6f9d1ec  README.md
 82d645b4cb09d3e87cb4cd535a681b93bb5513478210d032d29a79f9b5bb1653  scripts/__pycache__/zenodo-deposit.cpython-314.pyc
 3e061961ad0dd20912c9fe478e5021afe6db2b80320facc1139de87af5ed3ca5  scripts/make-bibtex.py
 d2eacebc65b58eea807756acfed46e0310271556f6b43b9d1eaf7b88d9ce9050  scripts/zenodo-deposit.py
-e9b26c6e502b1ff157e5057caddd4309e8386130f2ec4e666f4ed96663117160  TIMESTAMPS.md
+d5253abfedffbc008a120a5c6b14454764e062b1cb9d2d21127aee1969d010de  TIMESTAMPS.md
 04846f73d9d0421c60076fd02bad7f0a81a3f11a028d653b0de53290e41dcead  timestamps/ca/accv-es.pem
 b61518c2cd07d72cb7591a7537ac7f36901b8d343db9889e19f6977f5729e5d9  timestamps/ca/aped-gr.pem
 2151b61137ffa86bf664691ba67e7da0b19f98c758e3d228d5d8ebf27e044438  timestamps/ca/freetsa-de.pem
+c9073f93ddef8821272406c4f46348074fdeff8272596708f31dc53adb8967ab  timestamps/manifests/2026-08-29.sha256
+f38747ca6e90ca17d26cde8b134cc96b7d4c5ed5379f46effa61fc3fd62a14be  timestamps/manifests/2026-08-29.sha256.accv-es.tsr
+1b21a272596c7fa1f9434ce2486e4b96fa467c12e377f09b780e080ca2005e32  timestamps/manifests/2026-08-29.sha256.aped-gr.tsr
+2253ccb74bf7c7ae27ea54b3eb07de90dd2f4a8d961783c0b56bd5459bb286e8  timestamps/manifests/2026-08-29.sha256.freetsa-de.tsr
+833f956b9f3c7faac5a58dadfdf07a5c0ef68e288b7663cc2b7b8a24a9c2d9b5  timestamps/manifests/2026-08-29.sha256.ots
 e8946b76bf5efa2123974160bb8b51ba25d0b313fe3eea536e5028502fa3f159  timestamps/README.md
 537515d2b09e4ed1af825326f81566bad7ae0980071fc75f859e1726c1a1ffe2  tsa-stamp.sh
 4ed6902a0355748de65af9c08ecf0ac23c06ad109b7f382611569f6ea1594317  tsa-verify.sh
