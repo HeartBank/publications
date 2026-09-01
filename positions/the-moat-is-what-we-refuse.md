@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/the-moat-is-what-we-refuse                                    |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/the-moat-is-what-we-refuse.md   |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)      |
-| Document SHA-256 | _to be computed at publication_                                                              |
 
 > **Draft.** A short institutional position paper. It names the common structure beneath several of HeartBank's existing positions — the non-bank commitment, the defensive-publication (never-patent) commitment, and the attention-economy commitment — and states the general principle they are each an instance of: that the institution's durable advantage is the set of things it refuses to do. It references, but does not reproduce, the mechanism papers that supply the specifics.
 
@@ -67,16 +66,38 @@ A refusal that costs nothing is not a moat; anyone can afford it. HeartBank's re
 
 The institution therefore tests its purity at the level of the product, not the press release. The sharpest acid test is a physical one: an ambient home device HeartBank calls the B-Orb — a thing designed to be loved and then *put down*, whose daily gratitude review is finite and self-terminating, with no feed, no scroll, no streak, nothing to consume once the real gratitude is read. A device that succeeds by shortening its own sessions is the moat made into an object: it can only be built by an institution whose refusals are real, because every incentive an attention business has runs the other way. If HeartBank ever ships a product that hooks rather than releases, the moat has been breached from the inside, and the position has failed regardless of what this paper says.
 
-## 6 · Honest limits
+## 6 · What the refusals select — the property beneath them
+
+The position as stated in §2 carries a dependency the institution should name rather than leave implicit.
+
+A refusal is a moat *because a rival is unwilling to match it*. That unwillingness is doing real work, and it is not guaranteed. A philanthropically funded competitor, a nonprofit with no revenue model to protect, a firm compelled by regulation to drop the practice it was refusing to drop — each is a party for whom the cost that makes the refusal defensible is simply not a cost. The refusal moat holds for as long as someone continues to decline, and the institution's own advantage should not rest on a disposition that belongs to somebody else.
+
+So the refusals are better understood as doing something more precise than *being* the moat. **They select one.** Each refusal, held honestly, forces the institution toward a structure it would not otherwise have adopted — and it is the structure, not the refusing, that survives the day nobody is refusing anything.
+
+Follow them through. An institution that refuses to hold its members hostage must let each person carry their own complete record out at any time; the record therefore cannot be the thing that locks anyone in. An institution that refuses secrecy must let the way it reads that record be checked by outsiders; the method therefore cannot be the thing that protects it. An institution that refuses a take-rate has nothing metered to withhold. One by one, the refusals strip away every advantage that would have depended on holding something back.
+
+What is left when the stripping is finished is two things, and they are the whole of it:
+
+**A record whose age can be verified by someone who does not trust the institution.** Not the institution's assertion that its ledger is old, but an attestation anchored outside itself, checkable by a third party against public infrastructure, that these entries existed on the dates they claim. Age of this kind is the one property a well-funded newcomer cannot purchase, manufacture, or accelerate. It can only be waited for.
+
+**A reading that others reconcile to.** When the method is published and the data is portable, a competitor may recompute everything and still find that participants, partners, and the surfaces that honour the result treat this institution's reading as the reference. That standing is earned slowly and cannot be copied, because it is not a possession — it is a relationship other parties have to a shared point of reference.
+
+Neither requires anyone's restraint at the moment it is tested, and that is the entire point of preferring them. Remove the institution, remove the people who wrote its rules, remove the goodwill of every competitor, and the attestations still verify and the published method still computes. **A moat that needs a person to be holding it is a promise; a moat that survives everyone walking away is a property.** The institution's aim is to convert as much of the first into the second as it can.
+
+This is not a retreat from §2. The refusals remain non-negotiable, and they remain the reason any of this exists — an institution that had not refused to hold a hostage would never have made its members' records portable, and would have reached for lock-in instead. The refusals are what a competitor may copy by lunchtime and what a competitor's business model prevents them from copying at all; both are true, and neither is where the durable advantage finally rests. **The refusals choose the ground. The ground is what holds.**
+
+The institution states three limits on this claim with the same plainness. A verifiable timestamp establishes *when* a record was made and never *whether what it records was true* — the honesty of the entries is a separate problem, addressed by the institution's personhood and provenance work, and an anchored ledger of unverified entries proves only that bad data is old. Standing of this kind compounds and does not accelerate; it is worth far more in twenty years than in two, and it offers nothing at all to an institution in its first season. And no moat is demonstrated until it has been attacked and held — until then, everything in this section is a design intention, which the institution asks its readers to weigh as such.
+
+## 7 · Honest limits
 
 HeartBank states the limits of this position as plainly as the position itself.
 
 - **Purity can curdle into purism.** A refusal held for its own sake, past the point where it serves the gift, becomes self-righteousness — and self-righteousness is not a moat, it is a liability. The refusals are justified by the gift they protect, not by the satisfaction of refusing; where a refusal stops serving the gift, it should be re-examined, not defended.
 - **The market must be allowed its proper work.** The failure mode opposite to contamination is rejection — treating all money as suspect, which would starve the institution and help no one. The discipline is a *boundary*, not an abolition; the paper's whole claim depends on drawing the line precisely rather than pushing it to zero.
-- **A refusal is only a moat if it is held.** The advantage is real only for as long as the institution actually holds the line under financial pressure — which is why each refusal is bound as *permanent* and stated in *public*, so that no future pressure can quietly reopen a closed door. The permanence is the substance; a refusal reserved as reversible is not a refusal.
+- **A refusal is only a moat if it is held — and §6 is the institution's answer to that.** The advantage described in §2 is real only for as long as the institution actually holds the line under financial pressure, which is why each refusal is bound as *permanent* and stated in *public*. But permanence stated is still permanence promised, and a promise is a weaker thing than a fact. §6 states what the refusals leave behind that requires no one's continued willingness — and the institution regards that residue, not the promise, as the durable part.
 - **The thesis is, at this stage, a bet.** That a refusal-based moat wins — that an institution can compete, at scale, by declining the tools its rivals depend on — is a hypothesis the institution is testing, not a proven result. HeartBank holds it seriously and reports on it honestly; it does not present it as settled.
 
-## 7 · An invitation
+## 8 · An invitation
 
 HeartBank does not regard the refusals as proprietary. They cannot be, and should not be: a door closed in public is an invitation for others to close it too.
 
