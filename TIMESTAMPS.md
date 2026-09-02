@@ -72,6 +72,7 @@ ots stamp <new-paper>.md
 
 | Paper | Proof | Notes |
 |---|---|---|
+| *the whole corpus (29 documents)* | `.ots` → `.rN.ots` | — | **2026-09-02 — every document gained a `category` field.** The seven white papers are the bodies describing themselves; the 22 positions are categorised **by subject rather than by venue**, since `genre` already carries the form (11 institutional · 9 mechanism · 2 alignment). ⭐ This is what makes the corpus server's category facet answer the question it exists for: `list_documents(category: "institutional")` now returns 27 anchored documents rather than 10. ⚠️ Metadata only — no body text changed, and `heartbank.net` keys its feed off `genre`, so the site is unaffected. All 29 proofs rotated and re-stamped; the RFC 3161 manifest for 2026-09-02 covers all 29. **`the-object-is-the-friction` is the one document here carrying a DOI — new Zenodo version `10.5281/zenodo.22261723`, sha `2726f3fe…b21b8c`.** |
 | `positions/the-object-is-the-friction` | `.r1.ots` | Original stamp, 2026-08-26, attesting the table-header draft. Superseded within the day. |
 | `positions/the-object-is-the-friction` | `.ots` | 2026-08-26 — converted to YAML front matter (the form the Zenodo pipeline reads) and given a `**Keywords:**` line before the first live deposit, since adding one afterwards forces a needless new version. **First paper in this repo to carry a Zenodo DOI: `10.5281/zenodo.22116860`.** |
 
