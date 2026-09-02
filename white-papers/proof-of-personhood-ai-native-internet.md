@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/white-papers/proof-of-personhood-ai-native-internet                              |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/white-papers/proof-of-personhood-ai-native-internet.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)                |
-| Document SHA-256 | _to be computed at publication_                                                                        |
 
 > **Draft.** This is the institutional white paper that pairs with the founder-voice defensive publication *"B-PoH℠ as Humanity Layer for the AI-Native Internet"* (thonly.org/publications/defensive-publications). The defensive publication specifies the protocol architecture in technical detail; this white paper translates the architecture into strategic positioning for standards bodies (W3C, IETF, IEEE), AI laboratories (Anthropic, OpenAI, Google DeepMind, Mistral, Meta AI, and successors), platform companies (Meta, Google, X, TikTok, Reddit, and their successors), regulators (EU Digital Services Act enforcement, US state-level AI-disclosure legislation, Cambodia's eventual position, and counterparts elsewhere), and the foundations and infrastructure-philanthropy organizations that may underwrite the protocol's maintenance. The document is intended to be readable cold by any of those audiences without prior familiarity with HeartBank, its corpus, or its products.
 

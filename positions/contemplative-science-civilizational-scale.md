@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/contemplative-science-civilizational-scale                         |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/contemplative-science-civilizational-scale.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
-| Document SHA-256 | _to be computed at publication_                                                                    |
 
 > **Draft.** A short institutional position paper. It states HeartBank's stance on contemplative-science research methodology at civilizational scale; it references, but does not reproduce, the research paper that supplies the methodological specification — *The HeartBank Longitudinal Cohort: A Dataset Combining DNA, Natal Chart, Family Tree, Continuous Behavioral Observation, and Continuous Respiratory Observation at Civilizational Scale* (thonly.org/research/longitudinal-cohort-methodology).
 

@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/attention-economy                                       |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/attention-economy.md      |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/) |
-| Document SHA-256 | _to be computed at publication_                                                         |
 
 > **Draft.** A short institutional position paper. It states HeartBank's stance on the attention economy; it references, but does not reproduce, the research paper that supplies the evidence — _The Scientific Case for Gratitude-Based Social Media_ (thonly.org/research/anti-attention-economy).
 

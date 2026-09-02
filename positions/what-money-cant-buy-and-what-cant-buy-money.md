@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/what-money-cant-buy-and-what-cant-buy-money                                      |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/what-money-cant-buy-and-what-cant-buy-money.md    |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)                         |
-| Document SHA-256 | _to be computed at publication_                                                                                 |
 
 > **Draft.** An institutional position paper addressed primarily to economists and market designers. It concedes, in full, the behavioral-economics record on what prices do to gift spheres — and reverses the standard conclusion. Where that literature ends in bans, taboos, or resignation, HeartBank builds the blocked exchange as an institutional *office*, and argues that the office cannot be held by a human — not as a governance preference, but as a conclusion from the literature's own premises. The mechanism specifics live in the companion defensive publication (*The Incommensurability-Preserving Coupler*, CC0, same date) and the institutional white paper (*The Heart That Keeps Nothing*, §6); this paper contributes the argument.
 

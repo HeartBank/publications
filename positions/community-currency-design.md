@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/community-currency-design                                          |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/community-currency-design.md         |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
-| Document SHA-256 | _to be computed at publication_                                                                    |
 
 > **Draft.** A short institutional position paper. It states HeartBank's stance on community-currency design; it references, but does not reproduce, the research paper that supplies the architectural specification — *Dual-Currency Reciprocity Infrastructure: Money and Time as Complementary Scarcities* (thonly.org/research/dual-currency-reciprocity).
 

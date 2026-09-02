@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/non-bank-vs-banking-regulated                             |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/non-bank-vs-banking-regulated.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)   |
-| Document SHA-256 | _to be computed at publication_                                                           |
 
 > **Draft.** A short institutional position paper. It states HeartBank's permanent stance on its own legal-institutional category: a non-bank data bank of gratitude, never a chartered bank.
 

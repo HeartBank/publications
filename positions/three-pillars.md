@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/three-pillars                                        |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/three-pillars.md       |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/) |
-| Document SHA-256 | _to be computed at publication_                                                      |
 
 > **Draft.** A short institutional position paper. It states how HeartBank® understands the relationship among its three primary public domains, and why the institution treats them as a single generative architecture rather than a portfolio of separate sites.
 

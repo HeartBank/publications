@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/future-kindness-operating-noun                                     |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/future-kindness-operating-noun.md    |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
-| Document SHA-256 | _to be computed at publication_                                                                    |
 
 > **Draft outline.** This is the scaffold of a forthcoming position paper. The arguments are laid out in working form; the prose is the load-bearing claim made compact, to be expanded in subsequent drafts. Companion artifacts: the `.me` Product Principles at `thank.heartbank.me/PRINCIPLES.md` (where the phrase is currently under v1 validation) and the project memory at `project_future_kindness_operating_noun.md`.
 

@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/autonomous-ai-institutional-governance                             |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/autonomous-ai-institutional-governance.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
-| Document SHA-256 | _to be computed at publication_                                                                    |
 
 > **Draft.** A short institutional position paper. It states HeartBank's governance stance for an institution designed to operate under autonomous-AI succession.
 

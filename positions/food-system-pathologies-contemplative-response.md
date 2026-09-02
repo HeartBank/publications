@@ -9,7 +9,6 @@
 | Canonical URL    | https://heartbank.net/positions/food-system-pathologies-contemplative-response                     |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/food-system-pathologies-contemplative-response.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
-| Document SHA-256 | _to be computed at publication_                                                                    |
 
 > **Draft.** A short institutional position paper. It states HeartBank's stance on food-system pathologies and the contemplative-tradition institutional response; it references, but does not reproduce, the research paper that supplies the architectural specification — *Silica Wat as Hybrid Food Network with Gratitude-Economic Drivers: Religious Institutional Infrastructure for Middle-Way Restoration of Food Systems* (thonly.org/research/silica-wat-food-network).
 
