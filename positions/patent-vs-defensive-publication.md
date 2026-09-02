@@ -9,6 +9,7 @@
 | Canonical URL    | https://heartbank.net/positions/patent-vs-defensive-publication                                |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/patent-vs-defensive-publication.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)        |
+| Category         | institutional                                                                                  |
 
 > **Draft.** A short institutional position paper. It states HeartBank's permanent stance on intellectual property — defensive publication over patent — for foundation, legal, and policy audiences.
 

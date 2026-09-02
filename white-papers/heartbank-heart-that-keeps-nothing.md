@@ -4,6 +4,7 @@ subtitle: "A White Paper Synthesizing the Heart Pillar across the Six HeartBank�
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "White Paper"
 genre: white-papers
+category: institutional
 status: draft
 date: 2026-07-05
 license: CC0-1.0

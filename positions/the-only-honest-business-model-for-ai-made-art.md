@@ -4,6 +4,7 @@ subtitle: "Gift-Forward: the Works Given to Everyone, the Making Funded by Patro
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "Position Paper"
 genre: positions
+category: mechanism
 status: draft
 date: 2026-07-03
 license: CC0-1.0

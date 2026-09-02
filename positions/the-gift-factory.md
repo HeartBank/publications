@@ -4,6 +4,7 @@ subtitle: "Santa's Workshop, and the Body Pillar That Cannot Accumulate"
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "Position Paper"
 genre: positions
+category: institutional
 status: draft
 date: 2026-06-11
 license: CC0-1.0

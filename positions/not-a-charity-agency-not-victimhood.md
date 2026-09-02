@@ -4,6 +4,7 @@ subtitle: "Why HeartBank Connects Disposable Income to Proven Kindness — Patro
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "Position Paper"
 genre: positions
+category: institutional
 status: draft
 date: 2026-06-12
 license: CC0-1.0

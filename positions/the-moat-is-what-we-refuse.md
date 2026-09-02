@@ -9,6 +9,7 @@
 | Canonical URL    | https://heartbank.net/positions/the-moat-is-what-we-refuse                                    |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/the-moat-is-what-we-refuse.md   |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)      |
+| Category         | institutional                                                                                |
 
 > **Draft.** A short institutional position paper. It names the common structure beneath several of HeartBank's existing positions — the non-bank commitment, the defensive-publication (never-patent) commitment, and the attention-economy commitment — and states the general principle they are each an instance of: that the institution's durable advantage is the set of things it refuses to do. It references, but does not reproduce, the mechanism papers that supply the specifics.
 

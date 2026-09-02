@@ -4,6 +4,7 @@ subtitle: "THonly™ as the Cultural Engine of the Gratitude Economy"
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "Position Paper"
 genre: positions
+category: institutional
 status: draft
 date: 2026-06-11 (revised 2026-07-03)
 license: CC0-1.0

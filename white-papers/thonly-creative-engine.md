@@ -4,6 +4,7 @@ subtitle: "A White Paper Synthesizing the Mind Pillar across thonly.org, thonly.
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "White Paper"
 genre: white-papers
+category: institutional
 status: draft
 date: 2026-07-03
 license: CC0-1.0

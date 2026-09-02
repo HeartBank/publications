@@ -9,6 +9,7 @@
 | Canonical URL | https://heartbank.net/positions/share-is-the-wedge |
 | GitHub mirror | https://github.com/HeartBank/publications/blob/main/positions/share-is-the-wedge.md |
 | License | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/) |
+| Category         | mechanism                                                                                      |
 
 > **Draft.** This is a working draft of HeartBank's go-to-market position. It states the strategic thesis in load-bearing form; subsequent drafts will expand the empirical and competitive sections. Companion technical specification: the defensive publication *B-Links: Proof-of-Humanity-Signed Shareable Provenance with an Embedded Gratitude Affordance* (thonly.org/research), which specifies the carrier this position paper argues for.
 

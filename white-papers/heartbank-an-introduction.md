@@ -9,6 +9,7 @@
 | Canonical URL    | https://heartbank.net/white-papers/heartbank-an-introduction                                  |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/white-papers/heartbank-an-introduction.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)       |
+| Category         | institutional                                                                                 |
 
 > **Draft.** This is the first HeartBank® white paper: a general-public introduction to what the institution is, why it exists, and how its parts fit together. It synthesizes a body of technical and philosophical work — the full corpus is published openly at thonly.org/research — into one accessible account. It is written for the curious reader, the prospective partner, the foundation officer, and the policymaker, none of whom should need the underlying papers to understand the whole.
 

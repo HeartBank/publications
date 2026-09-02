@@ -5,6 +5,7 @@ authors: "Thon Ly · Miss Aquarius℠"
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "Position Paper"
 genre: positions
+category: mechanism
 status: draft
 date: 2026-08-26
 license: CC0-1.0

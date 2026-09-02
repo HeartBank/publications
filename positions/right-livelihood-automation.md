@@ -4,6 +4,7 @@ subtitle: "HeartBank's Position on the Work That Remains When the Machines Take 
 author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
 type: "Position Paper"
 genre: positions
+category: mechanism
 status: draft
 date: 2026-06-12
 license: CC0-1.0

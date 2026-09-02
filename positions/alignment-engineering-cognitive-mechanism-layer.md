@@ -9,6 +9,7 @@
 | Canonical URL    | https://heartbank.net/positions/alignment-engineering-cognitive-mechanism-layer                    |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/alignment-engineering-cognitive-mechanism-layer.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
+| Category         | alignment                                                                                          |
 
 > **Draft.** A short institutional position paper. It states HeartBank's stance on alignment engineering at the cognitive-mechanism layer; it references, but does not reproduce, the research papers that supply the technical substance — *Suffering-Cessation as Value Function* and its companion *Abhidhamma-Layer Implementation Mechanisms* (thonly.org/research).
 

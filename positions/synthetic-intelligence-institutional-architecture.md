@@ -9,6 +9,7 @@
 | Canonical URL    | https://heartbank.net/positions/synthetic-intelligence-institutional-architecture                  |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/synthetic-intelligence-institutional-architecture.md |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)            |
+| Category         | institutional                                                                                      |
 
 > **Draft.** A short institutional position paper. It states HeartBank's architectural stance for synthetic-intelligence institutions; it references, but does not reproduce, the research paper that supplies the technical specification — *The Four-Body Architecture for Synthetic Intelligence* (thonly.org/research/four-body-architecture).
 
