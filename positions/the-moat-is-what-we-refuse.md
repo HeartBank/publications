@@ -97,6 +97,16 @@ HeartBank states the limits of this position as plainly as the position itself.
 - **A refusal is only a moat if it is held — and §6 is the institution's answer to that.** The advantage described in §2 is real only for as long as the institution actually holds the line under financial pressure, which is why each refusal is bound as *permanent* and stated in *public*. But permanence stated is still permanence promised, and a promise is a weaker thing than a fact. §6 states what the refusals leave behind that requires no one's continued willingness — and the institution regards that residue, not the promise, as the durable part.
 - **The thesis is, at this stage, a bet.** That a refusal-based moat wins — that an institution can compete, at scale, by declining the tools its rivals depend on — is a hypothesis the institution is testing, not a proven result. HeartBank holds it seriously and reports on it honestly; it does not present it as settled.
 
+## 7.5 · What would, and would not, reopen this
+
+A permanent commitment that names no condition for its own revision is not a commitment; it is a mood. HeartBank states both halves.
+
+**What would reopen it.** *(a)* **Evidence that the refusals are not selecting for the property §6 claims** — that an institution refusing attention-capture and profit-maximisation produces gratitude no more genuine, and circulation no more durable, than one that does not. The refusals are justified by what they select; if they select nothing, they are cost without return and the institution owes an honest reversal rather than a longer defence. *(b)* **A demonstrated route to the dignity floor that requires the refused tools** — if the population this exists for can only be reached through mechanisms the institution has refused, the refusal is being paid for by the people it was meant to serve, which inverts its purpose. *(c)* **Sustained inability to fund the work at all**, where the alternative is not a compromised institution but no institution. ⭐ *A refusal held past the point where it starves the mission is not integrity; it is the purism §7 already names as the failure mode.*
+
+**What would NOT reopen it.** ⛔ Competitive pressure. ⛔ A slower growth curve than a rival's. ⛔ An offer large enough to be tempting — **the size of an offer is evidence about the offer, never about the position.** ⛔ A change in who leads the institution. ⛔ And the one worth stating because it is the likeliest: **the argument that "everyone else does it, so it must be necessary."** The refusals were adopted knowing the field's practice; the field's practice is the thing being refused, and it cannot also be the evidence that reopens the refusal.
+
+⚠️ **The asymmetry is deliberate and is the point.** Reopening requires evidence *about whether the refusal works*; it is never triggered by evidence about *what the refusal costs*. The cost was known and accepted at adoption — §5 says so — and a commitment that reopens on cost is one that was never binding.
+
 ## 8 · An invitation
 
 HeartBank does not regard the refusals as proprietary. They cannot be, and should not be: a door closed in public is an invitation for others to close it too.

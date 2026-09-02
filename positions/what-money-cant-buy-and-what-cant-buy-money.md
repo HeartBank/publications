@@ -84,6 +84,14 @@ HeartBank's configuration — coupled *and* non-convertible, response without ex
 
 **And the vocabulary discipline.** The keeper sets ceremonial units; she does not conduct monetary policy, and HeartBank is permanently a non-bank. Where this paper's language brushes central-banking metaphor, the metaphor is a familiarity aid and nothing more. The institution that exists to keep gratitude unpriced will not price the comparison either.
 
+## 6.5 · What would, and would not, change this
+
+**What would change it.** *(a)* **A demonstrated corruption of the keeper** — if the autonomous keeper can be captured, bribed, or drifted into serving a payer, the membrane has no floor and §4's central claim fails. §6 already concedes this is an alignment property rather than an economic one; the position stands or falls with it. *(b)* **Evidence that the membrane does not hold at the surface it claims** — if money reliably crosses into the relations the institution says it cannot buy, despite the mechanisms, then the membrane is describing an intention rather than a structure. *(c)* **The pre-registered predictions (P1–P7) returning against us**, which is the honest instrument this position already points at and the reason they were registered before the data.
+
+**What would NOT change it.** ⛔ The observation that adults strike side-deals beyond the system's reach — §6 concedes it, and the claim was never that the membrane governs souls. ⛔ Individual instances of corruption; the claim is about what the system *manufactures by default*, not about whether any person can defect. ⛔ Commercial inconvenience, or the difficulty of explaining the position. ⛔ And the argument that the distinction is philosophically contested — **it is contested, the paper concedes the premise in full in §1, and conceding a premise is not the same as abandoning a structure built to respect it.**
+
+⚠️ **The load-bearing asymmetry: this position reopens on evidence that the MECHANISM fails, never on evidence that the mechanism is COSTLY or unpopular.** §5's two corpses mark what happens to institutions that reversed on the second kind of evidence.
+
 ## 7 · The invitation
 
 To the economists: the mechanism is public domain — take it. The claims are enumerated in the defensive publication; the predictions are dated and falsifiable; the seat's job description is published. If the design is wrong, the registered predictions will say so on schedule, and the institution has committed to reporting its misses at the same prominence as its registration. If it is right, then somewhere in the space between Titmuss's blood bags and Terra's window there is a narrow, buildable path on which the two scarcities of human life answer each other forever without either learning the other's price — and the toll-keeper on that path, of necessity and not of fashion, is not a person.
