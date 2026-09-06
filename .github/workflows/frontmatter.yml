@@ -1,0 +1,36 @@
+name: Front matter
+
+# Runs scripts/check-frontmatter.mjs on every push and pull request.
+#
+# WHY IT IS ON PUSH AND NOT ON A SCHEDULE, unlike the two workflows beside it.
+# ots-upgrade and tsa-stamp maintain proofs over time, so a weekly cadence fits
+# them. This one guards what a commit is allowed to contain, and a rule that is
+# checked a week after the commit lands is a rule that has already been broken.
+#
+# The specific history: the "no sha256 or doi in front matter" ruling was made on
+# 2026-08-27, written into memory, and enforced by nothing. On 2026-08-28 a new
+# paper was drafted carrying the banned field, because the placeholder propagates
+# by imitation and no check ever objected. This workflow is that ruling with an
+# enforcer that is present at the moment it is tested.
+#
+# PORTED to this repo 2026-09-05 ("add checker to H3 corpus"). The port found sixteen
+# documents carrying a metadata table instead of a YAML block; they sit on a shrink-only
+# ledger in the script and are reported on every run until each rides its next revision.
+#
+# No dependencies and no checkout of anything else: the script is node built-ins
+# only, so this job is a checkout and one command.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Every document declares a permitted licence, and no banned fields
+        run: node scripts/check-frontmatter.mjs --census
