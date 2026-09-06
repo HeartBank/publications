@@ -1,3 +1,17 @@
+---
+title: "HeartBank: An Introduction"
+subtitle: "Gratitude Infrastructure for the AI Age — the Zero-Point Game, an Economy of Balance, and an Institution Built to Outlast Its Founder"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "White Paper"
+genre: white-papers
+category: institutional
+status: draft
+date: 2026-05-16
+license: CC0-1.0
+venue: heartbank.net/white-papers/heartbank-an-introduction (canonical institutional)
+slug: heartbank-an-introduction
+---
+
 # HeartBank: An Introduction
 
 **Gratitude Infrastructure for the AI Age — the Zero-Point Game, an Economy of Balance, and an Institution Built to Outlast Its Founder**

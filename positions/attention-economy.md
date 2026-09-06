@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on the Attention Economy"
+subtitle: "Why HeartBank Competes on Delivered Wellbeing, Not Captured Attention"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: mechanism
+status: draft
+date: 2026-05-22
+license: CC0-1.0
+venue: heartbank.net/positions/attention-economy (canonical institutional)
+slug: attention-economy
+---
+
 # HeartBank's Position on the Attention Economy
 
 **Why HeartBank Competes on Delivered Wellbeing, Not Captured Attention**

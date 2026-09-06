@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position: The Share Is the Wedge"
+subtitle: "Decoupling Distribution Frequency from Value Frequency in a Gratitude Economy — Why Sharing, Not Thanking, Is the High-Frequency Carrier That Can Take Reciprocity Infrastructure to Mainstream Scale Without Debasing the Gratitude It Exists to Protect"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: mechanism
+status: draft
+date: 2026-06-08
+license: CC0-1.0
+venue: heartbank.net/positions/share-is-the-wedge (canonical institutional)
+slug: share-is-the-wedge
+---
+
 # HeartBank's Position: The Share Is the Wedge
 
 **Decoupling Distribution Frequency from Value Frequency in a Gratitude Economy — Why Sharing, Not Thanking, Is the High-Frequency Carrier That Can Take Reciprocity Infrastructure to Mainstream Scale Without Debasing the Gratitude It Exists to Protect**

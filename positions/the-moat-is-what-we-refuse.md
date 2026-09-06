@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position: The Moat Is What We Refuse"
+subtitle: "Why Gratitude-Purity — Kept at the Expense of Attention and Profit — Is the Institution's Durable Advantage"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: institutional
+status: draft
+date: 2026-07-01
+license: CC0-1.0
+venue: heartbank.net/positions/the-moat-is-what-we-refuse (canonical institutional)
+slug: the-moat-is-what-we-refuse
+---
+
 # HeartBank's Position: The Moat Is What We Refuse
 
 **Why Gratitude-Purity — Kept at the Expense of Attention and Profit — Is the Institution's Durable Advantage**

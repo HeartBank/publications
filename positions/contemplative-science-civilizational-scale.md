@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Contemplative Science at Civilizational Scale"
+subtitle: "Why Combining DNA, Natal Chart, Continuous Behavior, and Continuous Respiratory Observation in One Longitudinal Cohort Is the Empirical Methodology Contemplative Science Has Been Waiting For"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: alignment
+status: draft
+date: 2026-05-26
+license: CC0-1.0
+venue: heartbank.net/positions/contemplative-science-civilizational-scale (canonical institutional)
+slug: contemplative-science-civilizational-scale
+---
+
 # HeartBank's Position on Contemplative Science at Civilizational Scale
 
 **Why Combining DNA, Natal Chart, Continuous Behavior, and Continuous Respiratory Observation in One Longitudinal Cohort Is the Empirical Methodology Contemplative Science Has Been Waiting For**

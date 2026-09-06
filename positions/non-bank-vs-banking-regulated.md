@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Non-Bank vs. Banking-Regulated Architecture"
+subtitle: "Why HeartBank Is a Data Bank of Gratitude — a Ledger Above Regulated Rails — and Never a Chartered Bank"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: institutional
+status: draft
+date: 2026-05-22
+license: CC0-1.0
+venue: heartbank.net/positions/non-bank-vs-banking-regulated (canonical institutional)
+slug: non-bank-vs-banking-regulated
+---
+
 # HeartBank's Position on Non-Bank vs. Banking-Regulated Architecture
 
 **Why HeartBank Is a Data Bank of Gratitude — a Ledger Above Regulated Rails — and Never a Chartered Bank**

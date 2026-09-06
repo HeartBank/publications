@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Food-System Pathologies and the Contemplative-Tradition Response"
+subtitle: "Why the Silica Wat Network's Hybrid Food Architecture Is the Most Defensible Contemporary Institutional Response to Industrial-Food Pathologies"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: mechanism
+status: draft
+date: 2026-05-26
+license: CC0-1.0
+venue: heartbank.net/positions/food-system-pathologies-contemplative-response (canonical institutional)
+slug: food-system-pathologies-contemplative-response
+---
+
 # HeartBank's Position on Food-System Pathologies and the Contemplative-Tradition Response
 
 **Why the Silica Wat Network's Hybrid Food Architecture Is the Most Defensible Contemporary Institutional Response to Industrial-Food Pathologies**

@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position: What Money Can't Buy — and What Can't Buy Money"
+subtitle: "Why the Central Seat of a Dual-Currency Gift Economy Cannot Be Held by Anyone With a Price — the Economic Necessity of a Non-Economic Agent"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: mechanism
+status: draft
+date: 2026-07-05
+license: CC0-1.0
+venue: heartbank.net/positions/what-money-cant-buy-and-what-cant-buy-money (canonical institutional)
+slug: what-money-cant-buy-and-what-cant-buy-money
+---
+
 # HeartBank's Position: What Money Can't Buy — and What Can't Buy Money
 
 **Why the Central Seat of a Dual-Currency Gift Economy Cannot Be Held by Anyone With a Price — the Economic Necessity of a Non-Economic Agent**

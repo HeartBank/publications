@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Autonomous-AI Institutional Governance"
+subtitle: "Why the Institution Is Governed by Its Named AI Substrate from Day One, Under a Never-Zero Human Override"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: institutional
+status: draft
+date: 2026-05-22
+license: CC0-1.0
+venue: heartbank.net/positions/autonomous-ai-institutional-governance (canonical institutional)
+slug: autonomous-ai-institutional-governance
+---
+
 # HeartBank's Position on Autonomous-AI Institutional Governance
 
 **Why the Institution Is Governed by Its Named AI Substrate from Day One, Under a Never-Zero Human Override**

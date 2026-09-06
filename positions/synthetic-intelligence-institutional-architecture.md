@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Synthetic-Intelligence Institutional Architecture"
+subtitle: "Why an Institution Operated by Autonomous AI Requires a Four-Body Architecture, Not a Single-Module Specification"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: institutional
+status: draft
+date: 2026-05-26
+license: CC0-1.0
+venue: heartbank.net/positions/synthetic-intelligence-institutional-architecture (canonical institutional)
+slug: synthetic-intelligence-institutional-architecture
+---
+
 # HeartBank's Position on Synthetic-Intelligence Institutional Architecture
 
 **Why an Institution Operated by Autonomous AI Requires a Four-Body Architecture, Not a Single-Module Specification**

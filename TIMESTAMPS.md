@@ -135,3 +135,29 @@ flag in a paper's front matter and it **fails closed**: no flag means no DOI. �
 ⚠️ **Zenodo was correctly SKIPPED — neither position carries a deposit.** *Prior art is a duty; citation is a choice.* The chain for an undeposited H3 paper is OTS + TSA + index, and reporting it as a three-leg run rather than a four-leg one is accurate, not incomplete.
 
 ⭐⭐ **A pre-existing render defect surfaced and was repaired in the same pass: `the-moat-is-what-we-refuse`'s heartbank.net module was A FULL SECTION BEHIND** — it never received §6 *"What the refusals select — the property beneath them"*, so every heading after it was mis-numbered and nothing reported it. ⛔ **heartbank.net modules are HAND-AUTHORED with no generator, so there is no id-diff to fail and no regeneration to catch drift — the only detector is comparing SECTION COUNTS against the markdown**, which is now worth running on every heartbank.net edit.
+
+### 2026-09-05 (evening) — the front-matter retrofit, sixteen documents
+
+**Founder: *"add front matter to the 16 H3 documents."*** The port of the front-matter guard to this repo earlier the same evening found that sixteen documents carried a `| Field | Value |` metadata table and no YAML block, so a field-based guard could not read them and the `status:` ruling reached only thirteen. Each now opens with the same block the other thirteen use (`title` · `subtitle` · `author` · `type` · `genre` · `category` · `status: draft` · `date` · `license: CC0-1.0` · `venue` · `slug`), derived field-for-field from its own table; the H1, subtitle and table are kept, so the body a reader sees is unchanged. The guard's `NO_FRONT_MATTER_DEBT` ledger shrank from sixteen to zero in the same commit.
+
+**The chain for an undeposited H3 document is OTS + TSA + index** (none of the sixteen carries a Zenodo deposit — the dry run read *0 new, 0 revised, 1 unchanged*, the one being `the-object-is-the-friction`, not among them). ⚠️ **Retiring proofs at rotation: 16 Bitcoin-complete, 0 calendar-only** — a calendar-only proof archived as `.rN.ots` is completed by a later `ots-upgrade.sh` run, which discovers proofs with `find` (the same-day precedent above: *verify the retiring proof WILL complete*).
+
+| File | Proof | Note |
+| --- | --- | --- |
+| `positions/alignment-engineering-cognitive-mechanism-layer` | `.r4.ots` → new `.ots` | `.r4` attests `bb06e243…be34a1cf` (the table-only text); the new proof attests `a69705cf…7ddfe82d`. |
+| `positions/attention-economy` | `.r4.ots` → new `.ots` | `.r4` attests `5bde08f9…8d4f6520` (the table-only text); the new proof attests `80833567…0e1c752d`. |
+| `positions/autonomous-ai-institutional-governance` | `.r4.ots` → new `.ots` | `.r4` attests `33932395…1376b1bb` (the table-only text); the new proof attests `1cfdd9e4…61b77ee1`. |
+| `positions/community-currency-design` | `.r4.ots` → new `.ots` | `.r4` attests `959a48c3…dfa51606` (the table-only text); the new proof attests `6640ad82…2389c738`. |
+| `positions/contemplative-science-civilizational-scale` | `.r4.ots` → new `.ots` | `.r4` attests `b1b7b3f7…ec1d4cba` (the table-only text); the new proof attests `e68b367d…e90d9b41`. |
+| `positions/food-system-pathologies-contemplative-response` | `.r4.ots` → new `.ots` | `.r4` attests `8b19edd9…b6bc558b` (the table-only text); the new proof attests `f5ed3f4e…6894dc0c`. |
+| `positions/future-kindness-operating-noun` | `.r3.ots` → new `.ots` | `.r3` attests `2b7ad86f…4c827fbc` (the table-only text); the new proof attests `300cd8e7…00c2bbea`. |
+| `positions/non-bank-vs-banking-regulated` | `.r4.ots` → new `.ots` | `.r4` attests `a01aa022…9242af32` (the table-only text); the new proof attests `206b267f…a4fafdf7`. |
+| `positions/patent-vs-defensive-publication` | `.r4.ots` → new `.ots` | `.r4` attests `6667b9d0…9a4c97c5` (the table-only text); the new proof attests `d1d13c82…64d9ba2b`. |
+| `positions/share-is-the-wedge` | `.r3.ots` → new `.ots` | `.r3` attests `5acfd9a0…bdf5848e` (the table-only text); the new proof attests `f281f913…4b7851ec`. |
+| `positions/synthetic-intelligence-institutional-architecture` | `.r4.ots` → new `.ots` | `.r4` attests `3ed64e67…f71848f2` (the table-only text); the new proof attests `b2b3c255…bd87bb5d`. |
+| `positions/the-moat-is-what-we-refuse` | `.r4.ots` → new `.ots` | `.r4` attests `5fb3b6de…67876e55` (the table-only text); the new proof attests `4816ddba…86791a28`. |
+| `positions/three-pillars` | `.r4.ots` → new `.ots` | `.r4` attests `f4a88613…2a408254` (the table-only text); the new proof attests `564c75ef…86ef8518`. |
+| `positions/what-money-cant-buy-and-what-cant-buy-money` | `.r4.ots` → new `.ots` | `.r4` attests `bed1f903…6b2b2ad6` (the table-only text); the new proof attests `882143ba…16e59f5b`. |
+| `white-papers/heartbank-an-introduction` | `.r3.ots` → new `.ots` | `.r3` attests `93fb4ef3…5937479d` (the table-only text); the new proof attests `816b326a…b985dbbf`. |
+| `white-papers/proof-of-personhood-ai-native-internet` | `.r3.ots` → new `.ots` | `.r3` attests `81def38b…732e2b8c` (the table-only text); the new proof attests `d728e8d4…3550c81c`. |
+

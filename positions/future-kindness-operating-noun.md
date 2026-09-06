@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Future Kindness as the Operating Noun"
+subtitle: "Why the Phrase *\"Thank Your Future Kindness\"* Is the Candidate Central Practice — and How It Composes Across HeartBank's Four Surfaces, the Kindness Economy, the Silica Wat Sangha Layer, the Tipiṭakan Grounding, and the Temporal Triplet of Past–Present–Future Kindness-Thanking"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: mechanism
+status: draft
+date: 2026-05-27
+license: CC0-1.0
+venue: heartbank.net/positions/future-kindness-operating-noun (canonical institutional)
+slug: future-kindness-operating-noun
+---
+
 # HeartBank's Position on Future Kindness as the Operating Noun
 
 **Why the Phrase *"Thank Your Future Kindness"* Is the Candidate Central Practice — and How It Composes Across HeartBank's Four Surfaces, the Kindness Economy, the Silica Wat Sangha Layer, the Tipiṭakan Grounding, and the Temporal Triplet of Past–Present–Future Kindness-Thanking**

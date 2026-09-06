@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Alignment Engineering at the Cognitive-Mechanism Layer"
+subtitle: "Why the Next Layer of Alignment Work Lives Beneath Training Method — and Why the Theravāda Abhidhamma Already Speaks the Vocabulary"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: alignment
+status: draft
+date: 2026-05-26
+license: CC0-1.0
+venue: heartbank.net/positions/alignment-engineering-cognitive-mechanism-layer (canonical institutional)
+slug: alignment-engineering-cognitive-mechanism-layer
+---
+
 # HeartBank's Position on Alignment Engineering at the Cognitive-Mechanism Layer
 
 **Why the Next Layer of Alignment Work Lives Beneath Training Method — and Why the Theravāda Abhidhamma Already Speaks the Vocabulary**

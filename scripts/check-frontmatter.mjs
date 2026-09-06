@@ -158,24 +158,7 @@ const BODY_CLAIM_DEBT = new Set([]); // none carried on 2026-09-05
 // owe a YAML block at their next revision (`title` · `slug` · `date` · `status: draft` ·
 // `license: CC0-1.0` · `category` · `venue`). Deleting a line is the fix landing; adding
 // one is what this refuses: a NEW document without a block fails.
-const NO_FRONT_MATTER_DEBT = new Set([
-    "positions/alignment-engineering-cognitive-mechanism-layer.md",
-    "positions/attention-economy.md",
-    "positions/autonomous-ai-institutional-governance.md",
-    "positions/community-currency-design.md",
-    "positions/contemplative-science-civilizational-scale.md",
-    "positions/food-system-pathologies-contemplative-response.md",
-    "positions/future-kindness-operating-noun.md",
-    "positions/non-bank-vs-banking-regulated.md",
-    "positions/patent-vs-defensive-publication.md",
-    "positions/share-is-the-wedge.md",
-    "positions/synthetic-intelligence-institutional-architecture.md",
-    "positions/the-moat-is-what-we-refuse.md",
-    "positions/three-pillars.md",
-    "positions/what-money-cant-buy-and-what-cant-buy-money.md",
-    "white-papers/heartbank-an-introduction.md",
-    "white-papers/proof-of-personhood-ai-native-internet.md"
-]);
+const NO_FRONT_MATTER_DEBT = new Set([]); // the 16 received their blocks 2026-09-05 (founder: "add front matter to the 16 H3 documents")
 
 /* --------------------------------------------------------------- status ---
    Ruled 2026-09-05. draft = public, timestamped, not yet through human review.

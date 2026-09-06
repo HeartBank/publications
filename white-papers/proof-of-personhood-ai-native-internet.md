@@ -1,3 +1,17 @@
+---
+title: "Proof of Personhood for an AI-Native Internet"
+subtitle: "B-PoH℠ as Trust Infrastructure — an Open Protocol for the Era When Scarcity Shifts from Information to Authenticity"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "White Paper"
+genre: white-papers
+category: mechanism
+status: draft
+date: 2026-05-24
+license: CC0-1.0
+venue: heartbank.net/white-papers/proof-of-personhood-ai-native-internet (canonical institutional)
+slug: proof-of-personhood-ai-native-internet
+---
+
 # Proof of Personhood for an AI-Native Internet
 
 **B-PoH℠ as Trust Infrastructure — an Open Protocol for the Era When Scarcity Shifts from Information to Authenticity**

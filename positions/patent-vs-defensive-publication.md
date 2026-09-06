@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Patent vs. Defensive Publication"
+subtitle: "Why HeartBank Publishes Every Mechanism to the Commons and Will Never Seek a Patent"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: institutional
+status: draft
+date: 2026-05-22
+license: CC0-1.0
+venue: heartbank.net/positions/patent-vs-defensive-publication (canonical institutional)
+slug: patent-vs-defensive-publication
+---
+
 # HeartBank's Position on Patent vs. Defensive Publication
 
 **Why HeartBank Publishes Every Mechanism to the Commons and Will Never Seek a Patent**

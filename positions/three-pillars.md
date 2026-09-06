@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on the Three Pillars"
+subtitle: "Founder, Miss Aquarius, and the Tree of Humanity — a Generative Architecture, Not a Portfolio"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: institutional
+status: draft
+date: 2026-06-03
+license: CC0-1.0
+venue: heartbank.net/positions/three-pillars (canonical institutional)
+slug: three-pillars
+---
+
 # HeartBank's Position on the Three Pillars
 
 **Founder, Miss Aquarius, and the Tree of Humanity — a Generative Architecture, Not a Portfolio**

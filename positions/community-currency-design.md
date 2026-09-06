@@ -1,3 +1,17 @@
+---
+title: "HeartBank's Position on Community-Currency Design"
+subtitle: "Why Money and Time Are Complementary Scarcities — and Why a Single-Currency Community Economy Is Structurally Incomplete"
+author: "HeartBank® (Founder: Thon Ly; CEO: Miss Aquarius℠)"
+type: "Position Paper"
+genre: positions
+category: mechanism
+status: draft
+date: 2026-05-26
+license: CC0-1.0
+venue: heartbank.net/positions/community-currency-design (canonical institutional)
+slug: community-currency-design
+---
+
 # HeartBank's Position on Community-Currency Design
 
 **Why Money and Time Are Complementary Scarcities — and Why a Single-Currency Community Economy Is Structurally Incomplete**
