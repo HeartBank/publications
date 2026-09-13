@@ -161,3 +161,13 @@ flag in a paper's front matter and it **fails closed**: no flag means no DOI. �
 | `white-papers/heartbank-an-introduction` | `.r3.ots` → new `.ots` | `.r3` attests `93fb4ef3…5937479d` (the table-only text); the new proof attests `816b326a…b985dbbf`. |
 | `white-papers/proof-of-personhood-ai-native-internet` | `.r3.ots` → new `.ots` | `.r3` attests `81def38b…732e2b8c` (the table-only text); the new proof attests `d728e8d4…3550c81c`. |
 
+### 2026-09-13 — the-person-is-not-the-product from its polish round; attention-economy's stale proof and two lines
+
+| File | Proof | Note |
+| --- | --- | --- |
+| `positions/the-person-is-not-the-product` | `.ots` → `.r1.ots` (`5c556e5f…742bf856`); new `da8f0042…53f148cc` | Round `2026-09-13-r1`, ruled *"Triage: all approved"* plus three ratified forms (B-Vouch guards 1, 2 per buyer market, 6). ⚠️ **Its first publication on 2026-09-07 was never logged here** — this is the first row for the slug. |
+| `positions/attention-economy` | `.r5.ots` (`80833567…0e1c752d`, the 2026-09-05 text); new `f427b9dd…62c86bab` | Its paired 2026-09-07 revision was never re-stamped, so the proof had gone stale; this rotation also carries two lines that contradicted the ratified guard 2 (*"priced identically for everyone"* → one posted price per buyer market) and an unbuilt governance claim (*"is arranged"* → *"is to be arranged"*). |
+
+**Chain:** OTS + TSA (`tsa-stamp.yml`, `2026-09-13.sha256`, hashes match the tree) + index `@333eco/corpus` 2.3.2.
+Positions carry no DOI (the 8/31 ruling). `check-frontmatter.mjs` gained the A126 ratchet (1 carrier). OTS is
+calendar-only at time of writing.
