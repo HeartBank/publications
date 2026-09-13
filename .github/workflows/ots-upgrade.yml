@@ -83,4 +83,22 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "OpenTimestamps: stamp new papers and upgrade confirmed proofs"
+          # THE PUSH RACES EVERY OTHER PUSH (2026-09-13). The job holds a checkout for minutes, and this repo
+          # is pushed by sessions and by /publish; on 2026-09-13 09:30Z the same bare `git push` in thonly/notes
+          # was rejected as behind and the run's new proofs were discarded. So: rebase onto main and retry.
+          # On a conflict the REMOTE side wins (`-X ours` is the upstream during a rebase): a conflicting .ots
+          # means a local /ots or /publish already stamped, upgraded or rotated that proof, and keeping this
+          # run's copy could put an old text's proof over a new text's stamp. An emptied commit is dropped.
+          # A conflict -X cannot settle (a proof this run upgraded was deleted upstream) aborts and fails red.
+          # Same block as thonly/notes, where all four cases were tested first and a live race passed.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push rejected (attempt $attempt): main moved during the run — rebasing onto it." >> "$GITHUB_STEP_SUMMARY"
+            sleep $((attempt * 10))
+            if ! git pull --rebase -X ours origin main; then
+              git rebase --abort 2>/dev/null || true
+              echo "**Rebase stopped on a conflict the remote side cannot settle** (likely a proof deleted or rotated locally while this run upgraded it). Nothing was pushed; re-run the workflow." >> "$GITHUB_STEP_SUMMARY"
+              exit 1
+            fi
+          done
           git push
