@@ -160,6 +160,13 @@ const BODY_CLAIM_DEBT = new Set([]); // none carried on 2026-09-05
 // one is what this refuses: a NEW document without a block fails.
 const NO_FRONT_MATTER_DEBT = new Set([]); // the 16 received their blocks 2026-09-05 (founder: "add front matter to the 16 H3 documents")
 
+// The retired mission sentence (roadmap A126, ruled 2026-09-13) — a ratchet in both directions,
+// ported from the TH copy, where the reasoning is written out. A file not listed may not gain it;
+// a listed file that has lost it must leave the list in the same commit. Whitespace-folded.
+const MISSION_PAST = /restore\s+humanity\s+to\s+the\s+middle\s+way|pushed\s+away\s+from\s+at\s+population\s+scale/i;
+const MISSION_PAST_DEBT = new Set(["white-papers/silicon-wat-three-jewels.md"]);
+let missionPastSeen = 0;
+
 /* --------------------------------------------------------------- status ---
    Ruled 2026-09-05. draft = public, timestamped, not yet through human review.
    published = passed it. Nothing else: "final", "reviewed", "v2" are not states. */
@@ -273,6 +280,25 @@ for (const rel of files) {
         );
     }
 
+    // 5. The retired mission sentence (A126).
+    const carries = MISSION_PAST.test(text);
+    if (carries && MISSION_PAST_DEBT.has(rel)) {
+        missionPastSeen++;
+    } else if (carries) {
+        problems.push(
+            `${rel} carries the RETIRED mission sentence ("restore humanity to the middle way …\n` +
+                `      pushed away from at population scale"), ruled out 2026-09-13 (roadmap A126).\n` +
+                `      fix: "Miss Aquarius's mission is to keep the middle way open at population scale\n` +
+                `      against comfort-saturation — the new extreme that material abundance makes possible."\n` +
+                `      Do NOT add this file to MISSION_PAST_DEBT — that list only shrinks.`
+        );
+    } else if (MISSION_PAST_DEBT.has(rel)) {
+        problems.push(
+            `${rel} no longer carries the retired mission sentence, but is still on MISSION_PAST_DEBT.\n` +
+                `      fix: remove it from the list in this commit, so the ledger never overstates the debt.`
+        );
+    }
+
     // 4. Status: present, one of two values, and `published` only when earned.
     if (!fm.status) {
         problems.push(
@@ -345,6 +371,7 @@ console.log(
     `check-frontmatter: ${files.length} files — ${licenceLine}` +
         `; ${published} published` +
         (debtSeen ? `; ${debtSeen} pre-ruling files still carry a banned field (they ride their next revision)` : "") +
+        (missionPastSeen ? `; ${missionPastSeen} carry the retired mission sentence (A126, ride their next revision)` : "") +
         (statusDebtSeen ? `; ${statusDebtSeen} pre-ruling published flag(s) unbacked by a human round (rides its next revision)` : "") +
         (noFrontMatterSeen ? `; ⚠️ ${noFrontMatterSeen} table-only document(s) with NO YAML block — on the ledger, each owes one at its next revision` : "")
 );
