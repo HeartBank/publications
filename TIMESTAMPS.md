@@ -1,3 +1,10 @@
+### 2026-09-23 (evening) — three revision riders (founder: *"All riders now"*)
+
+`the-person-is-not-the-product` (data unions carried as an objection; §11 misquote fixed) · `factory-333-workshop-no-footprint`
+(B-Dog family renamed; *no profit* / *never selling output* corrected in the open to the 7/28 ruling — for-profit, sells the
+ball direct, margin unruled) · `thonly-creative-engine` (banned plural). Leg 1: each proof rotated (Bitcoin-complete) and
+re-stamped · leg 2 `2026-09-24.sha256` · leg 3 none (no DOIs) · leg 4 index 2.5.5 · heartbank.net redeployed.
+
 ### 2026-09-23 — patent-vs-defensive-publication: the correction, stated in the open, and §6 extended
 
 Founder-approved 2026-09-13 (*"correction to patent-vs-defensive-publication approved"*), drafted 2026-09-23. A patent grants
