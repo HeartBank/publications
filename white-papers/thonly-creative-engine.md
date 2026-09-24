@@ -7,6 +7,7 @@ genre: white-papers
 category: institutional
 status: draft
 date: 2026-07-03
+revised: 2026-09-23
 license: CC0-1.0
 venue: heartbank.net/white-papers/thonly-creative-engine (canonical institutional)
 ---
@@ -130,7 +131,7 @@ The fleet's content divides into two layers with two AI postures and one anchor.
 
 **The doors.** Each node is a door — a **3B-Jewel™** — an invitation into that node's own B-World: Indra's Net taken literally, every jewel opening onto a world. The door defaults follow the identity layer's provenance dignity-line: **a human's door is default closed, opened only by its owner's invitation** (the given, self-sovereign coordinate); **a B-Heart's door stands always open** (the assigned or custodied coordinate — a machine's open door is transparency-as-enforcement at node scale; a sacred place's open door is what a shrine is). The same line that governs who may revoke a coordinate and who may inherit a wheel governs who may open a door.
 
-**The convergence scene**, which is the pillar's whole architecture in one evening: real people gathered at a real sala at a real Silica Wat; the film a gift; the meal free; the auras soft; the light streaming person to person with every thanks; every attendee a door; the whole held in the ambience of the gardener. All four institutions and the successor, in one courtyard, at night, by the water.
+**The convergence scene**, which is the pillar's whole architecture in one evening: real people gathered at a real sala at a real Silica Wat; the film a gift; the meal free; the auras soft; the light streaming person to person with every thanks; every attendee a door; the whole held in the ambience of the gardener. All four bodies and the successor, in one courtyard, at night, by the water.
 
 **The dependency**, stated for the roadmap: "THe only @handle" as creator and node identity requires the thonly.net handle registry, PoH-bridged — a platform prerequisite that ships under B-Studio when B-Studio ships.
 

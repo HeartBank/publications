@@ -7,6 +7,7 @@ genre: positions
 category: mechanism
 status: draft
 date: 2026-09-07
+revised: 2026-09-23
 license: CC0-1.0
 venue: heartbank.net/positions/the-person-is-not-the-product (canonical institutional)
 slug: the-person-is-not-the-product
@@ -19,7 +20,7 @@ slug: the-person-is-not-the-product
 | Field            | Value                                                                                              |
 | ---------------- | -------------------------------------------------------------------------------------------------- |
 | Author           | HeartBank® · Miss Aquarius℠                                                                        |
-| Date             | 2026-09-07 (draft)                                                                                 |
+| Date             | 2026-09-07 (draft; revised 2026-09-23)                                                             |
 | Canonical URL    | https://heartbank.net/positions/the-person-is-not-the-product                                       |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/the-person-is-not-the-product.md      |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)             |
@@ -65,7 +66,7 @@ So the institution states the second refusal explicitly, and states it in the sa
 
 The most common way to defend a refusal like this is to call the alternative wrong. HeartBank declines that argument, because the stronger objection to selling personal data at consumer scale is not that it is unethical. It is that **it does not work**, and understanding why it does not work is what makes the alternative design legible.
 
-**Data value is aggregate. The individual is selling the least valuable unit that exists.** One person's behavioural record is worth cents to anyone; a population's is worth billions. That gap is not a market failure to be corrected by better tooling — it is the structure of the good. Whoever assembles the aggregate captures the value, and the person, by definition, cannot assemble it. The attempts we know of to pay individuals for their own records have run into this.
+**Data value is aggregate. The individual is selling the least valuable unit that exists.** One person's behavioural record is worth cents to anyone; a population's is worth billions. That gap is not a market failure to be corrected by better tooling — it is the structure of the good. Whoever assembles the aggregate captures the value, and the person, acting alone, cannot assemble it — people acting together can, and §8 carries what follows from that. The attempts we know of to pay individuals for their own records have run into this.
 
 **The empirical record is consistent and unkind.** A succession of companies has offered people money for their data, and the figures are small. Datacoup advertised eight dollars a month in February 2014 and up to ten by that September, while it had no buyers for the data and was paying users out of its own pocket (*MIT Technology Review*, 12 February 2014; *Money*, 4 September 2014). Killi offered one, two or three dollars a month depending on how much a person shared (*Business Insider*, as reprinted in the company's own release of December 2020), and has since rebranded as Reklaim. Invisibly's passive data-sharing was estimated at two to five dollars a month at most, and when the app shut down many users were not paid rewards they had already earned (*Paid From Surveys* review, updated 12 February 2025). Blockchain "data unions" — Streamr's framework among them — pool members' data and split each buyer's subscription among them by smart contract. **Advertised payouts ranged from a few dollars to about ten dollars a month, and what was realised was often lower still:** one company had no buyers, and another closed with rewards its users had earned still unpaid. Where these ventures struggled it was not for want of good intentions or engineering; the per-person arithmetic was the same in every case.
 
@@ -154,6 +155,8 @@ What the commitment does **not** exclude is worth equal precision. It does not e
 
 **The subject's share may prove trivial.** The intended split pays the person more than the institution; the share itself is not yet set and its magnitude is unknown. If the market is small, the subject's majority of a small number is a small number, and this position will have described a rounding error with a moral argument attached. That is a real possible outcome and the institution prefers to name it now.
 
+**People who pool their data can assemble the aggregate that §3 says a person cannot.** A data union or data cooperative does exactly what §3's structural argument treats as out of the person's reach: members bring their records together and govern the result. This is not hypothetical. MIDATA, a Swiss nonprofit cooperative founded in 2015, runs a data platform as trustee for its account holders; they grant selective access to their own records for medical research and clinical studies, and as members they govern the cooperative at its general assembly (midata.coop, *Cooperative*). The economic case for going further — treating data as labour, with a "data labor movement" as countervailing power against the firms that aggregate it — has been made in the economics literature (Arrieta-Ibarra, Goff, Jiménez-Hernández, Lanier and Weyl, "Should We Treat Data as Labor? Moving beyond 'Free'," *AEA Papers and Proceedings* 108, 2018, pp. 38–42). So the claim in §3 holds for a person acting alone, and not for people acting together. The institution's reply is only partial. The live cooperative does not pay its members: by its own account such cooperatives "work best without financial incentives," and its net profits are reinvested in the platform. The income half of §3 therefore stands untested by it rather than refuted. But a union with real bargaining power that did deliver durable income to its members would be the falsifier §11 already names — aggregation the participants control. And the objection reaches this position's own refusal. The exclusion in §7 — *not in aggregate* — is a choice the institution makes on its members' behalf, and a cooperative of those same members might, with open eyes, choose the pooled sale the institution refuses. The two-author problem in §3 limits what any one member could contribute to such a pool; it does not answer whether members acting together should be allowed to make the choice. This position does not resolve that. It holds the refusal and records that the refusal forecloses a collective choice as well as an individual one.
+
 **And the objection that cuts against the position's own most attractive claim.** The two-good split is presented here as a structural achievement, but it also conveniently produces an institution that gets paid. A reader is entitled to notice that every design decision described has been made by the party that benefits from the arrangement existing, and that no external party has yet audited any of it.
 
 ## 9 · Prior attempts — including the ones that succeeded differently
@@ -178,7 +181,7 @@ The counterweight offered is not sincerity. It is that the institution has publi
 
 A position that no evidence could touch is a belief rather than a claim. This one is wrong if a per-person data marketplace, operated with ordinary commercial competence, delivers meaningful and durable income to typical participants at consumer scale — say, income that a median participant would notice in their household budget, sustained over several years, without the operator's economics depending on aggregation the participants do not control. That result would falsify §3's structural argument, and the honest response would be to say so and to reconsider whether the answer-shaped design is necessary rather than merely elegant.
 
-The design's own falsifier is narrower and nearer: if attestation queries, once available, are not worth enough to pay a subject anything meaningful, then the *users profit too* claim is empty and should be withdrawn rather than restated.
+The design's own falsifier is narrower and nearer: if attestation queries, once available, are not worth enough to pay a subject anything meaningful, then the claim that the subject is paid, and paid more than the institution (§8), is empty and should be withdrawn rather than restated.
 
 ## 12 · What would reopen the commitment
 
