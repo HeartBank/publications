@@ -1,3 +1,12 @@
+### 2026-09-23 — patent-vs-defensive-publication: the correction, stated in the open, and §6 extended
+
+Founder-approved 2026-09-13 (*"correction to patent-vs-defensive-publication approved"*), drafted 2026-09-23. A patent grants
+only the right to exclude; a defensive publication grants neither and blocks later patents on what it discloses — corrected
+in the Executive Summary, §2 and §5.3, with a dated correction note; §4 and the summary qualified for the US one-year grace
+period; §6 extended (discoverers who cannot be inventors; 89 FR 34217 open). Leg 1: `.ots` → `.r5.ots` (Bitcoin-complete),
+new proof calendar-only at stamping · leg 2: `2026-09-24.sha256` · leg 3: none (positions carry no DOI) · leg 4: index 2.5.4 ·
+heartbank.net redeployed (its copy is synced at build; the deployed bundle carries the correction).
+
 
 
 ### 2026-09-13 (afternoon) — the-person-is-not-the-product, second revision of the day
