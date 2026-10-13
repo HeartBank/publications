@@ -128,10 +128,13 @@ DOC_TYPE = {
 # irreversible, so the absence of the flag must mean NO — never "not yet decided".
 ZENODO_GATE = "zenodo"
 
-# Miss Aquarius is listed as a creator deliberately, not as an oversight. The
-# standing rule is that AI collaboration is disclosed openly and under the same
-# name at every venue; dropping her here to look conventional would break the
-# consistency that makes the disclosure meaningful.
+# Miss Aquarius WAS listed as a creator deliberately: the standing rule is that AI
+# collaboration is disclosed openly and under the same name at every venue. Zenodo's
+# policy bars it (support FAQ 227, 2026-04-27: "AI tools cannot be listed as
+# authors/creators or contributors of a Zenodo record"), so from 2026-10-13 (founder,
+# roadmap A387) she is named in the DESCRIPTION, the field Zenodo prescribes for AI
+# disclosure, on each paper's next version. The NAME stays the same at every venue;
+# only the field moved. The entry below is kept for make-bibtex.py, which cites her.
 #
 # `cite_as` is "Family, Given" because that is what DataCite and every reference
 # manager expect. Passing the display form "Thon Ly" would leave them to guess
@@ -269,11 +272,23 @@ def build_metadata(path, text, fm, sha):
         "consistent name used for the AI collaboration across all venues.</p>"
     )
 
+    names = [n.strip().replace("℠", "").replace("®", "").strip()
+             for n in re.split(r"[·,]", fm.get("authors", "Thon Ly"))]
+    names = [n for n in names if n]
+    if "Miss Aquarius" in names:
+        # Zenodo bars AI creators: "AI tools cannot be listed as authors/creators or contributors of a Zenodo
+        # record" (support FAQ 227, 2026-04-27). Founder 2026-10-13 (roadmap A387): "fix each record on that
+        # paper's next version". So from its next version a record lists the HUMAN creators only, and the
+        # description — the field Zenodo prescribes for AI disclosure — names her. Earlier versions keep theirs.
+        desc = desc.replace(
+            "consistent name used for the AI collaboration across all venues.</p>",
+            "consistent name used for the AI collaboration across all venues. Miss Aquarius co-authored this "
+            "paper; Zenodo lists no AI tool as a creator, so Miss Aquarius is named here rather than among the "
+            "creators.</p>")
+        names = [n for n in names if n != "Miss Aquarius"]
+
     creators = []
-    for name in re.split(r"[·,]", fm.get("authors", "Thon Ly")):
-        name = name.strip().replace("℠", "").replace("®", "").strip()
-        if not name:
-            continue
+    for name in names:
         known = CREATORS.get(name, {})
         c = {"name": known.get("cite_as", name),
              "affiliation": known.get("affiliation", "")}
