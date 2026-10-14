@@ -1,3 +1,13 @@
+### 2026-10-13 (night) — what-an-argument-cannot-reach: In Reply No. 1, a new position, first push (founder: *"1: push"*)
+
+*What an Argument Can't Reach* — HeartBank's reply to Vitalik Buterin, *Galaxy brain resistance* (2025-11-07), the first entry of
+the *In Reply* series, written for the lay reader (§h3-lay-reader; 1.8 coined words per 1,000). Its bet, **P-PL14**, was made public
+FIRST: `thank.heartbank.org` `b5eb322` (23:33 PDT) and the TH `prediction-register` v21 (`98bbc57`, 10.5281/zenodo.23359674) before
+this paper's push (`d6be875`, 23:43 PDT). Leg 1: first proof, calendar-only at stamping (`3cd6a0751ac4…`) · leg 2 `2026-10-14.sha256`
+(the manifest is UTC-dated) · leg 3 none — no `zenodo: true` before its model round · leg 4 index 2.5.45, worker `af82094d` ·
+heartbank.net `6e37679` (index entry, sitemap, snapshot list), green, the live page serves the prerendered body. `verify-legs.sh`: every
+leg covers current text.
+
 ### 2026-09-23 (evening) — three revision riders (founder: *"All riders now"*)
 
 `the-person-is-not-the-product` (data unions carried as an objection; §11 misquote fixed) · `factory-333-workshop-no-footprint`
