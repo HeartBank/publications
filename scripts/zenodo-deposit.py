@@ -52,6 +52,24 @@ import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
+# A PDF beside every deposit (roadmap A421; founder 2026-10-16, "Approve PDF"; memory project_publication_strategy
+# §zenodo-pdf-10-16): every FIRST deposit and every revision that already mints a version uploads `<slug>.pdf`, so
+# Zenodo serves Google Scholar's citation_pdf_url. One renderer for both corpora, at TH/publications/scripts/
+# deposit-pdf.py, loaded by path (its name has a hyphen). The PDF is a RENDER: the sha256 recorded here stays the
+# markdown's. ⛔ Never a batch over unchanged records, never a version minted for the file: an unchanged paper is
+# skipped below exactly as before.
+_DEPOSIT_PDF = ROOT.parent.parent / "TH" / "publications" / "scripts" / "deposit-pdf.py"
+
+
+def deposit_pdf():
+    import importlib.util
+    if not _DEPOSIT_PDF.exists():
+        raise SystemExit(f"{_DEPOSIT_PDF} not found — every deposit carries a PDF (A421); refusing.")
+    spec = importlib.util.spec_from_file_location("deposit_pdf", _DEPOSIT_PDF)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
 
 def get_token(sandbox=False):
     """ZENODO_TOKEN if set, else the macOS Keychain.
@@ -428,6 +446,7 @@ def main():
     api = Zenodo(token, args.sandbox) if args.create else None
 
     new = revised = unchanged = published_drafts = 0
+    pdf_wrong = []  # published records whose PDF cover disagrees with the minted DOIs (A421)
     done = 0
     for path in papers:
         if args.limit and done >= args.limit:
@@ -446,6 +465,10 @@ def main():
             if args.publish and not prev.get("published"):
                 dep = api.get(prev["deposition_id"])
                 if dep.get("state") == "unsubmitted":
+                    names = {f.get("filename") or f.get("key") for f in dep.get("files", [])}
+                    if path.with_suffix(".pdf").name not in names:
+                        raise SystemExit(f"⛔ draft {prev['deposition_id']} for {slug} holds no PDF — it was created before "
+                                         "deposits carried one (A421). Delete the draft in Zenodo and re-run --create.")
                     pub = api.publish(prev["deposition_id"])
                     prev["doi"] = pub.get("doi", prev.get("doi"))
                     prev["concept_doi"] = pub.get("conceptdoi", prev.get("concept_doi"))
@@ -470,6 +493,11 @@ def main():
               f"keywords {len(meta['keywords'])}   sha {sha[:16]}…")
 
         if not args.create:
+            # The PDF is rendered and checked on a dry run too, so a refusal surfaces before anything is sent.
+            import shutil
+            probe = deposit_pdf().build(path, (prev or {}).get("concept_doi") or "(assigned at deposit)")
+            print(f"   pdf      ✓ rendered and checked ({probe.stat().st_size // 1024} KB; discarded)")
+            shutil.rmtree(probe.parent, ignore_errors=True)
             done += 1
             new += 0 if prev else 1
             revised += 1 if prev else 0
@@ -482,7 +510,14 @@ def main():
             dep = api.create()
             new += 1
         api.upload(dep, path)
+        dp = deposit_pdf()
+        cover_concept = dp.concept_doi_for(dep, prev, args.sandbox)
+        cover_version = dp.version_doi_for(dep, args.sandbox)
+        pdf = dp.build(path, cover_concept, cover_version)
+        api.upload(dep, pdf)
         api.set_metadata(dep["id"], meta)
+        dp.verify_draft(api, dep["id"], path, pdf)
+        print(f"   pdf      ✓ {pdf.name} uploaded beside the markdown; the draft holds exactly the two, by md5")
 
         rec = {"deposition_id": dep["id"], "sha256": sha,
                "doi": dep.get("metadata", {}).get("prereserve_doi", {}).get("doi")
@@ -497,6 +532,8 @@ def main():
             rec["url"] = pub.get("links", {}).get("html")
             rec["published"] = True
             print(f"   ✅ published  DOI {rec['doi']}")
+            if not dp.after_publish(rec, cover_concept, cover_version):
+                pdf_wrong.append(slug)
         else:
             print(f"   ✅ draft {dep['id']} created (not published)")
 
@@ -511,6 +548,9 @@ def main():
           f"({len(papers)} paper(s) scanned)")
     if not args.create:
         print("Re-run with --sandbox --create --publish to rehearse for real.")
+    if pdf_wrong:
+        raise SystemExit(f"⛔ {len(pdf_wrong)} published record(s) carry a PDF whose cover DOIs are wrong: "
+                         f"{', '.join(pdf_wrong)}")
 
 
 if __name__ == "__main__":
