@@ -165,7 +165,7 @@ Picture Sophea, who uses an app with a helper that knows her well, because she w
 
 **What the lane may pay.** The money should be treated as small. The payouts named in §3 were a few dollars a month at most, and Brave, reported in press and forum accounts to pass 70 percent of ad revenue to users who opt in, shows that a high share of a small amount is still small. The lane is a supplement at most. It is not a living and not a floor. Whatever floor a person has is a separate commitment that does not depend on this market, and nothing in the lane is presented to a person as something she is missing.
 
-**Minors.** Whether a child's account may ever open this lane has not been decided. Until it is decided, it will not open for a child's account. The institution's present recommendation to itself is adults only.
+**Minors.** The lane is for adults only. It will not open on a child's account.
 
 **What the census found, stated narrowly.** A quick census on 31 October 2026 (pre-registered and pushed before the first query; commercial web, Google Patents and Google Scholar, English only) found that private matching on the person's side, and paying people for their attention, are both old (Brave Ads, Adnostic, and Doc Searls's *The Intention Economy*, 2012). What it did not find, in that aperture on that date, is the combination of an operator paid nothing and keeping no count, one posted price per market, a verified person selling her own attention, and a lane she opens herself. That combination is all this position claims. A patent family on personal agents with auctions turned up as a lead whose status has not been checked; we cite it for existence only and read none of its claims.
 

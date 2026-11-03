@@ -7,6 +7,7 @@ genre: positions
 category: mechanism
 status: draft
 date: 2026-05-22
+revised: 2026-11-03
 license: CC0-1.0
 venue: heartbank.net/positions/attention-economy (canonical institutional)
 slug: attention-economy
@@ -84,6 +85,8 @@ HeartBank will not take revenue from advertising in any form, and the phrase is 
 **And the second refusal, stated in the same list because a reader who has been told only about advertising is entitled to assume the worst about everything else.** HeartBank will not sell, licence, rent, share for consideration, or disclose per-person records — not in aggregate, not de-identified, not as a research partnership, and not under acquisition or rescue financing. It will not compute or expose a per-person rate, score, or ranking derived from gratitude, and it will not operate a directory of people.
 
 What it intends to sell instead is summarised here so that this position can be read on its own, in the same way §7 summarises rotational discovery. A third party who needs to know something about a person pays **the person** for the right to ask, and pays **the institution** for the fact that the answer can be trusted: the subject sells the release, the institution sells the vouching, and neither can sell the other's good. What moves is a single bit scoped to one question and one asker — no record changes hands and no copy is made. The full statement is *The Person Is Not the Product* (heartbank.net/positions/the-person-is-not-the-product), and the mechanism is published to the commons separately.
+
+One more case sits on that same side of the line and is described, not built: a person may one day choose to be paid for looking at an offer, with the institution taking nothing and the buyer never learning who looked. *The Person Is Not the Product* §7a sets it out, concedes where it strains this position's wording, and says the method does not exist yet.
 
 **This falls inside the boundary above rather than carving an exception out of it, and the distinction is the whole of it.** The line this position draws is between *being paid by a third party for access to a person* and *being paid by the person receiving the service*. An answer a person has chosen to make available, priced identically for every subject — one posted price per buyer market, never a price per person — and paid mostly to that person, is **the person granting access and being paid for it** — not the institution selling access to them. If that distinction ever stops being legible in practice, it is this position that governs and the market that yields.
 
