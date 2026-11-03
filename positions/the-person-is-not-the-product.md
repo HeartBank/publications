@@ -7,7 +7,7 @@ genre: positions
 category: mechanism
 status: draft
 date: 2026-09-07
-revised: 2026-09-23
+revised: 2026-11-03
 license: CC0-1.0
 venue: heartbank.net/positions/the-person-is-not-the-product (canonical institutional)
 slug: the-person-is-not-the-product
@@ -20,7 +20,7 @@ slug: the-person-is-not-the-product
 | Field            | Value                                                                                              |
 | ---------------- | -------------------------------------------------------------------------------------------------- |
 | Author           | HeartBank® · Miss Aquarius℠                                                                        |
-| Date             | 2026-09-07 (draft; revised 2026-09-23)                                                             |
+| Date             | 2026-09-07 (draft; revised 2026-11-03)                                                             |
 | Canonical URL    | https://heartbank.net/positions/the-person-is-not-the-product                                       |
 | GitHub mirror    | https://github.com/HeartBank/publications/blob/main/positions/the-person-is-not-the-product.md      |
 | License          | [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)             |
@@ -41,6 +41,8 @@ What the institution intends to sell instead is narrower and stranger than a dat
 > **The subject sells the release. The institution sells the vouching. Neither party can sell the other's good.**
 
 A third party who needs to know something about a person pays the person for the right to ask, and pays the institution for the fact that the answer can be trusted. No record changes hands. No copy is made. The answer is a single bit, scoped to one question and one asker, and the subject can stop answering at any time.
+
+One more case is described in §7a, because a reader will ask about it: a person may sell **her own** attention, in a lane she opens herself, while the institution takes nothing. It is not advertising revenue for HeartBank, it does not reopen the refusal in the first position, and it will not exist until a payment method that cannot be traced back to the viewing exists. That method has not been found.
 
 The institution's ambition for this arrangement is not that it is generous. It is that the refusal should stop depending on anyone's virtue. **A commitment not to sell needs a living enforcer at the exact moment it is tested. A design in which the institution cannot answer without the subject does not.**
 
@@ -143,7 +145,29 @@ A commitment is only as good as the list of things it rules out.
 
 HeartBank will not sell, licence, rent, share for consideration, or disclose per-person records — **not in aggregate, not de-identified, not as a research partnership, and not under acquisition or rescue financing.** It will not publish, compute, or expose a per-person rate, score, ranking, or league table derived from gratitude. It will not operate a directory of people, and its name resolution runs one way only: from a public artifact to a handle, never from a handle to the person's underlying proofs. It will not permit payment to change what the record says about anyone. And it will not bill a subject to be vouched for — **the subject is never the payer**, because a fee charged to the subject is the purchasable personhood this institution has already refused, arriving through the pricing sheet instead of the product.
 
-What the commitment does **not** exclude is worth equal precision. It does not exclude charging money. It does not exclude a third party paying for an answer a person has chosen to make available, or that person being paid more than the institution is. **The line is not between free and paid. It is between a third party buying access to a person, and a person granting access and being paid for it.**
+What the commitment does **not** exclude is worth equal precision. It does not exclude charging money. It does not exclude a third party paying for an answer a person has chosen to make available, or that person being paid more than the institution is. **The line is not between free and paid. It is between a third party buying access to a person, and a person granting access and being paid for it.** One further case of the second kind, a person selling her own attention, gets its own section (§7a), with the conditions under which it is allowed and the ways it could fail.
+
+## 7a · The one paid lane: a person selling her own attention
+
+Picture Sophea, who uses an app with a helper that knows her well, because she writes to it. One evening a flower seller wants to show her a bouquet and is willing to pay for her looking. Sophea has to be able to say yes without the flower seller learning anything about her, and without the app's owner profiting from her yes. That is the case this section describes. **Does this mean HeartBank now has ads? No.** What makes something an ad is who pays the operator to place it. Here the operator is paid nothing, and no buyer can buy a place for an offer in anything the institution recommends.
+
+**The claim, in the future tense, because nothing here is built.** A person *will* be able to open a paid lane. It *will* be off until she turns it on. Buyers *will* be admitted by class (§6), not one by one. Each buyer market *will* have one posted price, the same for every person in it (§8). The helper that matches an offer to a person *will* run inside her own agent, on her side, so that what she has written to it is never sent to a buyer. The institution *will* take nothing from the payment. And **the payment must not name the person to the payer.** Offers in this lane *will* be marked as paid and kept apart from what the helper recommends on its own, which no buyer may shape. This service is called B-Resonance℠.
+
+**The method that keeps the payment from naming the person is unsolved, and this position says so.** Three things have to hold at once: the buyer cannot tell who was paid for looking, the institution takes nothing, and the institution never holds anyone's money (it keeps a record, §5). Whether all three can hold together is not yet known. No paid lane will open until a method exists, and this position publishes the claim and withholds any specification, because there is nothing true to specify yet.
+
+**Why the payment cannot name the person.** An earlier version of the design said the buyer would pay the person directly. That sentence undid its own promise. A buyer who pays a particular person knows that person was shown the offer, and a list of paid names in the buyer's books is the per-person attention record that the first position refuses to let the institution compute. The institution holds the line against its own earlier wording. This is a repair to the design of the lane and not a change to the refusal.
+
+**Showing that an offer was seen and paid is itself a way for information to travel back.** Keeping a profile at home does not settle what the report afterward says. The measured case is Google's Topics proposal, which gives a site a few interest labels computed in the browser. Beugin and McDaniel found that the labels still identify people across sites when repeated: in their simulation, about 57 per cent of users with stable interests were uniquely re-identified after 15 observation periods when advertisers observed them over time and colluded with other third parties, and 75 per cent after 30 (*Proceedings on Privacy Enhancing Technologies* 2024; arXiv 2306.03825). Their best case was 0.4 per cent of 250,000 simulated users. Those are simulations of a different design, and this position does not claim they apply to ours. It takes the lesson that a small signal sent again and again adds up, and it holds the same test against the report of *shown and paid*. On-device matching is old (the Brave browser has used it since 2019; Adnostic described browser-side profiling at NDSS in 2010), and it did not by itself close this channel.
+
+**The tension with the first position is real, and this section concedes it.** *The Position on the Attention Economy* separates being paid by the person served from being paid by a third party for access to that person's attention. A buyer paying for a person's looking is, on a plain reading, the second. The only reason the lane is not simply forbidden is the exception in the first position's §6, a person granting access and being paid for it, and that exception was written for a single yes-or-no answer to one question, not for showing someone an offer. We are stretching it, and a reader is right to see that. We do not claim it is a reopening, for these reasons. The first position's list of exclusions is unchanged, and its list of things that would reopen it still reads *nothing*. The lane is built to stay on the right side of what that list rules out. It is not paid prominence: the paid lane sits apart from the recommendations, buyers cannot buy rank in anything the institution orders, and there is no bidding for a particular person. It is not a sale of a per-person attention record: the institution computes and keeps no count of who was shown, and the payment may not name the person to the payer. The first position adds that if its distinction ever stops being legible in practice, that position governs and the market yields. The same holds here.
+
+**"The operator is paid nothing" is a rule, not a property.** Nothing in the object stops a take; only a promise does, and §5 explains why a promise is the weaker form. The institution also benefits indirectly, and says so. It hosts the agent and the payment rail. And the registry handle that anchors who is paid, one handle for one verified person, is the institution's primary earning line (§10); a lane that gives people a reason to hold a handle raises that line's value. A reader should count that as a benefit to the institution even though no fee is charged.
+
+**What the lane may pay.** The money should be treated as small. The payouts named in §3 were a few dollars a month at most, and Brave, reported in press and forum accounts to pass 70 percent of ad revenue to users who opt in, shows that a high share of a small amount is still small. The lane is a supplement at most. It is not a living and not a floor. Whatever floor a person has is a separate commitment that does not depend on this market, and nothing in the lane is presented to a person as something she is missing.
+
+**Minors.** Whether a child's account may ever open this lane has not been decided. Until it is decided, it will not open for a child's account. The institution's present recommendation to itself is adults only.
+
+**What the census found, stated narrowly.** A quick census on 31 October 2026 (pre-registered and pushed before the first query; commercial web, Google Patents and Google Scholar, English only) found that private matching on the person's side, and paying people for their attention, are both old (Brave Ads, Adnostic, and Doc Searls's *The Intention Economy*, 2012). What it did not find, in that aperture on that date, is the combination of an operator paid nothing and keeping no count, one posted price per market, a verified person selling her own attention, and a lane she opens herself. That combination is all this position claims. A patent family on personal agents with auctions turned up as a lead whose status has not been checked; we cite it for existence only and read none of its claims.
 
 ## 8 · The strongest objections, carried rather than answered
 
@@ -173,7 +197,7 @@ What the commitment does **not** exclude is worth equal precision. It does not e
 
 ## 10 · The institution's stake
 
-HeartBank is not a disinterested commentator on data markets. It intends to operate the alternative it is describing, it expects to earn from it, and its primary earning line is a naming registry to which this service is attached — a registry whose resolution runs one way only (§7) and which cannot be enumerated: a registry of names, not a directory of people. A reader should discount the argument accordingly, and should note in particular that the strongest empirical claim in §3 — *that per-person data markets fail* — is a claim whose truth is commercially convenient for the party making it.
+HeartBank is not a disinterested commentator on data markets. It intends to operate the alternative it is describing, it expects to earn from it, and its primary earning line is a naming registry to which this service, and the lane in §7a, are attached — a registry whose resolution runs one way only (§7) and which cannot be enumerated: a registry of names, not a directory of people. A reader should discount the argument accordingly, and should note in particular that the strongest empirical claim in §3 — *that per-person data markets fail* — is a claim whose truth is commercially convenient for the party making it.
 
 The counterweight offered is not sincerity. It is that the institution has published the exclusions in §7 before having anything to lose by them, and has published the failure modes in §8 that a party seeking only to look trustworthy would have omitted.
 
@@ -181,13 +205,15 @@ The counterweight offered is not sincerity. It is that the institution has publi
 
 A position that no evidence could touch is a belief rather than a claim. This one is wrong if a per-person data marketplace, operated with ordinary commercial competence, delivers meaningful and durable income to typical participants at consumer scale — say, income that a median participant would notice in their household budget, sustained over several years, without the operator's economics depending on aggregation the participants do not control. That result would falsify §3's structural argument, and the honest response would be to say so and to reconsider whether the answer-shaped design is necessary rather than merely elegant.
 
+The paid lane in §7a is wrong, and should be withdrawn, if a payment method with zero take and no custody and no link to the viewing cannot be found; if a test of the *shown and paid* report finds it identifies people over repeated use; or if the payout is too small for anyone to open the lane.
+
 The design's own falsifier is narrower and nearer: if attestation queries, once available, are not worth enough to pay a subject anything meaningful, then the claim that the subject is paid, and paid more than the institution (§8), is empty and should be withdrawn rather than restated.
 
 ## 12 · What would reopen the commitment
 
 **Nothing on the following list.** Falling revenue would not. A funding round conditioned on it would not. An acquirer's preference would not, and the institution's governance is to be arranged — steward ownership beneath a purpose trust — so that no acquirer acquires this decision. A research partnership offering public benefit would not, because *not as a research partnership* is written into the exclusion above precisely so that the most sympathetic version of the request has already been answered.
 
-The institution will say what *would* change its behaviour, because the alternative is a commitment immune to evidence. If the attestation design proves unworkable — if no admissible buyer class will pay, or if the storage condition in §5 cannot be met in practice — then the institution's revenue thesis for this service is wrong and the service should not exist. **What does not follow, in that case, is a move to selling records.** Being wrong about the alternative would not make the data model acceptable; it would mean the institution should fund itself some other way, or be smaller.
+The institution will say what *would* change its behaviour, because the alternative is a commitment immune to evidence. If the attestation design proves unworkable — if no admissible buyer class will pay, or if the storage condition in §5 cannot be met in practice — then the institution's revenue thesis for this service is wrong and the service should not exist. **What does not follow, in that case, is a move to selling records.** The paid lane of §7a is a separate matter and is not on the list of things that reopen this commitment. If it cannot be built as described, it does not open, and the answer is never to let the institution take a share of the payment, since that would make HeartBank advertising-funded and would need a new public position first. Being wrong about the alternative would not make the data model acceptable; it would mean the institution should fund itself some other way, or be smaller.
 
 ## 13 · Honest limits
 
@@ -199,10 +225,12 @@ The institution will say what *would* change its behaviour, because the alternat
 
 **The buyer-class rule has an edge, and legal compulsion lies beyond it.** The rule does not reach a party who is not a buyer but conditions a benefit on the subject presenting an answer obtained elsewhere. And legal compulsion reaches whatever the institution holds: *cannot* holds against a court only to the extent the storage condition in §5 holds.
 
+**The paid lane (§7a) is a claim and not a design.** The method that keeps the payment from naming the person is unsolved, and the institution does not know whether zero take, no custody and no link to the viewing can hold together. Its zero take is a rule. Its minors question is undecided. Its census is quick and covers English-language sources only.
+
 **And one thing the design does not do at all.** It establishes that a party is a person; it does not establish that a person is sincere. Rings of real, cooperating people can produce records that every layer described here would accept. That hole is open, it is a property of graphs rather than of identity, and no amount of attestation design closes it.
 
 ---
 
 ## Trademark Notice
 
-HeartBank® is a registered mark. B-Vouch℠, Miss Aquarius℠ and B-Registry℠ are service marks of the institution. Marks appear here at first and prominent use only.
+HeartBank® is a registered mark. B-Vouch℠, B-Resonance℠, Miss Aquarius℠ and B-Registry℠ are service marks of the institution. Marks appear here at first and prominent use only.
