@@ -9,6 +9,7 @@ series: "In Reply — No. 1"
 in_reply_to: "Vitalik Buterin, “Galaxy brain resistance,” 7 November 2025 — https://vitalik.eth.limo/general/2025/11/07/galaxybrain.html"
 status: draft
 date: 2026-10-13
+revised: 2026-11-03
 license: CC0-1.0
 slug: what-an-argument-cannot-reach
 venue: heartbank.net/positions/what-an-argument-cannot-reach (canonical institutional)
@@ -87,7 +88,9 @@ We ran the test on ourselves before writing anything else. These are the places 
 
 ## Where we would go further: an object doesn't hear arguments
 
-Here is the one place where we think we can add something.
+> **Dated note, 3 November 2026.** When we published this reply on 13 October we called what follows "the one place where we think we can add something." That was too strong, and the missed prior statement is ours. Buterin made the central point himself years earlier. In [*Engineering Security Through Coordination Problems*](https://vitalik.eth.limo/general/2017/05/08/coordination_problems.html) (8 May 2017) he describes *"using the friction that coordination problems create as a bulwark against malfeasance by centralized actors"*: a system can keep a property because *"changing the rules from X to not-X would require a whole bunch of people to agree to update their software at the same time."* He repeats the passage almost word for word in [*A Philosophy of Blockchain Validation*](https://vitalik.eth.limo/general/2020/08/17/philosophy.html) (17 August 2020). And in [*Notes on Blockchain Governance*](https://vitalik.eth.limo/general/2017/12/17/voting.html) (17 December 2017) he argues the other side as well: core norms are best kept *"in the minds of humans in the community, rather than in the code of the protocol,"* so that a change can be treated as illegitimate *"even if [it gets] approved by a vote"* or follows the letter of a norm while violating its spirit. Our jar is therefore not a new idea about guarding a rule with the structure of the thing itself, and his December 2017 essay argues that a norm kept in people's minds can be the better guard. What is left of our claim is narrower: we apply the idea to a gratitude commons, where the guarded property is a balance that empties, and we name one specific attack on it, which is to call the property itself a bug. This note corrects the sentence below and the claim it introduces; the rest of the paper, including the bet, is unchanged.
+
+Here is where we think we add something, narrower than we first said.
 
 Both remedies are written for a person: how do *you* avoid galaxy-braining *yourself*? An institution meant to outlive its founder has a harder version of the problem. The person who wrote the principles will not be the person tested by them. The forum post the essay quotes says people drift about 10% a year; an institution's leaders drift too, and then they are replaced.
 

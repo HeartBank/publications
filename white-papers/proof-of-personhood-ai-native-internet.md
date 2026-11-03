@@ -7,6 +7,7 @@ genre: white-papers
 category: mechanism
 status: draft
 date: 2026-05-24
+revised: 2026-11-03
 license: CC0-1.0
 venue: heartbank.net/white-papers/proof-of-personhood-ai-native-internet (canonical institutional)
 slug: proof-of-personhood-ai-native-internet
@@ -139,7 +140,7 @@ The asymmetry is the structural mechanism that preserves anonymity's social prop
 
 **Proof of Humanity ℠** (PoH℠) is the protocol. **B-PoH℠** is HeartBank's reference deployment, identified by the project's B-prefix brand convention (consistent with B-heart, B-Tag, B-aura, B-Treasury). The relationship parallels SSL/TLS: SSL/TLS is the protocol that anyone can implement; Let's Encrypt, DigiCert, GlobalSign are specific implementations. PoH℠ is the protocol; B-PoH℠ is one implementation; others may follow. The protocol is dedicated to the public domain under CC0; HeartBank® will not patent it; the trademark rights on the named marks are reserved separately.
 
-The user-facing deployment surface for B-PoH℠ — visible PoH℠ authenticity indicators in browser chrome, analogous to the SSL lock icon — is the planned **Aquarius℠ Browser**, sequenced for late-decade deployment. Earlier-stage user-facing deployment proceeds through a browser extension and through partnership with existing privacy-aligned browsers (Brave in particular has a compatible posture and has done the engineering work of forking Chromium).
+The user-facing deployment surface for B-PoH℠ — visible PoH℠ authenticity indicators in browser chrome, analogous to the SSL lock icon — is the planned **Aquarius℠ Browser**, which follows the extension and the partner step and carries no date. Earlier-stage user-facing deployment proceeds through a browser extension (once the first attestation is published; see Section 6.1) and through partnership with existing privacy-aligned browsers (Brave in particular has a compatible posture and has done the engineering work of forking Chromium). The indicator follows the lock icon in showing a proof when one is found; it shows nothing at all where there is none.
 
 ---
 
@@ -296,6 +297,10 @@ Building a competitive browser from scratch is enormously expensive and competit
 
 The Aquarius℠ Browser is the *eventual* deployment surface — the browser is where end-users see visible authenticity indicators directly, the way browsers display the SSL lock icon — but it is not the immediate move. The protocol-and-partnership path achieves meaningful adoption faster than a standalone-browser-build can.
 
+> **Current form (2026-11-03).** The year labels above were a plan, and the 2026 date for the browser extension has lapsed with no extension built. The sequence is now tied to events instead of years. The extension is a *reading* surface: it looks for proofs that already exist, so it waits until the first B-PoH℠ attestation has been published. Before then it would find nothing and show nothing on every page. The Brave partner step and the Aquarius℠ Browser come after the extension, and carry no dates. The extension is planned for desktop browsers only, since extensions do not run on mobile Chrome, so the in-app recipient-side filters of Section 2 come first. The 2026, 2027 and 2028–2030 labels above are kept as the disclosed original plan.
+>
+> **How the indicator behaves.** The SSL lock comparison in this paper holds for one half only. The indicator appears when a proof is found. Where there is none, a page or an account looks exactly as it does without the extension: there is no "unverified," "not found," grey or warning state. A browser that flagged every account lacking a proof would label most of the world's people as unproven humans. This stays a design commitment rather than a structural guarantee, until a shipped extension has no asset or state for absence at all. It also does not remove the inference a reader can draw from a badge's absence on other accounts, as with any verification badge; the inclusive-by-default recipient filters of Section 2 are the existing defense against that.
+
 ### 6.2 The revenue model
 
 The protocol is open; B-PoH℠ is the reference implementation; both must be funded sustainably. The model:
@@ -325,7 +330,7 @@ The internet's existing trust stack solves several important problems and does n
 
 The architecture's contribution to the blockchain canon is the third category-defining proof: PoH℠ joins Proof of Work and Proof of Stake as the proof-of-X primitive that fits the era when compute and capital have both become AI-commodified, leaving humanness as the only scarce resource AI cannot manufacture. Information was the first internet's scarcity; attention was the social internet's scarcity; **authenticity is the AI-native internet's scarcity**, and PoH℠ is the protocol-layer answer to it.
 
-The deployment proceeds protocol-first (open specification, open-source reference, browser extension, standards-body engagement) through 2026; partner integration (Brave, others) through 2027; standalone Aquarius℠ Browser through 2028–2030. Revenue from foundation-led baseline maintenance combined with AI-laboratory underwriting under the capacity-funded / human-disbursed pattern.
+The deployment proceeds protocol-first (open specification, open-source reference, standards-body engagement), then a browser extension once the first attestation is published, then partner integration (Brave, others), then a standalone Aquarius℠ Browser; the 2026, 2027 and 2028–2030 labels of Section 6.1 are the original plan, superseded by this ordering, and the later steps carry no dates. Revenue from foundation-led baseline maintenance combined with AI-laboratory underwriting under the capacity-funded / human-disbursed pattern.
 
 The protocol is offered without expectation of return. The institution stands ready to support adopters — standards bodies, AI laboratories, platform companies, regulators, foundations, and the broader internet — with reference implementation, integration guidance, and standards-track participation. The institution will not seek patent on the protocol, the layered architecture, the recipient-filter mechanism, the BLE-Nearby proximity verification, the bilateral-uncacheable-anonymity property, the birth-certificate-as-dual-purpose-natal-chart-input mechanism, or any portion thereof.
 
