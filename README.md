@@ -81,7 +81,6 @@ This repo is one of six tamper-evident venues protecting the institutional corpu
 2. **Author-corpus reference**: thonly.org (founder-voice research papers that the white papers synthesize from)
 3. **GitHub markdown** (this repo)
 4. **Internet Archive** snapshots (`web.archive.org/save/`)
-5. **archive.today** snapshots
-6. **perma.cc** snapshots
+5. **Software Heritage** (a save of this repository)
 
 Each venue carries an independent tamper-evident timestamp.
