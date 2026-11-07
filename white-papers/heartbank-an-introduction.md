@@ -12,6 +12,8 @@ venue: heartbank.net/white-papers/heartbank-an-introduction (canonical instituti
 slug: heartbank-an-introduction
 ---
 
+> **Note, 6 November 2026.** This is a May 2026 paper, kept as written. It is superseded by [*Four Bodies and the Space That Holds Them*](https://heartbank.net/white-papers/four-bodies-and-the-space-that-holds-them), and parts of it no longer describe the design.
+
 # HeartBank: An Introduction
 
 **Gratitude Infrastructure for the AI Age — the Zero-Point Game, an Economy of Balance, and an Institution Built to Outlast Its Founder**
