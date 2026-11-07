@@ -1,3 +1,11 @@
+### 2026-11-06 (night) — four-bodies-and-the-space-that-holds-them: a new white paper, first push (A567; founder: *"New front door + repairs (Recommended)"*, *"New slug; May paper superseded"*, *"approve working option"*)
+
+The front door to the whole institution and estate, for the lay reader (about 5,800 words; 3.3 coined words per 1,000 in the
+body), and the source for its long-form explainer. Refuter pass before drafting (two claims held only as designs: the separate
+entities and the reset). Leg 1: first proof, calendar-only at stamping · leg 2 `2026-11-07.sha256` · leg 3 none · leg 4 index
+2.5.68, worker `e0d908d9` · heartbank.net `d9aead3` (listing, sitemap, snapshot list), live page verified. `heartbank-an-introduction`
+gained one dated *superseded by* note (proof rotated to `.r4`, re-stamped). `verify-legs.sh`: every leg covers current text.
+
 ### 2026-11-06 (night) — heartbank-heart-that-keeps-nothing: the /concord pilot repairs (A554)
 
 Every confirmed row; the HARD row (no downhill reading: *where resources are unequal, recognition must travel without costing anyone
