@@ -1,3 +1,11 @@
+### 2026-11-06 (night) — heartbank-heart-that-keeps-nothing: the /concord pilot repairs (A554)
+
+Every confirmed row; the HARD row (no downhill reading: *where resources are unequal, recognition must travel without costing anyone
+their dignity*); the banner gone; four bodies held by Miss Aquarius, never an integrator of pillars; HeartBank's CEO, her only
+office; P1 registered as P-HK1 in the TH register, P2–P7 relabeled hypotheses (no proof covers the 7/05 text itself; the earliest,
+`.r1.ots`, binds the 7/23 text, identical in P1–P7). Leg 1: proof rotated to `.r3` and re-stamped · leg 2 `2026-11-07.sha256` ·
+leg 3 none · leg 4 index 2.5.67 · heartbank.net abstract updated, live page verified. `verify-legs.sh`: every leg covers current text.
+
 ### 2026-11-06 (night) — the same five white papers: the A562 reconciliation (founder: *"Approve all (Recommended)"*)
 
 Second pass, applying the reconciled rulings: *attadīpā* read as island (DN-a) · no human heir, overseen by the Sangha once formed ·
