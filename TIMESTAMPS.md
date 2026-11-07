@@ -1,3 +1,15 @@
+### 2026-11-06 (evening) — five white papers: the /concord repairs (A562; founder: *"New front door + repairs (Recommended)"*, *"Approve all three (Recommended)"*)
+
+`factory-333-workshop-no-footprint` (`6a17f419…4cb8aee6`) · `miss-aquarius-ambient-light` (`d5748f79…bb7f1e9d`) ·
+`proof-of-personhood-ai-native-internet` (`3538f0a5…c17a8fc1`) · `silicon-wat-three-jewels` (`13bc1006…d8c4bdef`) ·
+`thonly-creative-engine` (`56705257…3eb84514`). Every confirmed row of the 2026-11-06 audit (plan `2026-11-06a`); the three
+founder-approved HARD repairs (MA's closing cut · SW: no office, the purpose trust owns and does not act · THonly: the
+differentiator claim dropped); the live *Draft — site module pending* banner removed; siblings linked as published; the retired
+*HeartBank®'s X pillar* framing replaced by four bodies held by Miss Aquarius. Rows waiting on A561 are untouched. Commit `e8e2afa`.
+Leg 1: each proof rotated (Bitcoin-complete, checked with the venv client) and re-stamped, calendar-only at stamping (`4fa4509`) ·
+leg 2 `2026-11-07.sha256` (UTC-dated) · leg 3 none (no DOIs; the dry run listed 0 new, 0 revised) · leg 4 index 2.5.65, worker
+`099083ea` · heartbank.net `25955fe` (abstracts follow the papers), green. `verify-legs.sh`: every leg covers current text.
+
 ### 2026-10-13 (night) — what-an-argument-cannot-reach: In Reply No. 1, a new position, first push (founder: *"1: push"*)
 
 *What an Argument Can't Reach* — HeartBank's reply to Vitalik Buterin, *Galaxy brain resistance* (2025-11-07), the first entry of
