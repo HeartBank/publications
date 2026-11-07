@@ -6,7 +6,7 @@
 b71d5411e3057f0c649e7f69428eea07183fb83fecec4a0a49091dc4401dc832  .gitignore
 8171ae11b3bbbe7445f77b1460e139e03deb44ef522c80d6b0b20a33d9ee1eca  .zenodo.json
 44f33a32587a616b239823030713190be1043a0b7a3d58439a4e0773c77351a2  README.md
-09b5513c1f5aa12a13a007ced00e2b5385ad80d3b8b83c68cc4f4b0c5e439c4f  TIMESTAMPS.md
+45cd4d044de71984856d940dbaa7a07a0b6713ce18717228ef57cfdff3cb9264  TIMESTAMPS.md
 121221bcf8aca083aa3bb550f1b699014a8ff49b78e0b376285e99cd37563694  ZENODO.md
 a8cc417f3b0d5fef0ad63625048ccf65219ed91e28752b1157a2d23bfffc3fcd  ZENODO.md.ots
 78f946693383083c30846edc81455c3632f881e32284661580a6d4565e062e85  annual-reports/README.md
@@ -254,10 +254,11 @@ e60121aac6eced48871f99fa301b2a5423a1eeaf615e8d97f39ba3f8eb752f03  white-papers/f
 de8a0930e3b50ca5d1f3f0a9e5d7a97d6ef7a8bc3d56059ef12a733ce9306e5f  white-papers/factory-333-workshop-no-footprint.md.r2.ots
 4b4ee5ac4a08902b72a88b1893eb31e55a381dfb3a659f063780c207a096ab0c  white-papers/factory-333-workshop-no-footprint.md.r3.ots
 338b82223eec1b76d2c7e018867ee5fc838af8fbef0eccea60cf38e37a5f5bb6  white-papers/factory-333-workshop-no-footprint.md.r4.ots
-4f962ad177122966608e1a60cdd61b8090eec9f6cd2c316e077f500efcb71e6a  white-papers/four-bodies-and-the-space-that-holds-them.md
-66b829bcae490da7a02a6c412b7d97aa0572858af9ed494525bbd8635a6165a7  white-papers/four-bodies-and-the-space-that-holds-them.md.ots
+4bbc390b290f0707bb1cf2f79fb2a62400655f5eff895b1e39e65224749991f8  white-papers/four-bodies-and-the-space-that-holds-them.md
+3441aea7f2aa951fd7ae3b123d59db730dd5cdb35a5c6757cd26077e8407b2c1  white-papers/four-bodies-and-the-space-that-holds-them.md.ots
 7c68d9b80b7e94fbcb0cecf5a8acc9f21cae8e2a36ad5a3ddecdeb6659877e20  white-papers/four-bodies-and-the-space-that-holds-them.md.r1.ots
 88be5834fbca95a16e3b0ebd863254cc7cf5ff979efe64d7f4fdf453167068a1  white-papers/four-bodies-and-the-space-that-holds-them.md.r2.ots
+66b829bcae490da7a02a6c412b7d97aa0572858af9ed494525bbd8635a6165a7  white-papers/four-bodies-and-the-space-that-holds-them.md.r3.ots
 5eda310f9c5f5c7ad48d7eae2e21849752587bffef024d080d1454822605641a  white-papers/heartbank-an-introduction.md
 13c96ab4f5388dfd0adc1f406fff5cd147105c238f5592a480e514c480a0168e  white-papers/heartbank-an-introduction.md.ots
 034746b73a0a309e32973951eb1d134e6d57013b0e48996d4a154bd12fd9c888  white-papers/heartbank-an-introduction.md.r1.ots
