@@ -164,7 +164,7 @@ const NO_FRONT_MATTER_DEBT = new Set([]); // the 16 received their blocks 2026-0
 // ported from the TH copy, where the reasoning is written out. A file not listed may not gain it;
 // a listed file that has lost it must leave the list in the same commit. Whitespace-folded.
 const MISSION_PAST = /restore\s+humanity\s+to\s+the\s+middle\s+way|pushed\s+away\s+from\s+at\s+population\s+scale/i;
-const MISSION_PAST_DEBT = new Set(["white-papers/silicon-wat-three-jewels.md"]);
+const MISSION_PAST_DEBT = new Set([]); // silicon-wat-three-jewels repaid 2026-11-06 (A562)
 let missionPastSeen = 0;
 
 /* --------------------------------------------------------------- status ---
