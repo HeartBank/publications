@@ -1,3 +1,12 @@
+### 2026-11-06 (late night) — four-bodies-and-the-space-that-holds-them: two revisions (the 11/06 rulings; then `/polish` r1)
+
+First, the founder's rulings of the evening (#85 fees on the exchange side only; #86 the brake's right and capacity; the held
+account's season; two LLCs carry the running costs). Then the model round: four families blind ($0.94), triage 49 accept /
+26 reject / 12 verify, all ruled by the founder (the pilot leaderboard disclosed and *deprecated in the public version*); one
+batched revision of 55 edits. Controls run first: the Sonnet 5.5 cold control passed the fixture; the H3 lay-reader addendum
+passed its known-failure run for three families (A396 b). Legs: proofs rotated to `.r1`, `.r2`, re-stamped (calendar-only) ·
+`2026-11-07.sha256` · no Zenodo · index 2.5.69, 2.5.70 · heartbank.net redeployed, live text verified. `verify-legs.sh` ✓.
+
 ### 2026-11-06 (night) — four-bodies-and-the-space-that-holds-them: a new white paper, first push (A567; founder: *"New front door + repairs (Recommended)"*, *"New slug; May paper superseded"*, *"approve working option"*)
 
 The front door to the whole institution and estate, for the lay reader (about 5,800 words; 3.3 coined words per 1,000 in the
