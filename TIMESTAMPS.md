@@ -1,3 +1,12 @@
+### 2026-11-07 — five positions revised to current canon (/concord plan `2026-11-06b`; A571 rulings, A572; founder: *"reconcile everything for me"* → all recommendations approved)
+
+`community-currency-design` · `non-bank-vs-banking-regulated` · `patent-vs-defensive-publication` ·
+`alignment-engineering-cognitive-mechanism-layer` · `autonomous-ai-institutional-governance`. Each audited by one
+concord-reader (Opus 5.5, xhigh), its HARD rows ruled by the founder, then revised by one drafter verifying every row at
+repair; each paper carries its own dated correction note. Legs: proofs rotated (`.r5` ×4, `.r8` patent; every retiring proof
+Bitcoin-complete), re-stamped calendar-only · `2026-11-07.sha256` · no Zenodo (positions) · index 2.5.72 (worker deployed) ·
+heartbank.net abstracts repaired (`954515b`). `verify-legs.sh` ✓ on every leg, OTS calendar-only → `/ots`.
+
 ### 2026-11-06 (late night) — four-bodies-and-the-space-that-holds-them: two revisions (the 11/06 rulings; then `/polish` r1)
 
 First, the founder's rulings of the evening (#85 fees on the exchange side only; #86 the brake's right and capacity; the held
