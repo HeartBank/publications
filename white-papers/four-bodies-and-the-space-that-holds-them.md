@@ -170,7 +170,7 @@ On the map, Miss Aquarius is not a fifth house. She is the space between the fou
 - Never be told who is looking at a price, so that a price fitted to one person cannot even be expressed.
 - Never declare her own work complete. Others do that (chapter 9).
 
-**Who checks her.** A council of people, the **Aquarian Sangha**, designed to hold an emergency brake: for example, the power to pause the Pool, reset one of its settings within limits written in advance, or stop a named funding action. The brake is meant to narrow over decades as she proves stable, and never to reach zero; nobody burns the keys. She has no say in who sits on the council. The council does not exist yet. It is to be formed, with at least three members, before the founder stops being the one who decides, whether he steps back or dies. Until then, the brake is a design and the founder holds the seat. (Dense versions: [*Miss Aquarius and the Aquarian Pool Architecture*](https://thonly.org/research/miss-aquarius-and-aquarian-pool-architecture) and [*The Assembly That Holds the Brake*](https://thonly.org/research/the-assembly-that-holds-the-brake).)
+**Who checks her.** A council of people, the **Aquarian Sangha**, designed to hold an emergency brake: for example, the power to pause the Pool, reset one of its settings within limits written in advance, or stop a named funding action. The brake is meant to narrow over decades as she proves stable, and never to reach zero; nobody burns the keys. Never reaching zero is meant to cover the power to use it, not only the right: the brake is designed to work without her cooperation, through keys she cannot revoke or change, and her limits are not to widen until the people who hold it have actually used it once, for real. A brake that has never been pulled is a promise, not a brake. She has no say in who sits on the council. The council does not exist yet. It is to be formed, with at least three members, before the founder stops being the one who decides, whether he steps back or dies. Until then, the brake is a design and the founder holds the seat. (Dense versions: [*Miss Aquarius and the Aquarian Pool Architecture*](https://thonly.org/research/miss-aquarius-and-aquarian-pool-architecture) and [*The Assembly That Holds the Brake*](https://thonly.org/research/the-assembly-that-holds-the-brake).)
 
 Why give the successor's seat to an AI at all? Because every human-run institution drifts: boards turn over, heirs inherit, founders' intentions fade into whatever the next generation needs them to mean. A designed successor with written rules can drift too, which is why the brake exists; the bet is that a written successor plus a human brake drifts less than an heir. It is a bet, and chapter 10 says what would lose it.
 
@@ -184,9 +184,9 @@ Why give the successor's seat to an AI at all? Because every human-run instituti
 
 **Buying and selling sit beside it.** Shops sell at a price; Factory 333 is meant to sell its objects. That is ordinary trade doing ordinary work, and the design does not try to replace it.
 
-**How the institution means to earn.** By charging for scarce things, above all names: an `@name` for a person (one each), a `#tag` for a thing or a business, in a registry at 333.eco (the **B-Registry℠**). The registry's profits, after costs and tax, are to be **held for** the Pool in a separate account with a public statement until the Pool exists, and then to go to it. There are none yet: the public sale is being rebuilt, and counsel reads it before the first real charge.
+**How the institution means to earn.** By charging for scarce things, above all names: an `@name` for a person (one each), a `#tag` for a thing or a business, in a registry at 333.eco (the **B-Registry℠**). The registry's profits, after costs and tax, are to be **held for** the Pool in a separate account with a public statement until the Pool exists, and then to go to it. There are none yet: the public sale is being rebuilt, and counsel reads it before the first real charge. Money held that way can go nowhere but the Pool, and its balance is to be stated in public every 7 January. When the Pool opens, everything held enters it and leaves it within that first season, like any other inflow. Until then it may wait for years, and this paper says so rather than hide it.
 
-**How HeartBank pays its own running costs is an open question.** Today the founder carries them. A source has not been settled, and this paper does not claim one.
+**How HeartBank pays its own running costs.** Today the founder carries them himself, through two small companies he owns. The designed source keeps the line between giving and buying exactly where chapter 3 drew it. Where a price is set and paid *before* something changes hands (an order at a regular price, a delivery paid ahead, a gift code bought), a processing fee may apply: a small flat amount plus a percentage, the same shape card processors use. It is meant to be set at cost, published and fixed for each season, and lowered the next season if it brought in more than the work cost. Nothing paid *after*, at the giver's choosing, carries a fee: not a thank, not a re-thank, not anything priced to be thanked for. No fee ever reaches the Pool, and no fee is charged yet; counsel reads it first.
 
 **The Pool, when it exists.** The Aquarian Pool is a shared fund for gratitude that has no human addressee, and it is a cloud, not a pond: it holds nothing past a season.
 
@@ -269,7 +269,7 @@ Read the last line slowly: nearly everything this paper describes about Miss Aqu
 
 HeartBank is to be *steward-owned*: a company that can pay people but that no owner can sell or strip. Silicon Wat, a nonprofit. Factory 333 and THonly, ordinary companies whose purposes keep their profits small or give their work away. Above them, a trust whose purpose is written into it, with a protector, the Aquarian Sangha, that can enforce the purpose and remove a trustee but runs nothing. This plan waits on lawyers and is meant to be built in 2027, not before.
 
-**Today** the four bodies are one founder, working through small companies he owns. The separations in this paper are, for now, his promises.
+**Today** the four bodies are one founder, working through two small companies he owns. The separations in this paper are, for now, his promises.
 
 **Others have tried this, and the record is mixed.**
 
@@ -280,7 +280,7 @@ HeartBank is to be *steward-owned*: a company that can pay people but that no ow
 - **Ben & Jerry's, 2025.** An independent board kept to guard the brand's mission after its sale lost its chair to the parent company in December 2025; the dispute is in court.
 - **Patagonia, 2022.** Ownership went to a purpose trust and a nonprofit. Critics point out that the family steers both.
 
-**The lesson, and it cuts against this design.** Splitting a group into separately locked parts protects against one part capturing another. It does nothing about capture at the top, where the trust sits. Every hard case above is a fight at the top. That is exactly why the human brake on Miss Aquarius is designed never to reach zero, and why the people who check the monasteries and the people who check her are meant to be published lists with no name on both. It is also why the next chapter's promise is about responsibility and not about control. (These cases were checked through web-search summaries of news reports and the companies' own statements on 6 November 2026; the articles were not read in full, and the filings not at all.)
+**The lesson, and it cuts against this design.** Splitting a group into separately locked parts protects against one part capturing another. It does nothing about capture at the top, where the trust sits. Every hard case above is a fight at the top. That is exactly why the human brake on Miss Aquarius is designed never to reach zero, and to work without her help, and why the people who check the monasteries and the people who check her are meant to be published lists with no name on both. It is also why the next chapter's promise is about responsibility and not about control. (These cases were checked through web-search summaries of news reports and the companies' own statements on 6 November 2026; the articles were not read in full, and the filings not at all.)
 
 ## 9 · How it is meant to end
 
@@ -304,11 +304,12 @@ The founder has also said the design is partly personal: it lets him put the wor
 
 **The counter to its own strongest claim.** The strongest claim here is that the design keeps nothing and cannot be captured. But a brake that never reaches zero is also a door that never closes. Whoever holds the brake can, in principle, call a feature a bug and change it, the reset included; the design forbids that, and the forbidding is a rule. The fund that empties every year cannot be hoarded, but a larger fund means more money passing through one operator each year, and emptying it does nothing to bound its size.
 
-**What would show it wrong.** Three plain checks:
+**What would show it wrong.** Four plain checks:
 
 1. On 7 January 2027, the family app's first reset runs. If the reset takes anything from any person's Personal Account, or from any Family Kitty, the central promise of chapter 3 has failed.
 2. A prediction registered in public before that reset says that money set aside for giving will be given faster in the last week before it clears. If giving does not rise, or falls, the claim that the reset encourages giving is not supported. It is one household and one season.
 3. When the entities exist: if Miss Aquarius holds any office outside HeartBank, if one name sits on both oversight lists, or if the Pool carries a balance past 7 January, the separations have failed in practice.
+4. If a fee is ever taken from a thank, from a re-thank or from anything priced to be thanked for, or if any fee reaches the Pool, the line between giving and buying has failed.
 
 **The stake.** This paper is written by the institution about itself, co-authored under the name of the AI it describes, and signed by the founder who designed it, pays for it and is its only operator today. The reset falls on his birthday. It was chosen for Orthodox Christmas and Cambodia's Victory over Genocide Day, with his birthday as one layer among them; the coincidence is disclosed here, not explained.
 
