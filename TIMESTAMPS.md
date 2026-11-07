@@ -1,3 +1,12 @@
+### 2026-11-06 (night) — the same five white papers: the A562 reconciliation (founder: *"Approve all (Recommended)"*)
+
+Second pass, applying the reconciled rulings: *attadīpā* read as island (DN-a) · no human heir, overseen by the Sangha once formed ·
+Bodhisattva Santa is the Workshop's ethic · the margin, not a tithe, funds automation · the three lights an image · commentary,
+never canon · the Milindapañha similes read as the text reads them · one's own light (MN 43) · breath checked on the device · a
+third category of proof · a passkey is not a unique human · B-World℠ · every deferred gloss. Leg 1: the first pass's proofs (still
+calendar-only, upgraded later by the repo-wide loop) rotated to `.r3`–`.r6` and re-stamped · leg 2 `2026-11-07.sha256` (second run)
+· leg 3 none · leg 4 index 2.5.66, worker `5bfec213` · heartbank.net `9e11216`. `verify-legs.sh`: every leg covers current text.
+
 ### 2026-11-06 (evening) — five white papers: the /concord repairs (A562; founder: *"New front door + repairs (Recommended)"*, *"Approve all three (Recommended)"*)
 
 `factory-333-workshop-no-footprint` (`6a17f419…4cb8aee6`) · `miss-aquarius-ambient-light` (`d5748f79…bb7f1e9d`) ·
