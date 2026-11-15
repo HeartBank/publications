@@ -100,3 +100,7 @@ heartbank.net redeployed (its copy is synced at build; the deployed bundle carri
 | `white-papers/heartbank-heart-that-keeps-nothing` | `.ots` → `.r4.ots`; re-stamped, calendar-only at push | Chronicle earns nothing |
 
 **Chain:** OTS + TSA (`2026-11-15.sha256`, hash matches) + index `@333eco/corpus` 2.5.79. No DOI (positions and white papers). The heartbank.net pages follow at its next build.
+
+### 2026-11-14 (later) — `positions/the-gift-factory`
+
+`.ots` → `.r4.ots`; re-stamped, calendar-only at push (the morning's proof was calendar-only when rotated; `/ots` upgrades archived proofs too). A margin note at §4.7 and a caution at §4.8 (the Tata trusts, from news reports checked against fetched sources, not findings). **Chain:** OTS + TSA (`2026-11-15.sha256`) + index 2.5.80. No DOI (position).
