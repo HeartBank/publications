@@ -104,3 +104,7 @@ heartbank.net redeployed (its copy is synced at build; the deployed bundle carri
 ### 2026-11-14 (later) — `positions/the-gift-factory`
 
 `.ots` → `.r4.ots`; re-stamped, calendar-only at push (the morning's proof was calendar-only when rotated; `/ots` upgrades archived proofs too). A margin note at §4.7 and a caution at §4.8 (the Tata trusts, from news reports checked against fetched sources, not findings). **Chain:** OTS + TSA (`2026-11-15.sha256`) + index 2.5.80. No DOI (position).
+
+### 2026-11-15 — `positions/attention-economy`
+
+`.ots` → `.r7.ots`; re-stamped, calendar-only at push. §6 names the sister bodies' case; *in any form* is untouched. **Chain:** OTS + TSA (`2026-11-15.sha256`) + index 2.5.81. No DOI (position).
