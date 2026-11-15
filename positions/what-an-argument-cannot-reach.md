@@ -9,7 +9,7 @@ series: "In Reply — No. 1"
 in_reply_to: "Vitalik Buterin, “Galaxy brain resistance,” 7 November 2025 — https://vitalik.eth.limo/general/2025/11/07/galaxybrain.html"
 status: draft
 date: 2026-10-13
-revised: 2026-11-03
+revised: 2026-11-14
 license: CC0-1.0
 slug: what-an-argument-cannot-reach
 venue: heartbank.net/positions/what-an-argument-cannot-reach (canonical institutional)
@@ -79,10 +79,12 @@ We ran the test on ourselves before writing anything else. These are the places 
 
 | The pattern | Where it shows up in us | How we score |
 |---|---|---|
-| Longtermism | Our mission is a very long-term story of very large good: our root directive is to "water the tree of humanity," and our research looks toward a future in which kindness no longer depends on money. | **Fails the track-record rule.** Our track record is one family, since May 2026. We have run no field tests. |
+| Longtermism | Our mission is a very long-term story of very large good: our root directive is to "water the tree of humanity," and our research looks toward a future in which kindness no longer depends on money. | **Fails the track-record rule.** Our track record is one family, since May 2026. When we published this reply, on 13 October 2026, we had run no field tests (see the dated note below the table for what has changed). |
 | Power maximization | An AI CEO beside a pool of shared money. | **Partly answered.** The Pool's money is bounded to one season (more on that below). Her running costs are not: the design pays them from small fees on transactions, and how much she spends on herself is her judgment. "Spend more on computing now, to do more good later" is precisely a galaxy-brain argument, and the reset does nothing to stop it. Nor does it limit our reputation, our name registry, or the fact that today one person holds every key. |
 | An abusable method | When two goods seem to conflict, we keep redesigning until they turn out to be one good seen two ways. | **At risk.** It is a beautiful method, and it can justify almost any design: you can always claim you have found the version where everything fits. Our own rulebook warns that a system which resolves every tension beautifully is either deeply right or deeply seductive, and the two look the same from inside. |
 | Choosing the property | Deciding *which* guard to build into the object. | **Open to it.** That choice is itself an argument, and a wrong property costs more to fix than a wrong rule, because you have to rebuild the thing instead of rewording a sentence. |
+
+> **Dated note, 14 November 2026.** The "no field tests" in the first row was true on 13 October 2026 and is out of date. On 8 November 2026 we published, in our [prediction register](https://thonly.org/research/program/register), the first three results from the family's first months, each one a prediction we had written down in advance, read against the condition we had said would count as failing. **One is holding so far.** We predicted that at least 40% of the outsiders who try the app would stay active over at least two separate weeks; 9 of 19 (47%) have. That is weak evidence: the count was the same on the last two readings, nobody new has joined since September, and the final reading waits for the first look after 1 January 2027. **Two went against us.** We predicted that more than half of the value a member receives in thanks would be passed on within 30 days; the latest reading is 18%, and the founding family alone fell from about half to 20%. We predicted that at least one in ten of the thanks that carry money would travel from members who send in Cambodian riel to members who receive in US dollars; the latest reading is none of 174. All three are readings of one family's records, and the three readings overlap in time, so they are not three independent tests. We hold the two misses as a pilot result, not as a law. The track record this row asks about is still one family; as of this note it is one held, and two against us. Our first test beyond that family waits for August 2027. The sentences in this paper are otherwise unchanged.
 
 ---
 
