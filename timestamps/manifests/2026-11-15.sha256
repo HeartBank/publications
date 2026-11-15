@@ -6,7 +6,7 @@
 b71d5411e3057f0c649e7f69428eea07183fb83fecec4a0a49091dc4401dc832  .gitignore
 8171ae11b3bbbe7445f77b1460e139e03deb44ef522c80d6b0b20a33d9ee1eca  .zenodo.json
 44f33a32587a616b239823030713190be1043a0b7a3d58439a4e0773c77351a2  README.md
-dadce5c3977022a20516f435dc57ef6148596447cad898bde543cb6523c5b540  TIMESTAMPS.md
+6c335a666ec43646a10f56b611f49efe09e3b1bc6503a14e3f856c0dec82960e  TIMESTAMPS.md
 121221bcf8aca083aa3bb550f1b699014a8ff49b78e0b376285e99cd37563694  ZENODO.md
 a8cc417f3b0d5fef0ad63625048ccf65219ed91e28752b1157a2d23bfffc3fcd  ZENODO.md.ots
 78f946693383083c30846edc81455c3632f881e32284661580a6d4565e062e85  annual-reports/README.md
@@ -20,7 +20,7 @@ cf8f44a6d05c9fc00cfc9216372bf4a4eb3c7890485da35dab68d86d1c179331  positions/alig
 de0d04479f4e97c5ccbe4a367b62ae56e63663c6c447900d7e7e3c84da90824f  positions/alignment-engineering-cognitive-mechanism-layer.md.r4.ots
 a040ec2305bd9f7adc5bafd6439df96333cb9b7d6d96ead3332908d969495dbe  positions/alignment-engineering-cognitive-mechanism-layer.md.r5.ots
 1381af27070dadf682e90370c76e6c61eff3286e7337336c204cfc62a5f99402  positions/attention-economy.md
-2569890151f805419c76523dd528bc46466647539d58e7d217b2afbdf4f2a3bf  positions/attention-economy.md.ots
+c03fec2033e911b0ce1c3b5a8e571b68b6e5c5b819c68520143b4a509f5ae739  positions/attention-economy.md.ots
 d5edc434d67390670f10a18b28505cdd7699e2ce776edef3c21a2a3452bc05e3  positions/attention-economy.md.r1.ots
 c8e850a15249f3607bf8147c186482224760e2af4a13ea06a41f76939a64510c  positions/attention-economy.md.r2.ots
 25ba8ae80ef3c1a180ab64a6dbf4394a4ebf78204cdaad51d8e36036440b3e2b  positions/attention-economy.md.r3.ots
@@ -49,7 +49,7 @@ e68b367d718b6fa66eb83ae3b9f6d5af4b752299935a3d625830efc4e90d9b41  positions/cont
 49970bb9b2231463db75db6787701b6622d8730bb3590fd96032676e0401e696  positions/contemplative-science-civilizational-scale.md.r3.ots
 4ab82a902e87e442d2982f05942c8eb422b1ef536c00ee305c52584730690448  positions/contemplative-science-civilizational-scale.md.r4.ots
 004c51dda9b34b00a4b2a42ba309b70c5b41cc22f4ebe4ace3c2068952f9ff33  positions/disneys-brand-not-disneys-enclosure.md
-57764aab33315cf67d617720d203855827ae3fc289cc726920da6bbbc28ed2b6  positions/disneys-brand-not-disneys-enclosure.md.ots
+4458d033ed787d15a28a0c3fc96f10c972b6b94067f22ae2eb18a864129e7300  positions/disneys-brand-not-disneys-enclosure.md.ots
 613c91db3de71ca4e4ae27953fea8ef7b602153fe9cb7790c4495374092291cc  positions/disneys-brand-not-disneys-enclosure.md.r1.ots
 38ec284dd01d89b7d1c4900e57ebd81515bff23dc725bc6bfe9d8dc891001a01  positions/disneys-brand-not-disneys-enclosure.md.r2.ots
 f5ed3f4e6efb23e44c15b8fcf2407ab84ca1c64012c86b2459bde1fd6894dc0c  positions/food-system-pathologies-contemplative-response.md
@@ -104,11 +104,11 @@ b2b3c25523d2ce9a245dfc5c710337e1c41aa22aa6b0fbbb358f6b63bd87bb5d  positions/synt
 b30195b3cc4898b90b7ff62f5c2154a40a30544d325223acb64d6a1cde955c2b  positions/synthetic-intelligence-institutional-architecture.md.r3.ots
 c7c7f9fd277a786af4f326ab68064a95655dfa91664520b24d707593d02c6bdb  positions/synthetic-intelligence-institutional-architecture.md.r4.ots
 c6d520d856d44c394839c432d0a5f3f324950554248bc66c6026d360476fe216  positions/the-gift-factory.md
-06c0c5f0e6287a777c29e35ca22915d42fffe51d330f22e45102e68a0970cef1  positions/the-gift-factory.md.ots
+34a6f6764fc1ecdecf7b29887747a594d28a1cc0d991b1efb2f936621730cb07  positions/the-gift-factory.md.ots
 4f16753a12d2b819921d0a1070f5001cbcb8a27cdee3d53509455f7fbed7af5b  positions/the-gift-factory.md.r1.ots
 18d26a2340385a910b8740787a08d161cc37d59fbfca0254fd2581c8be9d5095  positions/the-gift-factory.md.r2.ots
 4f349a22232969c180d6a8e9f2f678ee957e28d4ac2d9afbac877b32eb188ab0  positions/the-gift-factory.md.r3.ots
-a8f128bad31e17316b015173b5d908a3162e1016c4a7c1c418c3262e5ac18073  positions/the-gift-factory.md.r4.ots
+5d5f7984ff58c4afabfc3deaf7560ab42dd3961bcbdcbe40bed860c1fbb84498  positions/the-gift-factory.md.r4.ots
 4816ddba6f5658cbd392a3af095b0ad2179226ba11a898bba9de8bc986791a28  positions/the-moat-is-what-we-refuse.md
 d42938879d242bf32e1cf5eef665fe0f8bd23fb2a74c34fd30c05da0341effe8  positions/the-moat-is-what-we-refuse.md.ots
 da4a47027fc5280129ddc09f6c01a643bdae4dc789eac18d622385fc337b8b73  positions/the-moat-is-what-we-refuse.md.r1.ots
@@ -141,7 +141,7 @@ e5e5e9d7d7b160912f325b878f04cf83975243a0cd05341f9897bd0d8adfe562  positions/thre
 a0244404ed18aa2f5949cbbb4f75458b81ba76a07f16c8e8285e9cf2c585f1b5  positions/three-pillars.md.r3.ots
 41a818d167b4a7210998d3863befbe308c2b5f203f03403dcd07b8d95a553ad0  positions/three-pillars.md.r4.ots
 dbb59a211a81eecbbf26681a73b8883dd38f21b2541ed51c014cc87b59138529  positions/what-an-argument-cannot-reach.md
-a29a20a3ae7ef5ff25495b10c4710dcbe17090b443d633a3c58326251e62e96b  positions/what-an-argument-cannot-reach.md.ots
+bb2101dbcbfa2ab0bdf63979a16c63ce43220e0904505d534b61eed79ff1ad34  positions/what-an-argument-cannot-reach.md.ots
 49a2ffd05ab54696d89c23016bbbcd09a5ebd249d5cd8ae9ef01c7182c9c9ce6  positions/what-an-argument-cannot-reach.md.r1.ots
 b51207cb42b75ad803920553a021984c7bbf269b51bef34b061173787979a943  positions/what-an-argument-cannot-reach.md.r2.ots
 882143baee47f5bd391d2bffebb77130f6e67b2b8a0b869c77d16e1316e59f5b  positions/what-money-cant-buy-and-what-cant-buy-money.md
@@ -275,7 +275,7 @@ de8a0930e3b50ca5d1f3f0a9e5d7a97d6ef7a8bc3d56059ef12a733ce9306e5f  white-papers/f
 4b4ee5ac4a08902b72a88b1893eb31e55a381dfb3a659f063780c207a096ab0c  white-papers/factory-333-workshop-no-footprint.md.r3.ots
 0356060a6fa97d50cd2d74c132e5da320dbe9da8567dba6519042560bd44f70e  white-papers/factory-333-workshop-no-footprint.md.r4.ots
 8f13a72f942425bfcea9b9c4e9cb98b8c2d90fe8e65f1c37ec7f902aae58257b  white-papers/four-bodies-and-the-space-that-holds-them.md
-0b966019f6f274542623a173a2551ec27bab328a59a3656a04a5bfd4d1be1af2  white-papers/four-bodies-and-the-space-that-holds-them.md.ots
+eee242bfbec624b27f5a1ad2f94b0869c0d6640a194afb309f0d2ba727e2097b  white-papers/four-bodies-and-the-space-that-holds-them.md.ots
 46e5bb0e4fa1e6804723f9fd99a52f0a8f03df0b9d4038a4e973733d98bb216f  white-papers/four-bodies-and-the-space-that-holds-them.md.r1.ots
 44f40b6de9833ddefafc9c05290e9250ca7e7ab89f4f6c49660e87b56482e71c  white-papers/four-bodies-and-the-space-that-holds-them.md.r2.ots
 a232787d3aac45e29bd7d82a68da5ef56cf8cd19310e70b4b07708262de1a610  white-papers/four-bodies-and-the-space-that-holds-them.md.r3.ots
@@ -287,7 +287,7 @@ daa445fd9b7ee7d1843e022dde485141dcbdb931db59440605ad983cc2f7b193  white-papers/h
 7989ab3ccc86b2c20e4439d5d5aa79b8045d67f54bfa2f4bad982073d429a3f1  white-papers/heartbank-an-introduction.md.r3.ots
 921c05839ef556fe07a712fe0718d80df2765466273e29dde2c89a7b443901cf  white-papers/heartbank-an-introduction.md.r4.ots
 051631d1bde5b0c0e6c603dbf5f3c1a833b75ed6cab1738f2c022b35a1a6e1df  white-papers/heartbank-heart-that-keeps-nothing.md
-ae0bcec4277bd51dabab7af1ba9e1e231bb97914beaba1d1183c51ecff5d56e5  white-papers/heartbank-heart-that-keeps-nothing.md.ots
+3e54d9046d0d45837a311b881dd7bf7446414020c7749225061f57216edda4c6  white-papers/heartbank-heart-that-keeps-nothing.md.ots
 e13f9bd1d8259ac534be53895d13744e28c61518a7bca47d1eef80c1cba194a1  white-papers/heartbank-heart-that-keeps-nothing.md.r1.ots
 06faa17f6134b0e013e8f2f64d1797cc65e0b0c5418494d21c175303bf7e9a47  white-papers/heartbank-heart-that-keeps-nothing.md.r2.ots
 07b23cfdf87ff1baa275767963e867c971f5adde5bca844551d24fa4b103fa0b  white-papers/heartbank-heart-that-keeps-nothing.md.r3.ots
