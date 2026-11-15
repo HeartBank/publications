@@ -88,3 +88,15 @@ heartbank.net redeployed (its copy is synced at build; the deployed bundle carri
 | `positions/the-person-is-not-the-product` | `.ots` → `.r2.ots` (`da8f0042…53f148cc`, ⚠️ retired calendar-only); new `e5c540ce…7af556bc` | Founder *"3: reconcile"*: ratified guard 7 stated (every question receipted to its subject, no count). Founder *"2: ratify"* (10:10 PDT): guard 1 extends to the proof — a release proof never shows which record it matched. |
 
 **Chain:** OTS + TSA (`2026-09-13.sha256`, hash matches) + index `@333eco/corpus` 2.3.3; heartbank.net redeployed. No DOI (position).
+
+### 2026-11-14 — five revisions (founder: *"reconcile all and push"*)
+
+| File | Proof | Note |
+| --- | --- | --- |
+| `positions/disneys-brand-not-disneys-enclosure` | `.ots` → `.r2.ots`; re-stamped, calendar-only at push | a *Current form* note (the four are bodies; THonly™ is no pillar of HeartBank®) |
+| `positions/the-gift-factory` | `.ots` → `.r3.ots`; re-stamped, calendar-only at push | the same note for Factory 333™ |
+| `positions/what-an-argument-cannot-reach` | `.ots` → `.r2.ots`; re-stamped, calendar-only at push | the register's first field results, dated beside the original sentence |
+| `white-papers/four-bodies-and-the-space-that-holds-them` | `.ots` → `.r4.ots`; re-stamped, calendar-only at push | who pays the running costs; deficit seasons; demand unmeasured |
+| `white-papers/heartbank-heart-that-keeps-nothing` | `.ots` → `.r4.ots`; re-stamped, calendar-only at push | Chronicle earns nothing |
+
+**Chain:** OTS + TSA (`2026-11-15.sha256`, hash matches) + index `@333eco/corpus` 2.5.79. No DOI (positions and white papers). The heartbank.net pages follow at its next build.
