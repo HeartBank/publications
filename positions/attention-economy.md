@@ -7,7 +7,7 @@ genre: positions
 category: mechanism
 status: draft
 date: 2026-05-22
-revised: 2026-11-03
+revised: 2026-11-15
 license: CC0-1.0
 venue: heartbank.net/positions/attention-economy (canonical institutional)
 slug: attention-economy
@@ -89,6 +89,8 @@ What it intends to sell instead is summarised here so that this position can be 
 One more case sits on that same side of the line and is described, not built: a person may one day choose to be paid for looking at an offer, with the institution taking nothing and the buyer never learning who looked. *The Person Is Not the Product* §7a sets it out, concedes where it strains this position's wording, and says the method does not exist yet.
 
 **This falls inside the boundary above rather than carving an exception out of it, and the distinction is the whole of it.** The line this position draws is between *being paid by a third party for access to a person* and *being paid by the person receiving the service*. An answer a person has chosen to make available, priced identically for every subject — one posted price per buyer market, never a price per person — and paid mostly to that person, is **the person granting access and being paid for it** — not the institution selling access to them. If that distinction ever stops being legible in practice, it is this position that governs and the market that yields.
+
+**One more case, named so that nobody has to infer it.** HeartBank has sister bodies that share its founder: THonly™ and Factory 333™ publish apps of their own, and those apps may show advertisements that a person walks over to and chooses to watch. This position does not govern them, because it binds what HeartBank does: the apps published under the HeartBank name, and HeartBank's revenue. Three promises follow, all of them about HeartBank. HeartBank earns nothing from those advertisements. Nothing a person earns by watching them is ever spent inside a HeartBank app. And no HeartBank app is connected to the record that keeps those earnings, so there is no call for an app to make, and nothing has to refuse it. The words *in any form* above lose nothing by this: the paragraph narrows the commitment by no case at all, it only names one the commitment already settles. An advertisement shown in a HeartBank app, or money that came from one, would be a breach, whatever the sister bodies do in their own apps.
 
 What the commitment does **not** exclude is worth stating with equal precision, because an over-broad reading would make the institution unable to operate. It does not exclude charging money. It does not exclude subscriptions, or charging for genuinely rivalrous goods such as compute and storage, or a business paying for tools it uses itself. The line is not between free and paid. **It is between being paid by the person receiving the service and being paid by a third party for access to that person's attention.**
 
